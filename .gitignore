@@ -1,4 +1,3 @@
+# Large files (>50MB) — use yabomish build tools to regenerate
+*.parquet
 .DS_Store
-__pycache__/
-*.pyc
-data/wiki_work/
