@@ -1,3 +1,4 @@
 # Large files (>50MB) — use yabomish build tools to regenerate
 *.parquet
 .DS_Store
+naer/csv/
