@@ -1,0 +1,4309 @@
+ID,英文名稱,中文名稱,圖片,更新日期
+3226693,3-dimension surface model,三维地表模型,,2017-08-08
+3226694,A/D conversion,類比-數位轉換,,2017-08-08
+3226695,absolute altitude,絕對高程,,2017-08-08
+3226696,absolute coordinate,絕對坐標,,2017-08-08
+3226697,absolute position,絕對位置,,2017-08-08
+3226698,absorption,吸收,,2017-08-08
+3226699,abstract data type{=ADT},抽象資料類型,,2017-08-08
+3226700,abstraction,抽象化,,2017-08-08
+3226701,access,存取,,2017-08-08
+3226702,access control,存取控制,,2017-08-08
+3226703,access directory,存取目錄,,2017-08-08
+3226704,access level,存取等級,,2017-08-08
+3226705,access method,存取方法,,2017-08-08
+3226706,access path,存取路徑,,2017-08-08
+3226707,access right,存取權限,,2017-08-08
+3226708,access security,存取安全性,,2017-08-08
+3226709,access technology,存取技術,,2017-08-08
+3226710,access time,存取時間,,2017-08-08
+3226711,access type,存取類型,,2017-08-08
+3226712,accessibility,可存取性；易達性,,2017-08-08
+3226713,account,帳號,,2017-08-08
+3226714,account name,帳戶名稱,,2017-08-08
+3226715,accuracy,準確度,,2017-08-08
+3226716,accuracy assessment,準確度評估,,2017-08-08
+3226717,ACSM{=American congress on surveying and mapping},美國測量及繪圖學會,,2017-08-08
+3226718,active database,現用資料庫,,2017-08-08
+3226719,active sensor,主動式感測器,,2017-08-08
+3226720,active tracking system,主動式追蹤系統,,2017-08-08
+3226721,ADA{=automatic data acquisition},自動資料獲取,,2017-08-08
+3226722,additive primary colors,加色{=法}三原色,,2017-08-08
+3226723,address,位址；地址,,2017-08-08
+3226724,address access type,位址存取類型,,2017-08-08
+3226725,address bus,位址匯流排,,2017-08-08
+3226726,address coding,位址編碼,,2017-08-08
+3226727,address matching,地址對位,,2017-08-08
+3226728,address range,地址範圍,,2017-08-08
+3226729,addressing,定址；尋址,,2017-08-08
+3226730,adjacency,相鄰,,2017-08-08
+3226731,adjacency analysis,相鄰性分析,,2017-08-08
+3226732,adjacent areas,相鄰區域,,2017-08-08
+3226733,adjoining sheets,圖幅接合表,,2017-08-08
+3226734,ADS{=automated digitizing system},自動數化系統,,2017-08-08
+3226735,ADT{=abstract data type },抽象資料類型,,2017-08-08
+3226736,advanced very high resolution radiometer{=AVHRR},進階極高解析度輻射儀,,2017-08-08
+3226738,aerial photograph,航照;航空照片,,2017-08-08
+3226739,aerial photograph interpretation,航照判讀,,2017-08-08
+3226740,aerial triangulation,空中三角測量,,2017-08-08
+3226741,affine transformation,仿射轉換,,2017-08-08
+3226742,agent,代理人{=程式}；行動者,,2017-08-08
+3226743,aggregation,聚合,,2017-08-08
+3226744,AI{=artificial intelligence},人工智慧,,2017-08-08
+3226745,airphoto,航空像片,,2017-08-08
+3226746,Albers projection,亞爾勃斯投影,,2017-08-08
+3226747,algebraic model,代數模型,,2017-08-08
+3226748,algorithm,演算法,,2017-08-08
+3226749,aliase,別名,,2017-08-08
+3226750,aliasing,混淆現象,,2017-08-08
+3226751,allocation,分派；配置,,2017-08-08
+3226752,along-track scanning,沿軌掃描,,2017-08-08
+3226753,alphanumeric,文數字,,2017-08-08
+3226754,alphanumeric symbol,文數字符虢,,2017-08-08
+3226755,altitude,高度,,2017-08-08
+3226756,altitude angle,高度角;仰角,,2017-08-08
+3226757,altitude matrix,高度矩陣,,2017-08-08
+3226758,altitude tinting,分層設色,,2017-08-08
+3226759,AM/FM{=automated mapping/facilities management system},自動繪圖/設施管理系統,,2017-08-08
+3226760,American congress on surveying and mapping {=ACSM},美國測量及繪圖學會,,2017-08-08
+3226761,American National Standards Institute {=ANSI},美國國家標準協會,,2017-08-08
+3226762,American Society for Photogrammetry and Remote Sensing {=ASPRS},美國攝影測量及遙感探測學會,,2017-08-08
+3226764,American Standard Code for Information Interchange {=ASCII},美國標準資訊交換碼,,2017-08-08
+3226765,American Standard Code for Information Interchange{=ASCII},美國標準資訊交換碼,,2017-08-08
+3226766,AML{=ARC macro language},ARC巨集語言,,2017-08-08
+3226767,anaglyph,互補色,,2017-08-08
+3226768,anaglyph map,互補色立體圖,,2017-08-08
+3226769,analog map,類比地圖,,2017-08-08
+3226770,analog/digital conversion,類比-數位轉換,,2017-08-08
+3226771,analog/digital device,類比-數位轉換裝置,,2017-08-08
+3226772,analytical plotter,解析繪圖儀,,2017-08-08
+3226773,analytical triangulation,解析三角測量,,2017-08-08
+3226774,ancillary data,輔助資料,,2017-08-08
+3226775,animation,動畫,,2017-08-08
+3226776,anisotropic,非等向性,,2017-08-08
+3226777,annotated orthophoto,註記正射像片,,2017-08-08
+3226778,annotated photograph,註記像片,,2017-08-08
+3226779,annotation,註記,,2017-08-08
+3226780,ANSI{=American National Standards Institute},美國國家標準協會,,2017-08-08
+3226781,anti-spoofing {=AS},反愚效應,,2017-08-08
+3226782,anti-spoofing{=AS},反愚效應,,2017-08-08
+3226783,API{=application programming interface },應用程式介面,,2017-08-08
+3226784,applet,小型應用程式,,2017-08-08
+3226785,application,應用{=程式},,2017-08-08
+3226786,application developer,應用程式開發者,,2017-08-08
+3226787,application domain model,應用領域模型,,2017-08-08
+3226788,application integration,應用軟體整合,,2017-08-08
+3226789,application model,應用模型,,2017-08-08
+3226790,application package,應用套裝軟體,,2017-08-08
+3226791,application platform,應用程式平台,,2017-08-08
+3226792,application portability,應用程式可攜性,,2017-08-08
+3226793,application program,應用程式,,2017-08-08
+3226794,application programming interface {=API},應用程式介面,,2017-08-08
+3226795,application schema,應用綱要,,2017-08-08
+3226796,application service,應用程式服務,,2017-08-08
+3226797,application service provider {=ASP},應用服務供應者,,2017-08-08
+3226798,application service provider{=ASP},應用服務供應者,,2017-08-08
+3226799,application shortcut key,應用程式快捷鍵,,2017-08-08
+3226800,application software,應用軟體,,2017-08-08
+3226801,application system,應用系統,,2017-08-08
+3226802,approximate interpolation,近似內插法,,2017-08-08
+3226803,arbitrary projection,任意投影,,2017-08-08
+3226804,arc,弧{=線},,2017-08-08
+3226805,ARC macro language {=AML},ARC巨集語言,,2017-08-08
+3226806,archival storage,歸檔儲存,,2017-08-08
+3226807,archive,歷史檔案,,2017-08-08
+3226808,archiving,歸檔,,2017-08-08
+3226809,arc-node data model,弧點資料模式,,2017-08-08
+3226810,arc-node structure,弧點結構,,2017-08-08
+3226811,arc-node topology,弧點位相關係,,2017-08-08
+3226812,area,面；面積,,2017-08-08
+3226813,area buffer,面環域,,2017-08-08
+3226814,area data,面資料,,2017-08-08
+3226815,area generalization,面概括化,,2017-08-08
+3226816,area of interest,選取區；關注區,,2017-08-08
+3226817,area patch generalization,面概括化,,2017-08-08
+3226818,area symbol,面{=狀}符號,,2017-08-08
+3226819,array,陣列,,2017-08-08
+3226820,array processor,陣列處理器,,2017-08-08
+3226821,artificial intelligence {=AI},人工智慧,,2017-08-08
+3226822,artificial neural network,人工類神經網路,,2017-08-08
+3226823,AS{=anti-spoofing},反愚效應,,2017-08-08
+3226824,ASCII{=American Standard Code for Information Interchange},美國標準資訊交換碼,,2017-08-08
+3226825,ASP{=application service provider},應用服務供應者,,2017-08-08
+3226826,aspatial data,非空間資料,,2017-08-08
+3226827,aspect,坡向,,2017-08-08
+3226828,aspect analysis,坡向分析,,2017-08-08
+3226829,aspect map,坡向圖,,2017-08-08
+3226831,assembly language,組合語言,,2017-08-08
+3226832,associated data,關聯資料,,2017-08-08
+3226833,asynchronism,非同步,,2017-08-08
+3226834,asynchronous communication,非同步通訊,,2017-08-08
+3226835,asynchronous request,非同步請求,,2017-08-08
+3226836,asynchronous transfer,非同步傳輸,,2017-08-08
+3226837,atemporal data,非時間性資料,,2017-08-08
+3226838,atemporal database,非時間性資料庫,,2017-08-08
+3226839,atmospheric absorption,大氣吸收,,2017-08-08
+3226840,atmospheric correction,大氣效應校正，大氣改正,,2017-08-08
+3226841,atmospheric path length,大氣路徑長度,,2017-08-08
+3226842,atmospheric path radiance,大氣路徑輻射,,2017-08-08
+3226843,atmospheric window,大氣窗,,2017-08-08
+3226844,atomic value,基元值,,2017-08-08
+3226845,attenuation,衰減,,2017-08-08
+3226846,attitude,姿態,,2017-08-08
+3226847,attraction,吸引力,,2017-08-08
+3226848,attribute,屬性,,2017-08-08
+3226849,attribute aggregation,屬性聚集,,2017-08-08
+3226850,attribute classification,屬性分類,,2017-08-08
+3226851,attribute code,屬性代碼,,2017-08-08
+3226852,attribute coding schema,屬性編碼綱要,,2017-08-08
+3226853,attribute data,屬性資料,,2017-08-08
+3226854,attribute definition,屬性定義,,2017-08-08
+3226855,attribute disaggregating,屬性分解,,2017-08-08
+3226856,attribute domain,屬性值域,,2017-08-08
+3226857,attribute linkage,屬性連接,,2017-08-08
+3226858,attribute query,屬性查詢,,2017-08-08
+3226859,attribute reclassification,屬性再分類,,2017-08-08
+3226860,attribute sampling,屬性抽樣,,2017-08-08
+3226861,attribute search,屬性搜尋,,2017-08-08
+3226862,attribute set,屬性集,,2017-08-08
+3226863,attribute summary statistics,屬性摘要統計,,2017-08-08
+3226864,attribute table,屬性表,,2017-08-08
+3226865,attribute tag,屬性標記,,2017-08-08
+3226866,attribute tagging,屬性標示,,2017-08-08
+3226867,attribute type,屬性類型,,2017-08-08
+3226868,attribute value,屬性值,,2017-08-08
+3226869,autocorrelation,自相關,,2017-08-08
+3226870,automated cartographic system,自動地圖系統,,2017-08-08
+3226871,automated cartography,自動化地圖學,,2017-08-08
+3226872,automated data processing,自動資料處理,,2017-08-08
+3226873,automated digitizing,自動數化,,2017-08-08
+3226874,automated digitizing system{=ADS},自動數化系統,,2017-08-08
+3226875,automated drafting system,自動繪圖系統,,2017-08-08
+3226876,automated feature recognition,自動特徵辨識,,2017-08-08
+3226877,automated indexing technique,自動索引技術,,2017-08-08
+3226878,automated inspection,自動檢查,,2017-08-08
+3226879,automated mapping/facilities management system{=AM/FM},自動繪圖/設施管理系統,,2017-08-08
+3226880,automated name placement,自動地名配置,,2017-08-08
+3226881,automated vectorization,自動向量化,,2017-08-08
+3226882,automatic data acquisition{=ADA},自動資料獲取,,2017-08-08
+3226883,AVHRR{=advanced very high resolution radiometer},進階極高解析度輻射儀,,2017-08-08
+3226884,azimuth,方位角,,2017-08-08
+3226885,azimuth coordinate,方位坐標,,2017-08-08
+3226886,azimuthal equal-area projection,等積方位投影；方位等積投影,,2017-08-08
+3226887,azimuthal equidistant projection,等距方位投影；方位等距投影,,2017-08-08
+3226888,azimuthal projection,方位投影,,2017-08-08
+3226889,backscatter,反向散射,,2017-08-08
+3226890,backup,備份,,2017-08-08
+3226891,band,波段,,2017-08-08
+3226892,band interleaving format,波段交錯格式,,2017-08-08
+3226893,band pass filter,帶通濾波器,,2017-08-08
+3226894,band ratio,波段比,,2017-08-08
+3226895,band sequential format,波段循序格式,,2017-08-08
+3226896,bandwidth,頻寬；帶寬,,2017-08-08
+3226897,base height,基準高程,,2017-08-08
+3226898,base height ratio,航高基線比,,2017-08-08
+3226899,base layer,基礎圖層,,2017-08-08
+3226900,base map,底圖,,2017-08-08
+3226901,base station,基站；基點,,2017-08-08
+3226902,baseline,基線,,2017-08-08
+3226903,batch file,批次檔,,2017-08-08
+3226904,batch mode,批次模式,,2017-08-08
+3226905,batch process,批次處理,,2017-08-08
+3226906,batch queue,批次佇列,,2017-08-08
+3226907,bathymetric map,海底地形圖,,2017-08-08
+3226908,bathymetry,測深學,,2017-08-08
+3226909,baud rate,鮑率,,2017-08-08
+3226910,Bayes' theorem,貝氏理論,,2017-08-08
+3226911,Bayesian statistics,貝氏統計,,2017-08-08
+3226912,bearing,方向角；象限角,,2017-08-08
+3226913,Beijing geodetic coordinate system 1954,1954年北京坐標系,,2017-08-08
+3226915,benchmark,基準；水準點,,2017-08-08
+3226916,benchmark testing,基準測試,,2017-08-08
+3226917,best linear unbiased estimate={ BLUE},最佳不偏線性推估,,2017-08-08
+3226918,bilinear interpolation,雙線性內插,,2017-08-08
+3226919,binary,二元；二進位,,2017-08-08
+3226920,binary code,二進位碼,,2017-08-08
+3226921,binary large object,二進位大型物件,,2017-08-08
+3226922,binding,連結,,2017-08-08
+3226923,bit,位元,,2017-08-08
+3226924,bit depth,位元數,,2017-08-08
+3226925,bit map,點陣圖,,2017-08-08
+3226926,bit pattern,位元型樣,,2017-08-08
+3226927,bitmask,位元遮罩,,2017-08-08
+3226928,bits-per-second,每秒位元數,,2017-08-08
+3226930,block,區；街區,,2017-08-08
+3226931,block attribute,街區屬性,,2017-08-08
+3226932,block code,塊碼,,2017-08-08
+3226933,block correction,區塊改正,,2017-08-08
+3226934,block number,街區編號,,2017-08-08
+3226935,block numbering area{=BNA},街區編號區,,2017-08-08
+3226936,block point,街區標示點,,2017-08-08
+3226937,blocked record,成塊記錄,,2017-08-08
+3226938,BLUE={best linear unbiased estimate},最佳不偏線性推估,,2017-08-08
+3226939,Boolean expression,布林運算式,,2017-08-08
+3226940,Boolean operators,布林運算子,,2017-08-08
+3226941,border,邊緣；邊界,,2017-08-08
+3226942,border arc,邊界弧,,2017-08-08
+3226943,border box,邊框,,2017-08-08
+3226944,border information,圖廓註記,,2017-08-08
+3226945,border line,圖廓線,,2017-08-08
+3226946,boundary,邊界,,2017-08-08
+3226947,boundary monument,界樁；界碑,,2017-08-08
+3226948,boundary survey,邊界測量,,2017-08-08
+3226949,bounding rectangle,外接矩形,,2017-08-08
+3226950,bps,每秒位元數,,2017-08-08
+3226951,breakline,斷線,,2017-08-08
+3226952,brightness,亮度,,2017-08-08
+3226953,broad band network,寬頻網路,,2017-08-08
+3226954,broadcast ephemeris,廣播星曆,,2017-08-08
+3226955,browser,瀏覽器,,2017-08-08
+3226956,B-spline,B雲規,,2021-11-29
+3226957,B-tree,二元樹,,2017-08-08
+3226958,buffer,環域,,2017-08-08
+3226959,buffer analysis,環域分析,,2017-08-08
+3226960,buffer zone,環域,,2017-08-08
+3226961,bug,程式錯誤,,2017-08-08
+3226962,bulk update,大量更新,,2017-08-08
+3226963,bus,匯流排,,2017-08-08
+3226964,byte,位元組,,2017-08-08
+3226965,C/A code,C/A{=電}碼；粗碼,,2017-08-08
+3226966,cache,快取區；快取,,2017-08-08
+3226967,cadastral attribute,地籍屬性,,2017-08-08
+3226968,cadastral database,地籍資料庫,,2017-08-08
+3226969,cadastral feature,地籍圖徵,,2017-08-08
+3226970,cadastral information,地籍資訊,,2017-08-08
+3226971,cadastral information system,地籍資訊系統,,2017-08-08
+3226972,cadastral inventory,地籍清查；地籍清冊,,2017-08-08
+3226973,cadastral layer,地籍圖層,,2017-08-08
+3226974,cadastral management,地籍管理,,2017-08-08
+3226975,cadastral map,地籍圖,,2017-08-08
+3226976,cadastral mapping,地籍製圖,,2017-08-08
+3226977,cadastral overlay,地籍圖套疊,,2017-08-08
+3226978,cadastral plan,地籍圖,,2017-08-08
+3226979,cadastral survey,地籍測量,,2017-08-08
+3226980,cadastre,地籍,,2017-08-08
+3226981,calibration,率定；檢定,,2017-08-08
+3226982,Canada Geographic Information System={CGIS},加拿大地理資訊系統,,2017-08-08
+3226983,candidate key,候選鍵,,2017-08-08
+3226984,capability test,性能測試,,2017-08-08
+3226985,cardinal points,基本方位點,,2017-08-08
+3226986,cardinality,基數,,2017-08-08
+3226987,carrier,載波,,2017-08-08
+3226988,carrier frequency,載波頻率,,2017-08-08
+3226989,carrier phase,載波相位,,2017-08-08
+3226990,carrier phase measurement,載波相位量測,,2017-08-08
+3226991,carrier-aided tracking,載波輔助追蹤,,2017-08-08
+3226992,carrying contour,併合等高線,,2017-08-08
+3226993,Cartesian product,笛卡兒積,,2017-08-08
+3226994,cartogram,面積變量圖,,2017-08-08
+3226995,cartographer,地圖家；地圖製圖員,,2017-08-08
+3226996,cartographic analysis,地圖分析,,2017-08-08
+3226997,cartographic communication,地圖傳播,,2017-08-08
+3226998,cartographic data,地圖資料,,2017-08-08
+3226999,cartographic data model,地圖資料模式,,2017-08-08
+3227000,cartographic database,地圖資料庫,,2017-08-08
+3227001,cartographic database management system,地圖資料庫管理系統,,2017-08-08
+3227002,cartographic expert system,地圖專家系統,,2017-08-08
+3227003,cartographic generalization,地圖概括化,,2017-08-08
+3227004,cartographic information,地圖資訊,,2017-08-08
+3227005,cartographic information system,地圖資訊系統,,2017-08-08
+3227006,cartographic language,地圖語言,,2017-08-08
+3227007,cartographic modeling,地圖建模；地圖模擬,,2017-08-08
+3227008,cartographic modeling language,地圖建模語言,,2017-08-08
+3227009,cartographic semantics,地圖語意,,2017-08-08
+3227010,cartographic seminology,地圖符號學,,2017-08-08
+3227011,cartographic simplification,地圖簡化,,2017-08-08
+3227012,cartographic symbol,地圖符號,,2017-08-08
+3227013,cartography,地圖學,,2017-08-08
+3227014,celestial sphere,天球,,2017-08-08
+3227016,cell,網格；細胞；圖元,,2017-08-08
+3227017,cell resolution,網格解析度,,2017-08-08
+3227018,cell size,網格大小,,2017-08-08
+3227019,cell statistics,網格統計,,2017-08-08
+3227020,cell structure,網格結構,,2017-08-08
+3227021,cellular automata,細胞自動機,,2017-08-08
+3227022,census block,人口普查小區,,2017-08-08
+3227023,census geography,人口普查地理,,2017-08-08
+3227024,census tract,人口普查區,,2017-08-08
+3227025,center line,中心線,,2017-08-08
+3227026,center point,中心點,,2017-08-08
+3227027,centerline vectorization,中心線向量化,,2017-08-08
+3227028,central meridian,中央子午線,,2017-08-08
+3227029,central perspective,中心透視,,2017-08-08
+3227030,central processing unit｛=CPU｝,中央處理器,,2017-08-08
+3227031,centroid,形心,,2017-08-08
+3227032,CGIS={Canada Geographic Information System},加拿大地理資訊系統,,2017-08-08
+3227033,chain,鏈,,2017-08-08
+3227034,chain code,鏈碼,,2017-08-08
+3227035,chain node graph,鏈節點圖,,2017-08-08
+3227036,chambered spirit level,氣室水準器,,2017-08-08
+3227037,change detection,變遷偵測,,2017-08-08
+3227038,channel,波段,,2017-08-08
+3227039,character,字元,,2017-08-08
+3227040,character set,字元集,,2017-08-08
+3227041,characteristic curve,特徵曲線,,2017-08-08
+3227042,charge coupled device {= CCD},電荷耦合裝置,,2017-08-08
+3227043,charge coupled device camera {=CCD camera},電荷耦合攝影機,,2017-08-08
+3227044,chart,航圖；海圖；圖表,,2017-08-08
+3227045,check plot,檢核圖,,2017-08-08
+3227046,check-in,簽入,,2017-08-08
+3227047,checkout,簽出,,2017-08-08
+3227048,checkout geodatabase,簽出空間資料庫,,2017-08-08
+3227049,checkout version,簽出版本,,2017-08-08
+3227050,chi-squared statistic,卡方統計,,2017-08-08
+3227051,chorochromatic map,分區設色圖,,2017-08-08
+3227052,chorographic map,輿圖,,2017-08-08
+3227053,choropleth,面量圖,,2017-08-08
+3227054,choropleth map,面量圖,,2017-08-08
+3227055,chroma,彩度；色度,,2017-08-08
+3227056,chromometer,比色計,,2017-08-08
+3227057,circle,圓,,2017-08-08
+3227058,circular arc,圓弧,,2017-08-08
+3227059,civilian code,民用代碼,,2017-08-08
+3227060,class identifier,類別標識碼,,2017-08-08
+3227061,class interval,分級間距,,2017-08-08
+3227062,class list,分類清單,,2017-08-08
+3227063,classification,分類,,2017-08-08
+3227064,classification accuracy,分類準確性,,2017-08-08
+3227065,classification code,分類碼,,2017-08-08
+3227066,classification rule,分類規則,,2017-08-08
+3227067,classification schema,分類綱要,,2017-08-08
+3227068,classification table,分類表,,2017-08-08
+3227069,classified image,分類影像,,2017-08-08
+3227070,clean data,資料整理,,2017-08-08
+3227071,clearinghouse,資料交換中心,,2017-08-08
+3227072,clearinghouse node,資料交換節點,,2017-08-08
+3227073,client,客戶端,,2017-08-08
+3227074,client/server architecture｛= C/S｝,主從架構,,2017-08-08
+3227075,client/server｛=C/S｝,主從架構,,2017-08-08
+3227076,clinometric map,坡度圖,,2017-08-08
+3227077,clip,裁切；裁取,,2017-08-08
+3227078,clipping window,裁取視窗,,2017-08-08
+3227079,closure error,閉合差,,2017-08-08
+3227080,cluster,群聚,,2017-08-08
+3227081,cluster analysis,群聚分析,,2017-08-08
+3227082,cluster coding,群聚編碼,,2017-08-08
+3227083,cluster computer,叢集計算機,,2017-08-08
+3227084,cluster control unit,叢集控制單元,,2017-08-08
+3227085,cluster labeling,群聚標示,,2017-08-08
+3227086,cluster map,群聚圖,,2017-08-08
+3227087,cluster tolerance,群聚容許值,,2017-08-08
+3227088,cluster zoning,群聚分區,,2017-08-08
+3227089,clustering,分群,,2017-08-08
+3227090,coarse acquisition code,C/A{=電}碼；粗碼,,2017-08-08
+3227091,code,代碼,,2017-08-08
+3227092,code phase GPS,GPS相位碼,,2017-08-08
+3227093,coded value domain,編碼值域,,2017-08-08
+3227094,coding,編碼,,2017-08-08
+3227095,co-Kriging,聯合克利金法,,2017-08-08
+3227096,color,色彩,,2017-08-08
+3227097,color composition,色彩合成,,2017-08-08
+3227098,color map,彩色地圖,,2017-08-08
+3227099,color model,色彩模型,,2017-08-08
+3227100,color ramp,色彩梯度；色階,,2021-04-12
+3227101,color table,色表,,2017-08-08
+3227102,column,行;欄,,2017-08-08
+3227103,COM interface,COM介面,,2017-08-08
+3227104,combinatorial operator,組合運算子,,2017-08-08
+3227105,combo box,下拉式組合方塊,,2017-08-08
+3227106,COM-compliant language,COM相容語言,,2017-08-08
+3227107,command,指令,,2017-08-08
+3227108,command bar,指令選單;指令列,,2017-08-08
+3227109,command line,指令行,,2017-08-08
+3227110,command line interface,指令行介面,,2017-08-08
+3227111,command line window,指令行視窗,,2017-08-08
+3227112,command procedure,指令程序,,2017-08-08
+3227113,command prompt window,指令提示視窗,,2017-08-08
+3227114,comment,註釋,,2017-08-08
+3227115,commission error,誤授,,2017-08-08
+3227116,common data architecture,通用資料結構,,2017-08-08
+3227117,common gateway interface {=CGI},通用閘道介面,,2017-08-08
+3227118,common gateway interface script {=CGI script},CGI指令碼,,2017-08-08
+3227119,common language runtime {=CLR},CLR執行環境,,2017-08-08
+3227120,common object model {=COM},COM模型,,2017-08-08
+3227121,common object request broker architecture {=CORBA},CORBA架構,,2017-08-08
+3227122,communication,通信;通訊,,2017-08-08
+3227123,communication service interface {=CSI},通信服務介面,,2017-08-08
+3227124,compact disc,光碟,,2017-08-08
+3227125,compass,羅盤;指北針;羅盤儀,,2017-08-08
+3227126,compile,編譯,,2017-08-08
+3227127,compiler,編譯器,,2017-08-08
+3227128,compiler language,編譯器語言,,2017-08-08
+3227129,complementary color,互補色,,2017-08-08
+3227130,completeness,完整性,,2017-08-08
+3227131,complex dynamic event,複合動態事件,,2017-08-08
+3227132,complex edge feature,複合線性圖徵,,2017-08-08
+3227133,complex feature,複合圖徵,,2017-08-08
+3227134,complex junction feature,複合接點圖徵,,2017-08-08
+3227135,complex object,複合物件,,2017-08-08
+3227136,complex polygon,複合多邊形,,2017-08-08
+3227137,complex surface,複合表面,,2017-08-08
+3227138,component,元件,,2017-08-08
+3227139,component category,元件類別,,2017-08-08
+3227140,component category manager,元件類別管理員,,2017-08-08
+3227141,component GIS,元件式地理資訊系統,,2017-08-08
+3227142,component object model {=COM},元件物件模型,,2017-08-08
+3227143,componentware,元件軟體,,2017-08-08
+3227144,composite feature,複合圖徵,,2017-08-08
+3227145,composite index,複合索引,,2017-08-08
+3227146,composite indicator,複合指標,,2017-08-08
+3227147,composite loopback,複合循環，複合回送,,2017-08-08
+3227148,composite map,複合地圖；合成地圖；組合地圖,,2017-08-08
+3227149,composite mapping,複合製圖,,2017-08-08
+3227150,composite relationship,組合關係,,2017-08-08
+3227151,composite weight,組合權重,,2017-08-08
+3227152,composition,組成,,2017-08-08
+3227153,compound element,複合元素,,2017-08-08
+3227154,compression,壓縮,,2017-08-08
+3227155,compromise projection,折衷投影,,2017-08-08
+3227156,computation network,計算網形,,2017-08-08
+3227157,computation state,計算狀態,,2017-08-08
+3227158,computation tool,計算工具,,2017-08-08
+3227159,computer aided design {=CAD},電腦輔助設計,,2017-08-08
+3227160,computer aided engineering {=CAE},電腦輔助工程,,2017-08-08
+3227161,computer aided mapping {=CAM},電腦輔助製圖,,2017-08-08
+3227162,computer aided software engineering {=CASE},電腦輔助軟體工程,,2017-08-08
+3227163,computer compatible tape {=CCT},電腦相容磁帶,,2017-08-08
+3227164,computer graphic metafile {=CGM},電腦圖形元檔案,,2017-08-08
+3227165,computer graphics,電腦圖學,,2017-08-08
+3227166,computer graphics technology,電腦繪圖科技,,2017-08-08
+3227167,computer integrated manufacture system {=CIMS},電腦整合製造系統,,2017-08-08
+3227168,computer integrated test equipment {=CITE},電腦綜合測試設備,,2017-08-08
+3227169,computer mapping,電腦製圖,,2017-08-08
+3227170,computer network,電腦網路,,2017-08-08
+3227171,computer-assisted assessment,電腦輔助評估,,2017-08-08
+3227172,computer-assisted cartography,電腦輔助繪圖,,2017-08-08
+3227173,computer-assisted retrieval,電腦輔助檢索,,2017-08-08
+3227174,concatenate events,連接事件,,2017-08-08
+3227175,concatenated key,連結鍵,,2017-08-08
+3227176,concave polygon,凹多邊形,,2017-08-08
+3227177,conceptual model,概念模型,,2017-08-08
+3227178,conceptual schema,概念綱要,,2017-08-08
+3227179,conceptual schema language,概念綱要語言,,2017-08-08
+3227180,concurrency management,平行管理,,2017-08-08
+3227181,concurrent use,平行應用,,2017-08-08
+3227182,condition table,條件表,,2017-08-08
+3227183,conditional expression,條件表達式,,2017-08-08
+3227184,conditional operator,條件運算子,,2017-08-08
+3227185,conditional pattern,條件型態,,2017-08-08
+3227186,conditional statement,條件表達式,,2017-08-08
+3227187,configuration file,配置文件,,2017-08-08
+3227188,configuration keyword,配置關鍵字,,2017-08-08
+3227189,conflation,合併,,2017-08-08
+3227190,conflict,衝突,,2017-08-08
+3227191,conflict resolution,衝突解決方案,,2017-08-08
+3227192,conformal projection,正形投影；等角投影,,2017-08-08
+3227193,conformance,符合性,,2017-08-08
+3227194,conformance assessment,符合性評估,,2017-08-08
+3227195,conformance clause,符合性條款,,2017-08-08
+3227196,conformance quality level,符合性品質水準,,2017-08-08
+3227197,conformance test report,符合性測試報告,,2017-08-08
+3227198,conformance test suite,符合測試套件,,2017-08-08
+3227199,conformance testing,符合性測試,,2017-08-08
+3227200,conforming implementation,符合性實作,,2017-08-08
+3227201,confusion matrix,誤差矩陣；混淆矩陣,,2017-08-08
+3227202,conical projection,圓錐投影,,2017-08-08
+3227203,conjoint boundary,相連界線,,2017-08-08
+3227204,connected node,連接節點,,2017-08-08
+3227205,connection,連接,,2017-08-08
+3227206,connectivity,連結性,,2017-08-08
+3227207,connectivity analysis,連結性分析,,2017-08-08
+3227208,connectivity rule,連結規則,,2017-08-08
+3227209,connector,連接器,,2017-08-08
+3227210,consistency,一致性,,2017-08-08
+3227211,constrained adjustment,約制平差,,2017-08-08
+3227212,constraint,約制,,2017-08-08
+3227213,content standard for digital geospatial metadata,數位地理空間詮釋資料內容標準,,2017-08-08
+3227214,conterminous,相接的,,2017-08-08
+3227215,contiguity,相鄰性,,2017-08-08
+3227216,contiguity analysis,接鄰分析,,2017-08-08
+3227217,continuous data,連續性資料,,2017-08-08
+3227218,continuous feature,連續圖癥,,2017-08-08
+3227219,continuous raster,連續網格,,2017-08-08
+3227220,continuous tone image,連續色調影像,,2017-08-08
+3227221,contour display,等高線顯示,,2017-08-08
+3227222,contour interval,等高距;等高線間距,,2017-08-08
+3227223,contour line,等高線,,2017-08-08
+3227224,contour tagging,等高線標示,,2017-08-08
+3227225,contouring,等高線繪製,,2017-08-08
+3227226,contouring display,等高線顯示,,2017-08-08
+3227227,contrast,反差;對比,,2017-08-08
+3227228,contrast enhancement,反差增強;對比增強,,2017-08-08
+3227229,contrast ratio,反差率;對比度,,2017-08-08
+3227230,contrast stretch,反差拉張;對比拉張,,2017-08-08
+3227231,contrast stretching,反差拉張;對比拉張,,2017-08-08
+3227232,control,控制,,2017-08-08
+3227233,control character,控制字元,,2017-08-08
+3227234,control point,控制點,,2017-08-08
+3227235,convergence angle,收斂角,,2017-08-08
+3227236,conversational mode,對話模式,,2017-08-08
+3227237,conversion,轉換,,2017-08-08
+3227238,convex hull,凸殼,,2017-08-08
+3227239,convex polygon,凸多邊形,,2017-08-08
+3227240,coordinate,坐標,,2017-08-08
+3227241,coordinate conversion,坐標換算,,2017-08-08
+3227242,coordinate geometry {=COGO},坐標幾何,,2017-08-08
+3227243,coordinate point,坐標點,,2017-08-08
+3227244,coordinate reference system {=CRS},坐標參考系統,,2017-08-08
+3227245,coordinate system,坐標系統,,2017-08-08
+3227246,coordinate transformation,坐標轉換,,2017-08-08
+3227247,correctness,正確性,,2017-08-08
+3227248,correlation,相關;關聯,,2017-08-08
+3227249,corridor,廊道,,2017-08-08
+3227250,corridor analysis,廊道分析,,2017-08-08
+3227251,cost-benefit analysis,成效分析,,2017-08-08
+3227252,cost-distance analysis,距離成本分析,,2017-08-08
+3227253,covariance,共變數;協方差,,2017-08-08
+3227254,coverage,圖層,,2017-08-08
+3227255,coverage element,圖層元素,,2017-08-08
+3227256,coverage extent,圖層範圍,,2017-08-08
+3227257,coverage feature class,圖層元素類別,,2017-08-08
+3227258,coverage unit,圖層單位,,2017-08-08
+3227259,coverage update,圖層更新,,2017-08-08
+3227260,creation date,生成日期,,2017-08-08
+3227261,creation time,生成時間,,2017-08-08
+3227262,criterion,準則,,2017-08-08
+3227263,criterion function,準則函數,,2017-08-08
+3227264,critical angle,臨界角,,2017-08-08
+3227265,critical point,臨界點,,2017-08-08
+3227266,critical value,臨界值,,2017-08-08
+3227267,cross ratio,交比定律,,2017-08-08
+3227268,cross section,橫斷面,,2017-08-08
+3227269,cross tabulation,交叉表列;交叉製表,,2017-08-08
+3227270,cross-correlation,互相關,,2017-08-08
+3227271,cross-reference database,交互關聯資料庫,,2017-08-08
+3227272,cross-tile indexing,跨幅索引,,2017-08-08
+3227273,cubic convolution,立方卷積,,2017-08-08
+3227274,cultural features,人文圖徵,,2017-08-08
+3227275,cultural geography,文化地理,,2017-08-08
+3227276,cure oven,立體壓模機,,2017-08-08
+3227277,currency,即時性,,2017-08-08
+3227278,current coordinate,當前坐標,,2017-08-08
+3227279,current task,現行任務,,2017-08-08
+3227280,current workspace,現行工作區,,2017-08-08
+3227281,cursor,游標,,2017-08-08
+3227282,curve,曲線,,2017-08-08
+3227283,curve fitting,曲線擬合,,2017-08-08
+3227284,custom,習慣;定制,,2017-08-08
+3227285,custom behavior,定制方法,,2017-08-08
+3227286,custom feature,定制要素,,2017-08-08
+3227287,custom object,定制物件,,2017-08-08
+3227288,custom tool,定制工具,,2017-08-08
+3227289,custom toolset,定制工具集,,2017-08-08
+3227290,customer engineer {=CE},客戶工程師,,2017-08-08
+3227291,customer information control system {=CICS},客戶資訊控制系統,,2017-08-08
+3227292,customer information system {=CIS},客戶資訊系統,,2017-08-08
+3227293,customer market analysis,客戶市場分析,,2017-08-08
+3227294,customer profiling,客戶概況;客戶剖析,,2017-08-08
+3227295,customer prospecting,客戶詳情;客戶探查,,2017-08-08
+3227296,customer software,客戶軟體,,2017-08-08
+3227297,customization,客製化,,2017-08-08
+3227298,cyan magenta yellow black {=CMYK},四分色,,2017-08-08
+3227299,cyberspace,網際空間,,2017-08-08
+3227300,cycle,迴圈,,2017-08-08
+3227301,cycle process,迴圈處理,,2017-08-08
+3227302,cylindrical projection,圓柱投影,,2017-08-08
+3227303,daemon,常駐程式,,2017-08-08
+3227304,dangle,懸突,,2017-08-08
+3227305,dangle node,懸突節點,,2017-08-08
+3227306,dangle tolerance,懸突容差,,2017-08-08
+3227307,dangling arc,懸突弧段,,2017-08-08
+3227308,dashed line,虛線,,2017-08-08
+3227309,dasymetric map,分區比重圖,,2017-08-08
+3227310,data,資料,,2017-08-08
+3227311,data access arrangement {=DAA},資料存取裝置,,2017-08-08
+3227312,data access control,資料存取控制,,2017-08-08
+3227313,data access security,資料存取安全性,,2017-08-08
+3227314,data accessibility,資料可存取性,,2017-08-08
+3227315,data accuracy,資料正確性,,2017-08-08
+3227316,data acquisition device system {=DADS},資料蒐集設備系統,,2017-08-08
+3227317,data acquisition system,資料蒐集系統,,2017-08-08
+3227318,data administrator,資料管理員,,2017-08-08
+3227319,data aggregation,資料集成,,2017-08-08
+3227320,data analysis,資料分析,,2017-08-08
+3227321,data analysis routine,資料分析程序,,2017-08-08
+3227322,data architecture,資料體系,,2017-08-08
+3227323,data archive,資料典藏,,2017-08-08
+3227324,data archive and distribution system {=DADS},資料典藏及流通系統,,2017-08-08
+3227325,data area,資料區,,2017-08-08
+3227326,data attribute,資料屬性,,2017-08-08
+3227327,data bank,資料庫,,2017-08-08
+3227328,data bit,資料位元,,2017-08-08
+3227329,data block,資料區塊,,2017-08-08
+3227330,data broker,資料中介者,,2017-08-08
+3227331,data capture,資料獲取,,2017-08-08
+3227332,data catalogue,資料目錄,,2017-08-08
+3227333,data category,資料類別,,2017-08-08
+3227334,data cell,資料格,,2017-08-08
+3227335,data center,資料中心,,2017-08-08
+3227336,data chamber,資料記錄設備,,2017-08-08
+3227337,data channel,資料通道,,2017-08-08
+3227338,data classification,資料分類,,2017-08-08
+3227339,data cleaning,資料清理,,2017-08-08
+3227340,data coding,資料編碼,,2017-08-08
+3227341,data collection platforms {=DCP},資料收集平臺,,2017-08-08
+3227342,data communication,資料通訊,,2017-08-08
+3227343,data compatibility,資料相容性,,2017-08-08
+3227344,data completeness,資料完整性,,2017-08-08
+3227345,data compression,資料壓縮,,2017-08-08
+3227346,data compression factor,資料壓縮係數,,2017-08-08
+3227347,data compression ratio,資料壓縮比,,2017-08-08
+3227348,data compression routine,資料壓縮程式,,2017-08-08
+3227349,data control,資料控制,,2017-08-08
+3227350,data conversion,資料轉換,,2017-08-08
+3227351,data corruption,資料毀損,,2017-08-08
+3227352,data coverage,資料層,,2017-08-08
+3227353,data currency,資料即時性,,2017-08-08
+3227354,data definition,資料定義,,2017-08-08
+3227355,data definition language {=DDL},資料定義語言,,2017-08-08
+3227356,data density,資料密度,,2017-08-08
+3227357,data dependency,資料相依性,,2017-08-08
+3227358,data description record,資料描述記錄,,2017-08-08
+3227359,data descriptive language,資料描述語言,,2017-08-08
+3227360,data dictionary,資料典,,2017-08-08
+3227361,data directory,資料目錄,,2017-08-08
+3227362,data display,資料顯示,,2017-08-08
+3227363,data dissemination,資料發送,,2017-08-08
+3227364,data distribution,資料流通,,2017-08-08
+3227365,data editing,資料編輯,,2017-08-08
+3227366,data element,資料元素,,2017-08-08
+3227367,data encoding,資料編碼,,2017-08-08
+3227368,data encryption standard,資料加密標準,,2017-08-08
+3227369,data entry,資料輸入,,2017-08-08
+3227370,data entry guide,資料輸入指南,,2017-08-08
+3227371,data entry procedure,資料輸入程序,,2017-08-08
+3227372,data entry terminal,資料輸入終端,,2017-08-08
+3227373,data exchange,資料交換,,2017-08-08
+3227374,data exchange format,資料交換格式,,2017-08-08
+3227375,data extraction,資料萃取,,2017-08-08
+3227376,data field,資料欄{=位},,2017-08-08
+3227377,data file,資料檔,,2017-08-08
+3227378,data file maintenance,資料檔案維護,,2017-08-08
+3227379,data format,資料格式,,2017-08-08
+3227380,data frame,資料框架,,2017-08-08
+3227381,data generalization,資料概括化,,2017-08-08
+3227382,data granularity,資料粒度,,2017-08-08
+3227383,data handling,資料處理,,2017-08-08
+3227384,data Infrastructure,資料基礎建設,,2017-08-08
+3227385,data input,資料輸入,,2017-08-08
+3227386,data integration,資料整合,,2017-08-08
+3227387,data integrity,資料完整性,,2017-08-08
+3227388,data item,資料項,,2017-08-08
+3227389,data language,資料語言,,2017-08-08
+3227390,data layer,資料層,,2017-08-08
+3227391,data layering,資料分層,,2017-08-08
+3227392,data level,資料層級,,2017-08-08
+3227393,data lineage,資料處理歷程,,2017-08-08
+3227394,data link,資料連結,,2017-08-08
+3227395,data link control,資料連結控制,,2017-08-08
+3227396,data link layer,資料連結層,,2017-08-08
+3227397,data management,資料管理,,2017-08-08
+3227398,data management capability,資料管理能力,,2017-08-08
+3227399,data management structure,資料管理結構,,2017-08-08
+3227400,data management system {=DMS},資料管理系統,,2017-08-08
+3227401,data manipulability,資料可操作性,,2017-08-08
+3227402,data manipulation,資料操作,,2017-08-08
+3227403,data manipulation language {=DML},資料操作語言,,2017-08-08
+3227404,data marker,資料標記,,2017-08-08
+3227405,data mask,資料遮罩,,2017-08-08
+3227406,data message,資料訊息,,2017-08-08
+3227407,data mining,資料探勘;資料挖掘,,2017-08-08
+3227408,data model,資料模式;資料模型,,2017-08-08
+3227409,data modeling,資料建模,,2017-08-08
+3227410,data modification,資料修正,,2017-08-08
+3227411,data network,資料網路,,2017-08-08
+3227412,data network identification code,資料網路識別碼,,2017-08-08
+3227413,data organization,資料組織,,2017-08-08
+3227414,data output,資料輸出,,2017-08-08
+3227415,data overlay,資料疊合;資料套疊,,2017-08-08
+3227416,data portability,資料可攜性,,2017-08-08
+3227417,data preparation,資料準備,,2017-08-08
+3227418,data presentation,資料表現,,2017-08-08
+3227419,data primitive,資料基元,,2017-08-08
+3227420,data processing,資料處理,,2017-08-08
+3227421,data product,資料產品,,2017-08-08
+3227422,data product level,資料產品等級,,2017-08-08
+3227423,data quality,資料品質,,2017-08-08
+3227424,data quality control,資料品質控制,,2017-08-08
+3227425,data quality element,資料品質元素,,2017-08-08
+3227426,data quality evaluation procedure,資料品質評估流程,,2017-08-08
+3227427,data quality measure,資料品質量測,,2017-08-08
+3227428,data quality metrics,資料品質度量,,2017-08-08
+3227429,data quality model,資料品質模式,,2017-08-08
+3227430,data quality overview element,資料品質綜合元素,,2017-08-08
+3227431,data quality unit,資料品質單位,,2017-08-08
+3227432,data quality value domain,資料品質值域,,2017-08-08
+3227433,data query language,資料查詢語言,,2017-08-08
+3227434,data rate,資料速率,,2017-08-08
+3227435,data reaggregation,資料重聚合,,2017-08-08
+3227436,data reality,資料真實性,,2017-08-08
+3227437,data record,資料記錄,,2017-08-08
+3227438,data recorder,資料記錄器,,2017-08-08
+3227439,data reduction,資料縮減,,2017-08-08
+3227440,data redundancy,資料冗餘,,2017-08-08
+3227441,data relativity,資料相關性,,2017-08-08
+3227442,data representation,資料展現,,2017-08-08
+3227443,data retrieval,資料檢索,,2017-08-08
+3227444,data right,資料權限,,2017-08-08
+3227445,data roll out,資料轉出,,2017-08-08
+3227446,data safety,資料安全,,2017-08-08
+3227447,data schema,資料綱要,,2017-08-08
+3227448,data secrecy,資料保密,,2017-08-08
+3227449,data security,資料安全,,2017-08-08
+3227450,data semantics,資料語義,,2017-08-08
+3227451,data sensitivity,資料敏感性,,2017-08-08
+3227452,data service,資料服務,,2017-08-08
+3227453,data service unit,資料服務單元,,2017-08-08
+3227454,data set,資料集,,2017-08-08
+3227455,data set catalog,資料集目錄,,2017-08-08
+3227456,data set comparison,資料集比較,,2017-08-08
+3227457,data set directory,資料集目錄,,2017-08-08
+3227458,data set documentation,資料集文件,,2017-08-08
+3227459,data set precision,資料集精度,,2017-08-08
+3227460,data set quality,資料集品質,,2017-08-08
+3227461,data set series,資料集系列,,2017-08-08
+3227462,data sharing,資料共享,,2017-08-08
+3227463,data signaling rate,資料傳訊率,,2017-08-08
+3227464,data simplification,資料簡化,,2017-08-08
+3227465,data smoothing,資料平滑化,,2017-08-08
+3227466,data snooping,資料探測；資料檢測,,2017-08-08
+3227468,data source,資料來源,,2017-08-08
+3227469,data specification,資料規範,,2017-08-08
+3227470,data standardization,資料標準化,,2017-08-08
+3227471,data storage,資料儲存,,2017-08-08
+3227472,data storage control language,資料儲存控制語言,,2017-08-08
+3227473,data storage medium,資料儲存媒介,,2017-08-08
+3227474,data stream,資料流,,2017-08-08
+3227475,data streaming mode,資料流模式,,2017-08-08
+3227476,data structure,資料結構,,2017-08-08
+3227477,data structure conversion,資料結構轉換,,2017-08-08
+3227478,data structure diagram,資料結構圖,,2017-08-08
+3227479,data sub-category,資料子類別,,2017-08-08
+3227480,data subject area,資料主題區,,2017-08-08
+3227481,data subject group,資料主題組,,2017-08-08
+3227482,data system,資料系統,,2017-08-08
+3227483,data table,資料表,,2017-08-08
+3227484,data terminal equipment,資料終端設備,,2017-08-08
+3227485,data tile,資料拼幅,,2017-08-08
+3227486,data transfer,資料移轉,,2017-08-08
+3227487,data transfer standard,資料轉換標準,,2017-08-08
+3227488,data transmission,資料傳輸,,2017-08-08
+3227489,data type,資料型態,,2017-08-08
+3227490,data update,資料更新,,2017-08-08
+3227492,data update cycle,資料更新週期,,2017-08-08
+3227493,data update rate,資料更新率,,2017-08-08
+3227494,data vectorization,資料向量化,,2017-08-08
+3227495,data view,資料檢視,,2017-08-08
+3227496,data warehouse,資料倉儲,,2017-08-08
+3227497,database,資料庫,,2017-08-08
+3227498,database administration,資料庫管理,,2017-08-08
+3227499,database administrator {=DBA},資料庫管理員,,2017-08-08
+3227500,database architecture,資料庫架構,,2017-08-08
+3227501,database browse,資料庫瀏覽,,2017-08-08
+3227502,database connection,資料庫連結,,2017-08-08
+3227503,database creation,資料庫建立,,2017-08-08
+3227504,database credibility,資料庫可信度,,2017-08-08
+3227505,database description,資料庫描述,,2017-08-08
+3227506,database design,資料庫設計,,2017-08-08
+3227507,database directory,資料庫目錄,,2017-08-08
+3227508,database environment,資料庫環境,,2017-08-08
+3227509,database file {=DBF},資料庫檔案,,2017-08-08
+3227510,database hierarchy,資料庫階層,,2017-08-08
+3227511,database integrator,資料庫集成器,,2017-08-08
+3227512,database integrity,資料庫完整性,,2017-08-08
+3227513,database key,資料庫鍵值,,2017-08-08
+3227514,database link,資料庫連結,,2017-08-08
+3227515,database lock,資料庫鎖定,,2017-08-08
+3227516,database longevity,資料庫壽命,,2017-08-08
+3227517,database management,資料庫管理,,2017-08-08
+3227518,database management software,資料庫管理軟體,,2017-08-08
+3227519,database management system {=DBMS},資料庫管理系統,,2017-08-08
+3227520,database manager,資料庫管理員,,2017-08-08
+3227521,database object,資料庫物件,,2017-08-08
+3227522,database owner,資料庫所有者,,2017-08-08
+3227523,database request module,資料庫請求模組,,2017-08-08
+3227524,database schema design,資料庫綱要設計,,2017-08-08
+3227525,database specification,資料庫規格,,2017-08-08
+3227526,database support,資料庫支援,,2017-08-08
+3227527,date stamp,日期戳記,,2017-08-08
+3227528,datum,基準,,2017-08-08
+3227529,datum level,基準面,,2017-08-08
+3227530,datum plane,基準面,,2017-08-08
+3227531,datum point,基準點,,2017-08-08
+3227532,datum transformation,基準轉換,,2017-08-08
+3227533,DBF file,DBF檔案,,2017-08-08
+3227534,debug,除錯,,2017-08-08
+3227535,debugger,除錯軟體,,2017-08-08
+3227536,decimal,十進位制,,2017-08-08
+3227537,decimal degree,十進制度數；浮點度數,,2017-08-08
+3227538,decision model,決策模式；決策模型,,2017-08-08
+3227539,decision rule,決策法則,,2017-08-08
+3227540,decision support system {=DSS},決策支援系統,,2017-08-08
+3227541,decision tree,決策樹,,2017-08-08
+3227542,decisional tree analysis,決策樹分析,,2017-08-08
+3227543,decoding,解碼,,2017-08-08
+3227544,decompression,解壓縮,,2017-08-08
+3227545,dedicated system,專用系統,,2017-08-08
+3227546,deeds registry system,地籍登錄系統,,2017-08-08
+3227547,default database,預設資料庫,,2017-08-08
+3227548,default filename extension,預設副檔名,,2017-08-08
+3227549,default interface,預設介面,,2017-08-08
+3227550,default value,預設值,,2017-08-08
+3227551,deflection,偏差,,2017-08-08
+3227552,degree,度,,2017-08-08
+3227553,degree slope,角度坡度,,2017-08-08
+3227554,degree-minute-second {=DMS},度分秒,,2017-08-08
+3227555,delete,刪除,,2017-08-08
+3227556,delimitation,定界,,2017-08-08
+3227557,delimiter,分隔符號,,2017-08-08
+3227558,demographic data,人口資料,,2017-08-08
+3227559,demographic database,人口資料庫,,2017-08-08
+3227560,demographic map,人口地圖,,2017-08-08
+3227561,demographic model,人口模型,,2017-08-08
+3227562,demography,人口學,,2017-08-08
+3227563,dendrogram,樹狀圖,,2017-08-08
+3227564,denormalization,反正規化,,2017-08-08
+3227565,densitometer,密度計,,2017-08-08
+3227566,density,密度,,2017-08-08
+3227567,density gradient,密度梯度,,2017-08-08
+3227568,density layer,密度層,,2017-08-08
+3227569,density map,密度圖,,2017-08-08
+3227570,density slicing,灰度分割,,2017-08-08
+3227571,density transfer,密度轉換,,2017-08-08
+3227572,density zoning,密度分區,,2017-08-08
+3227573,departure plus,正橫距,,2017-08-08
+3227574,dependency,依賴性,,2017-08-08
+3227575,depth contour,等深線,,2017-08-08
+3227576,derived data,衍生資料,,2017-08-08
+3227577,derived data layer,衍生資料層,,2017-08-08
+3227578,derived map,衍生地圖,,2017-08-08
+3227579,derived value,衍生值,,2017-08-08
+3227580,descending node,降交點,,2017-08-08
+3227581,descriptive data,描述性資料,,2017-08-08
+3227582,descriptive text,說明文字,,2017-08-08
+3227583,descriptor,描述符號,,2017-08-08
+3227584,descriptor file,描述符號檔,,2017-08-08
+3227585,desktop GIS,桌上型地理資訊系統,,2017-08-08
+3227586,desktop mapping,桌上型製圖,,2017-08-08
+3227587,development environment,開發環境,,2017-08-08
+3227588,development suitability index,發展適性指標,,2017-08-08
+3227589,deviation,偏差,,2017-08-08
+3227590,device coordinate,設備坐標;儀器坐標,,2017-08-08
+3227591,device space,設備空間,,2017-08-08
+3227592,dialog box,對話框,,2017-08-08
+3227593,difference image,相減影像,,2017-08-08
+3227594,differential correction,微分糾正,,2017-08-08
+3227595,differential global positioning system{=DGPS},差分全球定位系統,,2017-08-08
+3227596,differential positioning,差分定位,,2017-08-08
+3227597,diffuse reflectance,散射,,2017-08-08
+3227598,digital,數位,,2017-08-08
+3227599,digital audio tape,數位錄音帶,,2017-08-08
+3227600,digital capture device,資料獲取設備,,2017-08-08
+3227601,digital cartographic analysis,數位地圖分析,,2017-08-08
+3227602,digital cartographic data,數位地圖資料,,2017-08-08
+3227603,digital cartographic database,數位地圖資料庫,,2017-08-08
+3227604,digital cartographic interchange format,數位地圖交換格式,,2017-08-08
+3227605,digital cartographic model,數位地圖模型,,2017-08-08
+3227606,digital cartography,數位地圖學,,2017-08-08
+3227607,digital chart of the world{=DCW},全球數位地圖,,2017-08-08
+3227608,digital communication,數位通訊,,2017-08-08
+3227609,digital data,數位資料;數值資料,,2017-08-08
+3227610,digital data communication message protocol{=DDCMP},數位資料通信訊息協定,,2017-08-08
+3227611,digital database,數位資料庫,,2017-08-08
+3227612,digital earth,數位地球,,2017-08-08
+3227613,digital elevation model{=DEM},數值高程模型,,2017-08-08
+3227614,digital encoding,數位編碼,,2017-08-08
+3227615,digital exchange format,數位交換格式,,2017-08-08
+3227616,digital file,數位檔案;數值檔案,,2017-08-08
+3227617,digital file synchronization,數位資料同步,,2017-08-08
+3227618,digital filter,數位濾波器,,2017-08-08
+3227619,digital filtering,數位濾波,,2017-08-08
+3227620,digital geographic information exchange standard{=DIGEST},數位地理資訊交換標準,,2017-08-08
+3227621,Digital Geospatial Data Framework,數位空間資料框架,,2017-08-08
+3227622,digital gradient,數位梯度,,2017-08-08
+3227623,digital image,數位影像;數值影像,,2017-08-08
+3227624,digital image analysis,數位影像分析;數值影像分析,,2017-08-08
+3227625,digital image database,數位影像資料庫;數值影像資料庫,,2017-08-08
+3227626,digital image processing{=DIP},數位影像處理;數值影像處理,,2017-08-08
+3227627,digital incremental plotter,數位增量繪圖儀,,2017-08-08
+3227628,digital landscape model{=DLM},數位景觀模型,,2017-08-08
+3227629,digital line graph{=DLG},數位線繪圖,,2017-08-08
+3227630,digital loop carrier,數位迴路載體,,2017-08-08
+3227631,digital loopback,數位迴路檢查,,2017-08-08
+3227632,digital map,數位地圖;數值地圖,,2017-08-08
+3227633,digital map layer,數位地圖圖層;數值地圖圖層,,2017-08-08
+3227634,digital map registration,數位地圖釘合;數值地圖釘合,,2017-08-08
+3227635,digital mapping,數位製圖;數值製圖,,2017-08-08
+3227636,digital matrix,數位矩陣,,2017-08-08
+3227637,digital mosaic,數位鑲嵌;數值鑲嵌,,2017-08-08
+3227638,digital multiplexed interface,數位多工介面,,2017-08-08
+3227639,digital multispectral scanner,數位多光譜掃描儀,,2017-08-08
+3227640,digital nautical chart{=DNC},數位航圖;數值航圖,,2017-08-08
+3227641,digital number{=DN},數值,,2017-08-08
+3227642,digital orthoimage,數位正射影像;數值正射影像,,2017-08-08
+3227643,digital orthoimagery,數位正射影像;數值正射影像,,2017-08-08
+3227644,digital orthophoto,數位正射影像;數值正射影像,,2017-08-08
+3227645,digital orthophoto map{=DOM},數位正射影像圖,,2017-08-08
+3227646,digital photogrammetric system{=DPS},數位攝影測量系統,,2017-08-08
+3227647,digital photogrammetric workstation{=DPW},數位攝影測量工作站;數值攝影測量工作站,,2017-08-08
+3227648,digital photogrammetry,數位攝影測量;數值攝影測量,,2017-08-08
+3227649,digital process,數位處理,,2017-08-08
+3227650,digital raster graphics{=DRG},數位網格圖;數值網格圖,,2017-08-08
+3227651,digital rectification,數位糾正;數值糾正,,2017-08-08
+3227652,digital service unit,數位服務單元,,2017-08-08
+3227653,digital signals,數位訊號,,2017-08-08
+3227654,digital simulation,數位模擬,,2017-08-08
+3227655,digital surface model{=DSM},數值地表模型,,2017-08-08
+3227656,digital tablet,數化板,,2017-08-08
+3227657,digital terrain elevation data{=DTED},數值地形高程資料,,2017-08-08
+3227658,digital terrain model{=DTM},數值地形模型,,2017-08-08
+3227659,digital value,數值,,2017-08-08
+3227660,digital voice,數位語音,,2017-08-08
+3227661,digital-analog device,數位類比轉換裝置,,2017-08-08
+3227662,digital-to-analog conversion{=D/A},數位至類比轉換,,2017-08-08
+3227663,digital-to-analog converter{=DAC},數位至類比轉換器,,2017-08-08
+3227664,digitization,數位化,,2017-08-08
+3227665,digitized image,數位化影像,,2017-08-08
+3227666,digitized map,數位化地圖,,2017-08-08
+3227667,digitized video,數位化視訊,,2017-08-08
+3227668,digitizer,數化板;數化器,,2017-08-08
+3227669,digitizer accuracy,數化板準確度;數化器準確度,,2017-08-08
+3227670,digitizer resolution,數化板解析度;數化器解析度,,2017-08-08
+3227671,digitizing,數化,,2017-08-08
+3227672,digitizing board,數化板,,2017-08-08
+3227673,digitizing cursor,數化游標,,2017-08-08
+3227674,digitizing mode,數化模式,,2017-08-08
+3227675,digitizing tablet,數化板,,2017-08-08
+3227676,digitizing threshold,數化閾值,,2017-08-08
+3227677,digitizing workstation,數化工作站,,2017-08-08
+3227678,digraph,有向圖,,2017-08-08
+3227679,Dijkstra's Algorithm,狄格斯特演算法,,2017-08-08
+3227680,dilution of precision{=DOP},精度衰減因子,,2017-08-08
+3227681,dimension,維;維度;尺度,,2017-08-08
+3227682,dimension feature,尺度物件;尺寸圖元,,2017-08-08
+3227683,dimension feature class,尺度物件類別;尺寸圖元類別,,2017-08-08
+3227684,dimension style,尺度樣式,,2017-08-08
+3227685,direct access,直接存取,,2017-08-08
+3227686,direct positioning,直接定位,,2017-08-08
+3227687,directed link,方向性連接線,,2017-08-08
+3227688,directed network,方向性網路;有向網路,,2017-08-08
+3227689,direction field,方向場,,2017-08-08
+3227690,directional filter,單向濾鏡,,2017-08-08
+3227691,discrete data,離散資料,,2017-08-08
+3227692,discrete feature,離散圖徵,,2017-08-08
+3227693,displacement link,位移連結,,2017-08-08
+3227694,display device,顯示器,,2017-08-08
+3227695,display scale,顯示比例尺,,2017-08-08
+3227696,display type,顯示類型,,2017-08-08
+3227697,display unit,顯示單位,,2017-08-08
+3227698,distance decay,距離衰減;距離遞減,,2017-08-08
+3227699,distance unit,距離單位,,2017-08-08
+3227700,distortion,[鏡頭]畸變差;[地圖]變形,,2017-08-08
+3227701,distortion isograms,等變形線,,2017-08-08
+3227702,distributed architecture,分散式架構,,2017-08-08
+3227703,distributed component object model{=DCOM},分散式元件模型,,2017-08-08
+3227704,distributed computing,分散式計算,,2017-08-08
+3227705,distributed computing environment,分散式計算環境,,2017-08-08
+3227706,distributed computing model,分散式計算模式,,2017-08-08
+3227707,distributed computing system,分散式計算系統,,2017-08-08
+3227708,distributed data management{=DDM},分散式資料管理,,2017-08-08
+3227709,distributed data processing,分散式資料處理,,2017-08-08
+3227710,distributed database management system{=DDBMS},分散式資料庫管理系統,,2017-08-08
+3227711,distributed database{=DDB},分散式資料庫,,2017-08-08
+3227712,distributed memory,分散式記憶體,,2017-08-08
+3227713,distributed network system{=DNS},分散式網路系統,,2017-08-08
+3227714,distributed processing,分散式處理,,2017-08-08
+3227715,distributed processing network,分散式處理網路,,2017-08-08
+3227716,distributed relational database architecture{=DRDA},分散式關聯資料庫架構,,2017-08-08
+3227717,distributed system,分散式系統,,2017-08-08
+3227718,districting,分區,,2017-08-08
+3227719,disturbed orbit,擾動軌道,,2017-08-08
+3227720,diversity,多樣性,,2017-08-08
+3227721,DN value,波譜值,,2017-08-08
+3227722,dockable window,可停靠視窗,,2017-08-08
+3227723,docking,停靠,,2017-08-08
+3227724,document,文件,,2017-08-08
+3227725,document file,文件檔案,,2017-08-08
+3227726,document image processing{=DIP},文件影像處理,,2017-08-08
+3227727,document reader,文件讀取機,,2017-08-08
+3227728,document window,文件視窗,,2017-08-08
+3227729,documentation,文件化,,2017-08-08
+3227730,domain,網域;領域;值域;範圍,,2017-08-08
+3227731,domain name server{=DNS},網域名稱伺服器,,2017-08-08
+3227732,domain range,值域範圍;值域,,2017-08-08
+3227733,Doppler shift,都卜勒位移,,2017-08-08
+3227734,dot,點,,2017-08-08
+3227735,dot density map,點子圖;點密度圖,,2017-08-08
+3227736,dot per inch,每英寸點數,,2017-08-08
+3227737,double center transit,複軸經緯儀,,2017-08-08
+3227738,double frequency receiver,雙頻接收儀,,2017-08-08
+3227739,double precision,倍精度,,2017-08-08
+3227740,Douglas-Peucker algorithm,道格拉斯-普克演算法,,2017-08-08
+3227741,download,下載,,2017-08-08
+3227742,downstream,下游,,2017-08-08
+3227743,draft,草稿,,2017-08-08
+3227744,drafting,繪圖,,2017-08-08
+3227745,drafting scale,繪圖比例尺,,2017-08-08
+3227746,dragging,拖曳,,2017-08-08
+3227747,drainage,水系,,2017-08-08
+3227748,drainage basin map,流域圖,,2017-08-08
+3227749,drainage map,水系圖,,2017-08-08
+3227750,drainage pattern,水系型態,,2017-08-08
+3227751,drape,覆蓋,,2017-08-08
+3227752,draped layer,覆蓋層,,2017-08-08
+3227753,draping,覆蓋,,2017-08-08
+3227754,drawing,繪圖,,2017-08-08
+3227755,drawing board,繪圖板,,2017-08-08
+3227756,drawing exchange format{=DXF},繪圖交換格式,,2017-08-08
+3227757,drawing extent,繪圖範圍,,2017-08-08
+3227758,drawing file,繪圖檔案,,2017-08-08
+3227759,drawing grid,繪圖網格,,2017-08-08
+3227760,drawing interchange format{=DIF},繪圖交換格式,,2017-08-08
+3227761,drawing limit,繪圖界限,,2017-08-08
+3227762,drawing priority,繪圖優先性,,2017-08-08
+3227763,drawing registration,繪圖釘合,,2017-08-08
+3227764,drawing size,繪圖尺寸,,2017-08-08
+3227765,drawing unit,繪圖單位,,2017-08-08
+3227766,dropped scan line,遺漏掃描線,,2017-08-08
+3227767,drum plotter,滾筒式繪圖儀,,2017-08-08
+3227768,drum scanner,滾筒式掃描器,,2017-08-08
+3227769,dual independent map encoding{= DIME},DIME檔案,,2017-08-08
+3227770,duobinary coding,雙二進位編碼,,2017-08-08
+3227771,DXF file,DXF檔案,,2017-08-08
+3227772,dynamic data exchange{=DDE},動態資料交換,,2017-08-08
+3227773,dynamic feature class,動態圖徵類別,,2017-08-08
+3227774,dynamic HTML,動態超文本標記語言,,2017-08-08
+3227775,dynamic link library{= DLL},動態連接程式庫,,2017-08-08
+3227776,dynamic segmentation,動態分割,,2017-08-08
+3227777,earth ellipsoid,地球橢球體,,2017-08-08
+3227778,earth gravity model,地球重力模型,,2017-08-08
+3227779,earth observation,地球觀測,,2017-08-08
+3227780,earth observation data management system{=EODMS},地球觀測資料管理系統,,2017-08-08
+3227781,earth observation satellite,地球觀測衛星,,2017-08-08
+3227782,Earth Observation System{=EOS},地球觀測系統,,2017-08-08
+3227783,earth resources information system{=ERIS},地球資源資訊系統,,2017-08-08
+3227784,earth resources observation satellite,地球資源觀測衛星,,2017-08-08
+3227785,Earth Resources Observation System{=EROS},地球資源觀測系統,,2017-08-08
+3227786,earth resources technology satellite,地球資源科技衛星,,2017-08-08
+3227787,earth shape,地球形狀,,2017-08-08
+3227788,earth spheroid,地球球體,,2017-08-08
+3227789,earth spherop,地球正常等位面,,2017-08-08
+3227790,earth surface,地球表面,,2017-08-08
+3227791,earth synchronous orbit,地球同步軌道,,2017-08-08
+3227792,earth-centered ellipsoid,地心橢球體,,2017-08-08
+3227793,earth-fixed coordinates,地固坐標,,2017-08-08
+3227794,eccentricity,偏心率,,2017-08-08
+3227795,economic geography,經濟地理,,2017-08-08
+3227796,ecosystem,生態系統,,2017-08-08
+3227797,edge,邊緣；線,,2017-08-08
+3227798,edge crispening,邊緣增顯,,2017-08-08
+3227799,edge detection,邊緣偵測,,2017-08-08
+3227800,edge detection filter,邊緣偵測濾鏡,,2017-08-08
+3227801,edge enhancement,邊緣增揚,,2017-08-08
+3227802,edge fitting method,邊緣套合法,,2017-08-08
+3227803,edge join,邊緣連結,,2017-08-08
+3227804,edge matching,圖幅接邊,,2017-08-08
+3227805,edit,編輯,,2017-08-08
+3227806,edit sketch,編輯草圖,,2017-08-08
+3227807,edit verification,編輯校核,,2017-08-08
+3227808,editor,編輯器;編輯,,2017-08-08
+3227809,editor toolbar,編輯工具列,,2017-08-08
+3227810,effective radius of the earth,地球有效半徑,,2017-08-08
+3227811,eigenvalue,特徵值,,2017-08-08
+3227812,eigenvector,特徵向量,,2017-08-08
+3227813,eigenvector analysis,特徵向量分析,,2017-08-08
+3227814,electromagnetic radiation,電磁輻射,,2017-08-08
+3227815,electromagnetic spectrum,電磁波譜,,2017-08-08
+3227816,electromechanical sensor,電機感測器,,2017-08-08
+3227817,electronic atlas,電子地圖集,,2017-08-08
+3227818,electronic bearing,電子測向,,2017-08-08
+3227819,electronic chart database{=ECDB},電子海圖資料庫,,2017-08-08
+3227820,electronic chart display and information system{=ECDIS},電子海圖顯示資訊系統,,2017-08-08
+3227821,electronic data interchange{=EDI},電子資料交換,,2017-08-08
+3227822,electronic data processing{=EDP},電子資料處理,,2017-08-08
+3227823,electronic document management system{=EDMS},電子文件管理系統,,2017-08-08
+3227824,electronic drawing tablet,電子繪圖板,,2017-08-08
+3227825,electronic engraver,電子刻圖機,,2017-08-08
+3227826,electronic imaging system,電子成像系統,,2017-08-08
+3227827,electronic map,電子地圖,,2017-08-08
+3227828,Electronic Navigational Charts{=ENC},電子海圖,,2017-08-08
+3227829,electronic publishing system,電子出版系統,,2017-08-08
+3227830,element,元素,,2017-08-08
+3227831,elevation,高程,,2017-08-08
+3227832,elevation layer,高程圖層,,2017-08-08
+3227833,elevation notation,高程註記,,2017-08-08
+3227834,elevation tints,分層設色,,2017-08-08
+3227835,ellipse,橢圓,,2017-08-08
+3227836,ellipsoid,橢球體,,2017-08-08
+3227837,ellipsoidal height,橢球高,,2017-08-08
+3227838,embedded SQL,嵌入式SQL,,2017-08-08
+3227839,emulation,仿真,,2017-08-08
+3227840,enabled feature,賦能圖徵;允許圖徵,,2017-08-08
+3227841,encapsulation,封装,,2017-08-08
+3227842,enclosing rectangle,最小外接四邊形,,2017-08-08
+3227843,enclosure,外部邊界,,2017-08-08
+3227844,encoded data string,編碼資料串,,2017-08-08
+3227845,encoding,編碼,,2017-08-08
+3227846,encoding model,編碼模型,,2017-08-08
+3227847,encoding process,編碼處理,,2017-08-08
+3227848,encoding rule,編碼規則,,2017-08-08
+3227849,encoding schema,編碼綱要,,2017-08-08
+3227850,end of file{=EOF},檔案結尾,,2017-08-08
+3227851,end of line{=EOL},行結尾,,2017-08-08
+3227852,end point,端點;終點,,2017-08-08
+3227853,end user,終端用戶,,2017-08-08
+3227854,end-point connectivity,端點連接,,2017-08-08
+3227855,engineering coordinate system,工程坐標系;獨立坐標系,,2017-08-08
+3227856,enhanced graphics adapter{=EGA},增顯圖形接合器,,2017-08-08
+3227857,enhanced imagery,增顯後影像,,2017-08-08
+3227858,enhanced meta file{=EMF},增強型圖像檔案,,2017-08-08
+3227859,enhanced mode,增顯模式,,2017-08-08
+3227860,Enhanced Thematic Mapper{=ETM},增顯主題製圖儀,,2017-08-08
+3227861,enterprise GIS,企業級地理資訊系統,,2017-08-08
+3227862,enterprise JavaBeans,企業級JavaBeans,,2017-08-08
+3227863,entity,實體,,2017-08-08
+3227864,entity attribute,實體屬性,,2017-08-08
+3227865,entity class,實體類別,,2017-08-08
+3227866,entity classification,實體分類,,2017-08-08
+3227867,entity instance,實體實例,,2017-08-08
+3227868,entity object,實體物件,,2017-08-08
+3227869,entity point,實體點,,2017-08-08
+3227870,entity relationship,實體關係,,2017-08-08
+3227871,entity relationship approach,實體關聯方法,,2017-08-08
+3227872,entity relationship data model,實體關聯資料模型,,2017-08-08
+3227873,entity relationship diagram{=ERD},實體關聯圖,,2017-08-08
+3227874,entity relationship model{=E-R model},實體關聯模式,,2017-08-08
+3227875,entity relationship modeling,實體關聯建模,,2017-08-08
+3227876,entity set,實體組,,2017-08-08
+3227877,entity set model,實體組模型,,2017-08-08
+3227878,entity subtype,實體子類型,,2017-08-08
+3227879,entity supertype,實體超類型,,2017-08-08
+3227880,entity type,實體類型,,2017-08-08
+3227881,entropy,熵,,2017-08-08
+3227882,entropy coding,熵編碼,,2017-08-08
+3227883,envelope,包封,,2017-08-08
+3227884,environment,環境,,2017-08-08
+3227885,environment impact assessment{=EIA},環境影響評估,,2017-08-08
+3227886,environment impact study{=EIS},環境影響研究,,2017-08-08
+3227887,environment settings,環境設置,,2017-08-08
+3227888,environment variable,環境變數,,2017-08-08
+3227889,environmental analysis,環境分析,,2017-08-08
+3227890,environmental assessment,環境評估,,2017-08-08
+3227891,environmental capacity,環境負載量,,2017-08-08
+3227892,environmental data,環境資料,,2017-08-08
+3227893,environmental database,環境資料庫,,2017-08-08
+3227894,environmental information,環境資訊,,2017-08-08
+3227895,environmental map,環境地圖,,2017-08-08
+3227896,environmental modeling,環境建模,,2017-08-08
+3227897,environmental planning,環境規劃,,2017-08-08
+3227898,environmental quality assessment,環境品質評估,,2017-08-08
+3227899,environmental remote sensing,環境遙測,,2017-08-08
+3227900,Environmental Resources Information Network{=ERIN},環境資源資訊網路,,2017-08-08
+3227901,ephemeris,星曆,,2017-08-08
+3227902,equal area projection,等積投影,,2017-08-08
+3227903,equal interval classification,等間隔分類,,2017-08-08
+3227904,equator,赤道,,2017-08-08
+3227905,equatorial aspect,赤道面,,2017-08-08
+3227906,equidistant projection,等距投影,,2017-08-08
+3227907,error propagation,誤差傳播,,2017-08-08
+3227908,error table,誤差表,,2017-08-08
+3227909,Ethernet,乙太網路,,2017-08-08
+3227910,Euclidean distance,歐幾里德距離,,2017-08-08
+3227911,Euclidean geometry,歐幾里德幾何學,,2017-08-08
+3227912,Euclidean space,歐幾里德空間,,2017-08-08
+3227913,European Navigation Satellite System{=ENSS},歐洲導航衛星系統,,2017-08-08
+3227914,European Umbrella Organization for Geographic Information{=EUROGI},歐洲地理資訊聯合組織,,2017-08-08
+3227915,eustatic movement,海準變動,,2017-08-08
+3227916,event,事件,,2017-08-08
+3227917,event layer,事件資料層,,2017-08-08
+3227918,event overlay,事件套疊,,2017-08-08
+3227919,event table,事件表,,2017-08-08
+3227920,event theme,事件主題,,2017-08-08
+3227921,event time,事件時間,,2017-08-08
+3227922,Everest Ellipsoid 1830,埃弗勒斯橢球體1830,,2017-08-08
+3227923,executable file,程式執行檔,,2017-08-08
+3227924,existing data,現有資料,,2017-08-08
+3227925,expert system{=ES},專家系統,,2017-08-08
+3227926,exponent,指數,,2017-08-08
+3227927,export,輸出,,2017-08-08
+3227928,exposure,曝光,,2017-08-08
+3227929,expression,表達式,,2017-08-08
+3227930,extended color,延伸色,,2017-08-08
+3227931,extended entity data {=Xdata},延伸實體資料,,2017-08-08
+3227932,extensibility,可延伸性,,2017-08-08
+3227933,extensible markup language{=XML},可擴充式標記語言,,2017-08-08
+3227934,extent,範圍,,2017-08-08
+3227935,extent rectangle,範圍矩形,,2017-08-08
+3227936,external polygon,外部多邊形,,2017-08-08
+3227937,external program,外部程式,,2017-08-08
+3227938,external reference file,外部參考檔案；助曲線,,2017-08-08
+3227940,extract,擷取,,2017-08-08
+3227941,extrapolation,外插,,2017-08-08
+3227942,face,面,,2017-08-08
+3227943,facility,設施,,2017-08-08
+3227944,facility data,設施資料,,2017-08-08
+3227945,facility data management,設施資料管理,,2017-08-08
+3227946,facility database,設施資料庫,,2017-08-08
+3227947,facility inventory,設施清單,,2017-08-08
+3227948,facility management,設施管理,,2017-08-08
+3227949,facility map,設施圖,,2017-08-08
+3227950,fact,事實,,2017-08-08
+3227951,false color,假色,,2017-08-08
+3227952,false easting,座標西移量,,2017-08-08
+3227953,false northing,座標南移量,,2017-08-08
+3227954,fast Fourier transform,快速傅利葉轉換,,2017-08-08
+3227955,feasibility study,可行性研究,,2017-08-08
+3227956,feature,圖徵;地物,,2017-08-08
+3227957,feature attribute,圖徵屬性,,2017-08-08
+3227958,feature attribute type,圖徵屬性型式,,2017-08-08
+3227959,feature catalog,圖徵目錄,,2017-08-08
+3227960,feature class,圖徵類別,,2017-08-08
+3227961,feature classification,圖徵分類；地物分類,,2017-08-08
+3227962,feature codes,圖徵碼;地物編碼,,2017-08-08
+3227963,feature collection,圖徵集合,,2017-08-08
+3227964,feature data,圖徵資料,,2017-08-08
+3227965,feature dataset,圖徵資料集,,2017-08-08
+3227966,feature extraction,特徵萃取,,2017-08-08
+3227967,feature generalization,圖徵概括化,,2017-08-08
+3227968,feature identifier,圖徵識別碼,,2017-08-08
+3227969,feature layer,圖徵圖層,,2017-08-08
+3227970,feature selection,圖徵選取,,2017-08-08
+3227971,feature separation,圖徵分離,,2017-08-08
+3227972,feature server,圖徵伺服器,,2017-08-08
+3227973,feature service,圖徵服務,,2017-08-08
+3227974,feature streaming,圖徵流,,2017-08-08
+3227975,feature type,圖徵類型,,2017-08-08
+3227976,Federal Geographical Data Committee{=FGDC},美國聯邦地理資料委員會,,2017-08-08
+3227977,Federal Information Processing Standards{= FIPS},聯邦資訊處理標準,,2017-08-08
+3227978,federated database,聯合式資料庫,,2017-08-08
+3227979,Fédération Internationale des Géométres{=FIG},國際測量師聯合會,,2017-08-08
+3227980,field,欄位；場,,2020-01-08
+3227981,figure of the earth,地球原子,,2017-08-08
+3227982,file,檔案,,2017-08-08
+3227983,file attribute,檔案屬性,,2017-08-08
+3227984,file compression,檔案壓縮,,2017-08-08
+3227985,file format,檔案格式,,2017-08-08
+3227986,file indexing,檔案索引,,2017-08-08
+3227987,file locking,檔案鎖定,,2017-08-08
+3227988,file management,檔案管理,,2017-08-08
+3227989,file managment system,檔案管理系統,,2017-08-08
+3227990,file name,檔案名稱,,2017-08-08
+3227991,file name extension,副檔名,,2017-08-08
+3227992,file server,檔案伺服器,,2017-08-08
+3227993,file server protocol,檔案伺服器協定,,2017-08-08
+3227994,file structure,檔案結構,,2017-08-08
+3227995,file system,檔案系統,,2017-08-08
+3227996,file transfer,檔案傳輸,,2017-08-08
+3227997,file transfer protocol {=FTP},檔案傳輸協定,,2017-08-08
+3227998,fill,填充,,2017-08-08
+3227999,fillet,圓角,,2017-08-08
+3228000,filtering,過濾；濾波,,2017-08-08
+3228001,fixed length record format,固定長度記錄格式,,2017-08-08
+3228002,fixed reference point,固定參考點,,2017-08-08
+3228003,fixed-time data,定時資料,,2017-08-08
+3228004,flag,標記；旗標,,2017-08-08
+3228005,flap,疊置,,2017-08-08
+3228006,flatbed scanner,平台式掃描儀,,2017-08-08
+3228007,flattening,扁率,,2017-08-08
+3228008,floating point,浮點,,2017-08-08
+3228009,flow direction,流向,,2017-08-08
+3228010,flowchart,流程圖,,2017-08-08
+3228011,folder,資料夾,,2017-08-08
+3228012,folder connection,資料夾連接,,2017-08-08
+3228013,folding map,折頁地圖,,2017-08-08
+3228014,font,字型,,2017-08-08
+3228015,font point size,字型大小,,2017-08-08
+3228016,foreground,前景,,2017-08-08
+3228017,foreign key,外部鍵,,2017-08-08
+3228018,form line,示形線,,2017-08-08
+3228019,format,格式,,2017-08-08
+3228020,format conversion,格式轉換,,2017-08-08
+3228021,formatting,格式化,,2017-08-08
+3228022,fractal,碎形,,2017-08-08
+3228023,fractional scale,分數比例尺,,2017-08-08
+3228024,framework,框架;架構,,2017-08-08
+3228025,framework data,框架資料,,2017-08-08
+3228026,frequency,頻率,,2017-08-08
+3228027,frequency band,頻段;頻帶,,2017-08-08
+3228028,frequency diagram,頻率圖,,2017-08-08
+3228029,frequency plot,頻率圖,,2017-08-08
+3228030,from-node,起始節點,,2017-08-08
+3228031,full cache,全快取,,2017-08-08
+3228032,fully digital mapping,全數位繪圖,,2017-08-08
+3228033,function,功能;函式;函數,,2017-08-08
+3228034,function language,函式語言,,2017-08-08
+3228035,function library,函式庫,,2017-08-08
+3228036,functional database,運作中資料庫,,2017-08-08
+3228037,fuzzy analysis,模糊分析,,2017-08-08
+3228038,fuzzy classification method,模糊分類法,,2017-08-08
+3228039,fuzzy concept,模糊概念,,2017-08-08
+3228040,fuzzy set,模糊集,,2017-08-08
+3228041,fuzzy tolerance,模糊容許度,,2017-08-08
+3228042,gateway service,閘道服務,,2017-08-08
+3228043,Gauss map projection,高斯地圖投影,,2017-08-08
+3228044,Gauss plane coordinate,高斯平面坐標,,2017-08-08
+3228045,Gaussian coordinate,高斯坐標,,2017-08-08
+3228046,Gaussian curvature,高斯曲率,,2017-08-08
+3228047,Gaussian distribution,高斯分布,,2017-08-08
+3228048,Gaussian noise,高斯雜訊,,2017-08-08
+3228049,Gauss-Krüger coordinate,高斯-克呂格坐標,,2017-08-08
+3228050,Gauss-Krüger grid,高斯-克呂格網格,,2017-08-08
+3228051,Gauss-Krüger projection,高斯-克呂格投影,,2017-08-08
+3228052,gazetteer,地名辭典,,2017-08-08
+3228053,general atlas,普通地圖集,,2017-08-08
+3228054,general feature model,通用圖徵模型,,2017-08-08
+3228055,general geographical name,地理通名,,2017-08-08
+3228056,general map,普通地圖,,2017-08-08
+3228057,general model,通用模型,,2017-08-08
+3228058,general plan,綜合計畫,,2017-08-08
+3228059,general purpose computer,通用電腦,,2017-08-08
+3228060,generalization,概括化,,2017-08-08
+3228061,genetic algorithm,基因演算法；遺傳演算法,,2017-08-08
+3228062,Geo TIFF,GeoTIFF格式,,2017-08-08
+3228063,geo-algebra,地理代數,,2017-08-08
+3228064,geo-analysis,地理分析;地學分析,,2017-08-08
+3228065,geocartography,地球製圖,,2017-08-08
+3228066,geocentric coordinate system,地心坐標系,,2017-08-08
+3228067,geocentric datum,地心基準,,2017-08-08
+3228068,geocode,地理編碼,,2017-08-08
+3228069,geocode server,地理編碼伺服器,,2017-08-08
+3228070,geocode service,地理編碼服務,,2017-08-08
+3228071,geocoding,地理編碼,,2017-08-08
+3228073,geocoding editor,地理編碼編輯器,,2017-08-08
+3228074,geocoding engine,地理編碼引擎,,2017-08-08
+3228075,geocoding index,地理編碼索引,,2017-08-08
+3228076,geocoding platform,地理編碼平台,,2017-08-08
+3228077,geocoding process,地理編碼處理,,2017-08-08
+3228078,geocoding reference data,地理編碼參考資料,,2017-08-08
+3228079,geocoding service,地理編碼服務,,2017-08-08
+3228080,geocoding style,地理編碼樣式,,2017-08-08
+3228081,geocoding system,地理編碼系統,,2017-08-08
+3228082,geodata,地理資料;地學資料,,2017-08-08
+3228083,geodatabase,地理資料庫,,2017-08-08
+3228084,geodatabase data model,地理資料庫資料模型,,2017-08-08
+3228085,geodatabase feature data set,地理資料庫圖徵資料集,,2017-08-08
+3228086,geodataset,地理資料集,,2017-08-08
+3228087,geodemographics,地理人口統計學,,2017-08-08
+3228088,geodesy,大地測量學,,2017-08-08
+3228089,geodetic control,大地控制,,2017-08-08
+3228090,geodetic coordinates,大地坐標,,2017-08-08
+3228091,geodetic datum,大地基準,,2017-08-08
+3228092,geodetic height,大地高,,2017-08-08
+3228093,geodetic reference system,大地參考系統,,2017-08-08
+3228094,geodetic survey,大地測量,,2017-08-08
+3228095,geo-distribution,地理分布,,2021-09-15
+3228096,geographic analysis,地理分析,,2017-08-08
+3228097,geographic azimuth,地理方位角,,2017-08-08
+3228098,geographic base file{=GBF},GBF檔案,,2017-08-08
+3228099,geographic boundary,地理邊界,,2017-08-08
+3228100,geographic center,地理中心,,2017-08-08
+3228101,geographic coding,地理編碼,,2017-08-08
+3228102,geographic coordinates,地理坐標,,2017-08-08
+3228103,geographic data,地理資料,,2017-08-08
+3228104,geographic data files{=GDF},GDF檔案,,2017-08-08
+3228105,geographic data set,地理資料集,,2017-08-08
+3228106,geographic database,地理資料庫,,2017-08-08
+3228107,geographic database category,地理資料庫類別,,2017-08-08
+3228108,geographic database management{=GDBM},地理資料庫管理,,2017-08-08
+3228109,geographic direction,地理方向,,2017-08-08
+3228110,geographic entity,地理實體,,2017-08-08
+3228111,geographic feature,地理圖徵,,2017-08-08
+3228112,geographic feature data,地理圖徵資料,,2017-08-08
+3228113,geographic grid,地理網線;地理網格,,2017-08-08
+3228114,geographic identifier,地理辨識符號,,2017-08-08
+3228115,geographic index,地理索引,,2017-08-08
+3228116,geographic information,地理資訊,,2017-08-08
+3228117,geographic information analysis,地理資訊分析,,2017-08-08
+3228118,geographic information science,地理資訊科學,,2017-08-08
+3228119,geographic information standard,地理資訊標準,,2017-08-08
+3228120,geographic information system{=GIS},地理資訊系統,,2017-08-08
+3228121,geographic information system-transportation{=GIS-T},運輸地理資訊系統,,2017-08-08
+3228122,geographic landscape,地理景觀,,2017-08-08
+3228123,geographic latitude,地理緯度,,2017-08-08
+3228124,geographic location,地理位置,,2017-08-08
+3228125,geographic longitude,地理經度,,2017-08-08
+3228126,geographic markup language{=GML},地理標示語言,,2017-08-08
+3228127,geographic meridian,地理子午線,,2017-08-08
+3228128,geographic model,地理模型,,2017-08-08
+3228129,geographic name,地理名稱,,2017-08-08
+3228130,geographic names information system,地名資訊系統,,2017-08-08
+3228131,geographic objects,地理物件,,2017-08-08
+3228132,geographic parallel,地理緯圈,,2017-08-08
+3228133,geographic position,地理位置,,2017-08-08
+3228134,geographic query language{=GQL},地理查詢語言,,2017-08-08
+3228135,geographic survey,地理調查,,2017-08-08
+3228136,geographic transformation,地理轉換,,2017-08-08
+3228137,geographic vertical,鉛垂線,,2017-08-08
+3228138,geographic visualization,地理視覺化,,2017-08-08
+3228139,geographic zone,地理帶,,2017-08-08
+3228140,geographical location,地理位置,,2017-08-08
+3228141,geographical map,地理地圖,,2017-08-08
+3228142,geographical name index,地名索引,,2017-08-08
+3228143,geographical name transliteration,地名譯註,,2017-08-08
+3228144,geographically indexed file,地理索引檔,,2017-08-08
+3228145,geographically referenced data,地理參考資料,,2017-08-08
+3228146,geography,地理學,,2017-08-08
+3228147,geoid,大地水準面,,2017-08-08
+3228148,geoinformatics,[地理]空間資訊科學,,2017-08-08
+3228149,geo-information system,地理資訊系統,,2017-08-08
+3228150,geolocation,地理定位,,2017-08-08
+3228151,geological database,地質資料庫,,2017-08-08
+3228152,geological mapping,地質製圖,,2017-08-08
+3228153,geological photomap,像片地質圖,,2017-08-08
+3228154,geomatics,[地理]空間資訊科學,,2017-08-08
+3228155,geometric coincidence,幾何一致性,,2017-08-08
+3228156,geometric correction,幾何校正,,2017-08-08
+3228157,geometric elements,幾何元素,,2017-08-08
+3228158,geometric network,幾何網路,,2017-08-08
+3228159,geometric object,幾何物件,,2017-08-08
+3228160,geometric primitive,幾何基元,,2017-08-08
+3228161,geometric rectification,幾何糾正,,2017-08-08
+3228162,geometric registration,幾何套合,,2017-08-08
+3228163,geometric transformation,幾何轉換,,2017-08-08
+3228164,geometry,幾何學,,2017-08-08
+3228165,geoprocessing,地理處理,,2017-08-08
+3228166,georeference,地理坐標參考,,2017-08-08
+3228167,georeference system,地理坐標參考系統,,2017-08-08
+3228168,georelational data model,地理關聯資料模型,,2017-08-08
+3228169,georelational model,地理關聯模型,,2017-08-08
+3228170,geospatial data clearinghouse,地理空間資料交換網站,,2017-08-08
+3228171,geospatial data warehouse,地理空間資料倉儲,,2017-08-08
+3228172,geospatial information,地理空間資訊,,2017-08-08
+3228173,geospatial portal,地理空間入口網站,,2017-08-08
+3228174,geospecific model,地理特定模型,,2017-08-08
+3228175,geostationary orbit,地球同步軌道,,2017-08-08
+3228176,geostationary satellite,地球同步衛星,,2017-08-08
+3228177,geostatistics,地理統計,,2017-08-08
+3228178,geo-synchronous satellite,地球同步衛星,,2017-08-08
+3228179,GIS server,地理資訊系統伺服器,,2017-08-08
+3228180,GIS web services,地理資訊網路服務,,2017-08-08
+3228181,global climatic observation system{=GCOS},全球氣候觀測系統,,2017-08-08
+3228182,global information infrastructure{=GII},全球資訊基礎建設,,2017-08-08
+3228183,global mode,全球模式,,2017-08-08
+3228184,global navigation positioning satellite,全球導航定位衛星,,2017-08-08
+3228185,Global Navigation Satellite System{=GLONASS},俄羅斯全球導航衛星系統,,2017-08-08
+3228186,global navigation satellite system{=GNSS},全球導航衛星系統,,2017-08-08
+3228187,global navigation system,全球導航系統,,2017-08-08
+3228188,global ocean observation system{=GOOS},全球海洋觀測系統,,2017-08-08
+3228189,Global Orbiting Navigation Satellite System{=GLONASS},俄羅斯全球導航衛星系統,,2017-08-08
+3228190,Global Positioning System{=GPS},全球定位系統,,2017-08-08
+3228191,glyph,圖元;字形,,2017-08-08
+3228192,GML application schema,地理標記語言應用標準,,2017-08-08
+3228193,gnomonic projection,日晷投影,,2017-08-08
+3228194,G-polygon,G多邊形,,2017-08-08
+3228195,gradient,梯度;坡度,,2017-08-08
+3228196,graduated color map,分級設色圖,,2017-08-08
+3228197,graduated symbol map,分級符號圖,,2017-08-08
+3228198,granularity,粒度,,2017-08-08
+3228199,graph,圖,,2017-08-08
+3228200,graphic component,圖形組件,,2017-08-08
+3228201,graphic database,圖形資料庫,,2017-08-08
+3228202,graphic device interface{=GDI},圖形設備介面,,2017-08-08
+3228203,graphic display,圖形顯示,,2017-08-08
+3228204,graphic input unit,圖形輸入單元,,2017-08-08
+3228205,graphic interchange format{=GIF},GIF格式,,2017-08-08
+3228206,graphic manipulation,圖形操作處理,,2017-08-08
+3228207,graphic output unit,圖形輸出單元,,2017-08-08
+3228208,graphic overlay,圖形套疊,,2017-08-08
+3228209,graphic presentation,圖形表示,,2017-08-08
+3228210,graphic primitive,圖形基元,,2017-08-08
+3228211,graphic rectification,圖解糾正,,2017-08-08
+3228212,graphic scale,圖形比例尺,,2017-08-08
+3228213,graphic sign,圖形記號,,2017-08-08
+3228214,graphic superimposition,圖形套疊,,2017-08-08
+3228215,graphic symbol,圖形符號,,2017-08-08
+3228216,graphic terminal,圖形終端機,,2017-08-08
+3228217,graphic text,圖形文字,,2017-08-08
+3228218,graphic variable,圖形變數,,2017-08-08
+3228219,graphical user interface{=GUI},圖形使用者介面,,2017-08-08
+3228220,graphics,圖形,,2017-08-08
+3228221,graphics accelerator,圖形加速卡,,2017-08-08
+3228222,graphics adapter,圖形配接器,,2017-08-08
+3228223,graphics design system,圖形設計系統,,2017-08-08
+3228224,graphics display terminal,圖形顯示終端機,,2017-08-08
+3228225,graphics display unit,圖形顯示單元,,2017-08-08
+3228226,graphics inquiry,圖形查詢,,2017-08-08
+3228227,graphics kernal system{=GKS},圖形核心系統,,2017-08-08
+3228228,graphics language,圖形語言,,2017-08-08
+3228229,graphics mode,圖形模式,,2017-08-08
+3228230,graphics page,圖形頁面,,2017-08-08
+3228231,graphics resolution,圖形解析度,,2017-08-08
+3228232,graphics screen,圖形螢幕,,2017-08-08
+3228233,graphics software,圖形軟體,,2017-08-08
+3228234,graphics tablet,圖形[數化]板,,2017-08-08
+3228235,graticule,地理網格,,2017-08-08
+3228236,gravimeter,重力儀,,2017-08-08
+3228237,gravimetric geodesy,重力大地測量學,,2017-08-08
+3228238,gravity model,重力模型,,2017-08-08
+3228239,gray level slicing,灰階分層,,2017-08-08
+3228240,gray model,灰度模式,,2017-08-08
+3228241,grayscale,灰階,,2017-08-08
+3228242,grayscale map,灰階地圖,,2017-08-08
+3228243,great circle,大圓,,2017-08-08
+3228244,Greenwich mean time{=GMT},格林威治時間,,2017-08-08
+3228245,Greenwich meridian,格林威治子午線,,2017-08-08
+3228246,grid,網格;方格,,2017-08-08
+3228247,grid cell,網格,,2017-08-08
+3228248,grid coordinates,網格坐標,,2017-08-08
+3228249,grid data,網格資料,,2017-08-08
+3228250,grid format,網格格式,,2017-08-08
+3228251,grid interval,網格間距,,2017-08-08
+3228252,grid map,網格地圖,,2017-08-08
+3228253,grid meridian,網格經線,,2017-08-08
+3228254,grid note,方格註記,,2017-08-08
+3228255,grid reference,網格參考,,2017-08-08
+3228256,grid resolution,網格解析度,,2017-08-08
+3228257,grid squares,網格方陣,,2017-08-08
+3228258,grid tick,網格標記,,2017-08-08
+3228259,grid to arc conversion,網格-弧線轉換,,2017-08-08
+3228260,grid to polygon conversion,網格-多邊形轉換,,2017-08-08
+3228261,gridding,網格化,,2017-08-08
+3228262,grivation,方格磁角,,2017-08-08
+3228263,ground control,地面控制,,2017-08-08
+3228264,ground control point{=GCP},地面控制點,,2017-08-08
+3228265,ground receiving station,地面接收站,,2017-08-08
+3228266,ground resolution,地面解析度,,2017-08-08
+3228267,hachure,暈滃,,2017-08-08
+3228268,halftone,半色調,,2017-08-08
+3228269,halftone image,半色調影像,,2017-08-08
+3228270,Hamiltonian circuit,漢米頓環線,,2017-08-08
+3228271,Hamiltonian path,漢米頓路徑,,2017-08-08
+3228272,hard copy,硬式拷貝；硬式複製,,2017-08-08
+3228273,hardware,硬體,,2017-08-08
+3228274,hardware key,硬體鎖,,2017-08-08
+3228275,hatch,暈線,,2017-08-08
+3228276,hatching,繪暈線,,2017-08-08
+3228277,header file,標頭檔,,2017-08-08
+3228278,header line,標題列,,2017-08-08
+3228279,header record,檔頭記錄,,2017-08-08
+3228280,heads-up digitizing,螢幕數化,,2017-08-08
+3228281,Helmert transformation,赫爾默特轉換,,2017-08-08
+3228282,heuristic rule,啟發式法則,,2017-08-08
+3228283,heuristics,啟發式方法,,2017-08-08
+3228284,hexadecimal,十六進位,,2017-08-08
+3228285,hexadecimal code,十六進位碼,,2017-08-08
+3228286,hexadecimal notation,十六進記法,,2017-08-08
+3228287,hexadecimal number,十六進位數,,2017-08-08
+3228288,hidden attribute,隱含屬性,,2017-08-08
+3228289,hidden line,隱藏線,,2017-08-08
+3228290,hidden line removal,隱藏線移除,,2017-08-08
+3228291,hidden variable,隱含變數,,2017-08-08
+3228292,hierarchical,階層式,,2017-08-08
+3228293,hierarchical computer network,階層式電腦網路,,2017-08-08
+3228294,hierarchical data model,階層式資料模式,,2017-08-08
+3228295,hierarchical data structure,階層式資料結構,,2017-08-08
+3228296,hierarchical database,階層式資料庫,,2017-08-08
+3228297,hierarchical database structure,階層式資料庫結構,,2017-08-08
+3228298,hierarchical districts,階層式分區,,2017-08-08
+3228299,hierarchical file structure,階層式檔案結構,,2017-08-08
+3228300,hierarchical model,階層式模式,,2017-08-08
+3228301,hierarchical relationship,階層式關係,,2017-08-08
+3228302,hierarchical sequence,階層式序列,,2017-08-08
+3228303,hierarchical spatial relationship,階層式空間關係,,2017-08-08
+3228304,hierarchical storage,階層式儲存,,2017-08-08
+3228305,hierarchical structure,階層式結構,,2017-08-08
+3228306,hierarchization,階層化,,2017-08-08
+3228307,hierarchy,階層,,2017-08-08
+3228308,high density digital tape{=HDDT},高密度數位磁帶,,2017-08-08
+3228309,high density diskette,高密度磁片,,2017-08-08
+3228310,high frequency emphasis filtering,高頻增強濾波,,2017-08-08
+3228311,high memory area,高層記憶體區段,,2017-08-08
+3228312,high pass filter,高通濾波器,,2017-08-08
+3228313,high pass filtering,高通濾波,,2017-08-08
+3228314,high-level language,高階語言,,2017-08-08
+3228315,highpass filter,高通濾波器,,2017-08-08
+3228316,high-performance workstation,高性能工作站,,2017-08-08
+3228317,hill shading,暈渲,,2017-08-08
+3228318,histogram,直方圖,,2017-08-08
+3228319,histogram adjustment,直方圖調整,,2017-08-08
+3228320,histogram equalization,直方圖等化,,2017-08-08
+3228321,histogram linearization,直方圖線性化,,2017-08-08
+3228322,histogram matching,直方圖匹配,,2017-08-08
+3228323,histogram normalization,直方圖正規化,,2017-08-08
+3228324,histogram specification,直方圖規格化,,2017-08-08
+3228325,historical record,歷史記錄,,2017-08-08
+3228326,hole,孤立多邊形；洞,,2017-08-08
+3228327,homolosine map projection,同正弦投影,,2017-08-08
+3228328,horizon,地平,,2017-08-08
+3228329,horizontal angle,水平角,,2017-08-08
+3228330,horizontal control,平面控制,,2017-08-08
+3228331,horizontal control datum,平面控制基準,,2017-08-08
+3228332,horizontal coordinate,平面坐標,,2017-08-08
+3228333,horizontal integration,水平整合,,2017-08-08
+3228334,host,主機,,2017-08-08
+3228335,hot link,熱鏈接,,2017-08-08
+3228336,HTML viewer,超文字標記語言檢視器;HTML檢視器,,2017-08-08
+3228337,hub,集線器,,2017-08-08
+3228339,hue,色相;色度,,2017-08-08
+3228340,Huffman code,霍夫曼編碼,,2017-08-08
+3228341,Huffman transformation,霍夫曼轉換,,2017-08-08
+3228342,human computer interaction,人機互動,,2017-08-08
+3228343,human computer interface,人機界面,,2017-08-08
+3228344,human geography,人文地理,,2017-08-08
+3228345,hybrid data structure,混合式資料結構,,2017-08-08
+3228346,hydrographic datum,水文基準,,2017-08-08
+3228347,hydrographic survey,水文測量,,2017-08-08
+3228348,hydrology,水文學,,2017-08-08
+3228349,hyper text transfer protocol{=HTTP},超文字傳輸協定,,2017-08-08
+3228350,hypergraph,超圖,,2017-08-08
+3228351,hyperlink,超鏈結,,2017-08-08
+3228352,hypermedia,超媒體,,2017-08-08
+3228353,hyperspectrum,高光譜,,2017-08-08
+3228354,hypertext,超文字,,2017-08-08
+3228355,hypertext markup language{=HTML},超文字標記語言,,2017-08-08
+3228356,hypsography,高度分布法,,2017-08-08
+3228357,hypsometric map,分層設色圖,,2017-08-08
+3228358,hypsometric tinting,分層設色,,2017-08-08
+3228360,hypsometry,高度測量,,2017-08-08
+3228361,icon,圖示,,2017-08-08
+3228362,iconogrammetry,影像測量學,,2017-08-08
+3228363,identification{=ID},識別；標識,,2017-08-08
+3228364,identifier,識別符；標識符號,,2017-08-08
+3228365,illumination function,照度函數,,2017-08-08
+3228366,image,影像,,2017-08-08
+3228367,image analysis,影像分析,,2017-08-08
+3228368,image boundary,影像邊界,,2017-08-08
+3228369,image catalog,影像目錄,,2017-08-08
+3228370,image classification,影像分類,,2017-08-08
+3228371,image coding,影像編碼,,2017-08-08
+3228372,image compression,影像壓縮,,2017-08-08
+3228373,image contrast,影像對比,,2017-08-08
+3228374,image coordinate,影像坐標,,2017-08-08
+3228375,image correlation,影像相關,,2017-08-08
+3228376,image data,影像資料,,2017-08-08
+3228377,image data base,影像資料庫,,2017-08-08
+3228378,image data collection,影像資料蒐集,,2017-08-08
+3228379,image data compression,影像資料壓縮,,2017-08-08
+3228380,image data retrieval,影像資料檢索,,2017-08-08
+3228381,image data storage,影像資料儲存,,2017-08-08
+3228382,image degradation,影像衰減,,2017-08-08
+3228383,image display system,影像顯示系統,,2017-08-08
+3228384,image distortion,影像畸變,,2017-08-08
+3228385,image enhancement,影像增顯,,2017-08-08
+3228386,image feature,影像特徵,,2017-08-08
+3228387,image file,影像檔案,,2017-08-08
+3228388,image fusion,影像融合,,2017-08-08
+3228389,image I/O system,影像輸入輸出系統,,2017-08-08
+3228390,image interpretation,影像判釋,,2017-08-08
+3228391,image map,影像圖,,2017-08-08
+3228392,image matching,影像匹配,,2017-08-08
+3228393,image metadata,影像詮釋資料,,2017-08-08
+3228394,image processing,影像處理,,2017-08-08
+3228395,image processing facility,影像處理設備,,2017-08-08
+3228396,image processing system,影像處理系統,,2017-08-08
+3228397,image recognition,影像識別,,2017-08-08
+3228398,image rectification,影像糾正,,2017-08-08
+3228399,image registration,影像對位,,2017-08-08
+3228400,image resolution,影像解析度,,2017-08-08
+3228401,image restoration,影像復原,,2017-08-08
+3228402,image scale,影像比例尺,,2017-08-08
+3228403,image segmentation,影像分塊,,2017-08-08
+3228404,image server,影像伺服器,,2017-08-08
+3228405,image service,影像服務,,2017-08-08
+3228406,image sharpening,影像銳化,,2017-08-08
+3228407,image sharpness,影像清晰度,,2017-08-08
+3228408,image smoothing,影像平滑化,,2017-08-08
+3228409,image storage system,影像儲存系統,,2017-08-08
+3228410,image transformation,影像轉換,,2017-08-08
+3228411,imaging,成像,,2017-08-08
+3228412,imaging radar,成像雷達,,2017-08-08
+3228413,imaging spectrometer,成像光譜儀,,2017-08-08
+3228414,imaging system,成像系統,,2017-08-08
+3228415,impedance model,阻力模式,,2017-08-08
+3228416,implementation specification,實作規格,,2017-08-08
+3228417,implementation view,實作觀點,,2017-08-08
+3228418,import,載入,,2017-08-08
+3228419,inclusion,包含,,2017-08-08
+3228420,index,索引;指標,,2017-08-08
+3228421,index contour,計曲線,,2017-08-08
+3228422,index line microscope,指標顯微鏡,,2017-08-08
+3228423,index map,索引圖,,2017-08-08
+3228424,indexed non-sequential file,索引非順序檔,,2017-08-08
+3228425,indexed sequential file,索引順序檔,,2017-08-08
+3228426,Indian Space Research Organization{=ISRO},印度太空研究組織,,2017-08-08
+3228427,indirect measurement,間接量測,,2017-08-08
+3228428,indirect observation,間接觀測,,2017-08-08
+3228429,industrial standard,工業標準,,2017-08-08
+3228430,informatics,資訊學,,2017-08-08
+3228431,information,資訊,,2017-08-08
+3228432,information appliance,資訊設備,,2017-08-08
+3228433,information collection,資訊蒐集,,2017-08-08
+3228434,information community,資訊社群,,2017-08-08
+3228435,information contents,資訊內容,,2017-08-08
+3228436,information extraction,資訊萃取,,2017-08-08
+3228437,information format,資訊格式,,2017-08-08
+3228438,information fusion,資訊融合,,2017-08-08
+3228439,information management,資訊管理,,2017-08-08
+3228440,information management system{=IMS},資訊管理系統,,2017-08-08
+3228441,information rate,資訊率,,2017-08-08
+3228442,information resource dictionary system{=IRDS},資訊資源字典系統,,2017-08-08
+3228443,information resource management{=IRM},資訊資源管理,,2017-08-08
+3228444,information retrieval system,資訊檢索系統,,2017-08-08
+3228445,information revolution,資訊革命,,2017-08-08
+3228446,information safety,資訊安全,,2017-08-08
+3228447,information science,資訊科學,,2017-08-08
+3228448,information security,資訊安全,,2017-08-08
+3228449,Information storage interface{=ISI},訊息儲存介面,,2017-08-08
+3228450,information structure,資訊結構,,2017-08-08
+3228451,information system,資訊系統,,2017-08-08
+3228452,information technology{=IT},資訊技術,,2017-08-08
+3228453,information theory,資訊理論,,2017-08-08
+3228454,information viewpoint,資訊觀點,,2017-08-08
+3228455,infrared scanner,紅外線掃描儀,,2017-08-08
+3228456,inheritance,繼承,,2017-08-08
+3228457,ink jet plotter,噴墨式繪圖機,,2017-08-08
+3228458,input,輸入,,2017-08-08
+3228459,input data,輸入資料,,2017-08-08
+3228460,input device,輸入設備,,2017-08-08
+3228461,input/output{=I/O},輸入/輸出,,2017-08-08
+3228462,inquiry,查詢,,2017-08-08
+3228463,insert,插入,,2017-08-08
+3228464,inset map,插圖,,2017-08-08
+3228465,instance,實例,,2017-08-08
+3228466,instantaneous field of view {= IFOV},瞬間視場,,2017-08-08
+3228467,instantiation,實例化,,2017-08-08
+3228468,Institute of Electrical and Electronics Engineers{=IEEE},電子電機工程師協會,,2017-08-08
+3228469,integer,整數,,2017-08-08
+3228470,integrated data layer,整合式資料層,,2017-08-08
+3228471,integrated database,整合式資料庫,,2017-08-08
+3228472,integrated database management system,整合式資料庫管理系統,,2017-08-08
+3228473,integrated feature dataset,整合式圖徵資料集,,2017-08-08
+3228474,integrated geographical information system,整合式地理資訊系統,,2017-08-08
+3228475,integrated global observation system{=IGOS},整合式全球觀測系統,,2017-08-08
+3228476,integrated information system,整合式資訊系統,,2017-08-08
+3228477,integrated map,複合地圖,,2017-08-08
+3228478,integrated services digital network{=ISDN},整體服務數位網路,,2017-08-08
+3228479,integration,整合;積分,,2017-08-08
+3228480,intelligent transportation system{=ITS},智慧型運輸系統,,2017-08-08
+3228481,intelligent workstation,智慧型工作站,,2017-08-08
+3228482,interaction,互動;交互作用,,2017-08-08
+3228483,interactive digitizing,互動式數化,,2017-08-08
+3228484,interactive editing,互動式編輯,,2017-08-08
+3228485,interactive graphics,互動式圖像,,2017-08-08
+3228486,interactive mode,互動模式,,2017-08-08
+3228487,interactive processing,互動式處理,,2017-08-08
+3228488,interactive topology,互動式位相,,2017-08-08
+3228489,interactive vectorization,互動式向量化,,2017-08-08
+3228490,inter-application communication{=IAC},應用程式間通訊,,2017-08-08
+3228491,intercalary year,閏年,,2017-08-08
+3228492,interchange format,交換格式,,2017-08-08
+3228493,interface,介面,,2017-08-08
+3228494,interface definition language,介面定義語言,,2017-08-08
+3228495,interior area,內部區域,,2017-08-08
+3228496,interior feature weight,內部圖徵權重,,2017-08-08
+3228497,intermediary,媒介,,2017-08-08
+3228498,intermediate data,中間資料,,2017-08-08
+3228499,internal data model,內部資料模型,,2017-08-08
+3228500,internal data structure,內部資料結構,,2017-08-08
+3228501,internal database file,內部資料庫檔,,2017-08-08
+3228502,international date line,國際換日線,,2017-08-08
+3228503,International Electrotechnical Committee{=IEC},國際電訊科技委員會,,2017-08-08
+3228504,international ellipsoid,國際橢球體,,2017-08-08
+3228505,International Federation of Surveyors,國際測量師聯合會,,2017-08-08
+3228506,international graphics exchange system{=IGES},國際圖形交換系統,,2017-08-08
+3228507,International Organization for Standardization{=ISO},國際標準組織,,2017-08-08
+3228508,International Telegraph and Telephone Consultative Committee,國際電報電話諮詢委員會,,2017-08-08
+3228509,international terrestrial reference system{=ITRS},國際地球參考系統,,2017-08-08
+3228510,internet,網際網路,,2017-08-08
+3228512,interoperability,互操作性,,2017-08-08
+3228513,interoperability program,互操作程式,,2017-08-08
+3228514,interoperability program report,互操作程式報告,,2017-08-08
+3228515,interpolation,內插,,2017-08-08
+3228516,intersect,交集,,2017-08-08
+3228517,intersection,交集,,2017-08-08
+3228518,intervisibility,通視,,2017-08-08
+3228519,intranet,內部網路,,2017-08-08
+3228520,inverse cylindrical orthomorphic map projection,橫圓柱正形地圖投影,,2017-08-08
+3228521,inverse distance weighted{=IDW},距離反比權重,,2017-08-08
+3228522,inverse fast Fourier transform,快速傅利葉反轉換,,2017-08-08
+3228523,invisible line,隱藏線,,2017-08-08
+3228524,IP address,IP位址,,2017-08-08
+3228525,isarithmic line,等值線,,2017-08-08
+3228526,isarithmic map,等值線圖,,2017-08-08
+3228527,island polygon,島形多邊形,,2017-08-08
+3228528,isobar,等壓線,,2017-08-08
+3228529,isobath,等深線,,2017-08-08
+3228530,isolated contour line,獨立等高線,,2017-08-08
+3228531,isometric line,等量線,,2017-08-08
+3228532,isotherm,等溫線,,2017-08-08
+3228533,isotropy,等向性,,2017-08-08
+3228534,issue number,版次,,2017-08-08
+3228535,item,項目,,2017-08-08
+3228536,iteration,迭代,,2017-08-08
+3228537,iterative procedure,迭代過程,,2017-08-08
+3228538,Japanese Earth Resources Satellite｛=JERS｝,日本地球資源衛星,,2017-08-08
+3228539,Java data base connectivity{=JDBC},Java資料庫連結,,2017-08-08
+3228540,Java program language,Java語言,,2017-08-08
+3228541,join,連結,,2017-08-08
+3228542,joint photographic experts group format{=JPEG},JPEG圖檔,,2017-08-08
+3228543,journal file,日誌檔,,2017-08-08
+3228544,junction,交叉點,,2017-08-08
+3228545,key attribute,主屬性;關鍵屬性,,2017-08-08
+3228546,key entry,鍵盤輸入,,2017-08-08
+3228547,key field,主欄位,,2017-08-08
+3228548,key identifier,關鍵識別碼,,2017-08-08
+3228549,key map,全覽圖,,2017-08-08
+3228550,key word,關鍵字,,2017-08-08
+3228551,keyboard shortcut,快捷鍵,,2017-08-08
+3228552,kilobyte{=KB},千位元組,,2017-08-08
+3228553,knowledge base,知識庫,,2017-08-08
+3228554,knowledge base system{=KBS},知識庫系統,,2017-08-08
+3228555,Kriging,克利金法,,2017-08-08
+3228556,label,標註,,2017-08-08
+3228557,label conflict,標註衝突,,2017-08-08
+3228558,label point,標註點,,2017-08-08
+3228559,labelling,標註,,2017-08-08
+3228560,lag,延遲,,2017-08-08
+3228561,Lambert’s conic conformal projection,蘭伯特正形圓錐投影,,2017-08-08
+3228562,Lambert’s equal-area meridional map projection,蘭伯特等積經向投影,,2017-08-08
+3228563,land attributes,土地屬性,,2017-08-08
+3228564,land cover,土地覆蓋,,2017-08-08
+3228565,land evaluation,土地評估,,2017-08-08
+3228566,land information system{=LIS},土地資訊系統,,2017-08-08
+3228567,land terrier,地籍冊,,2017-08-08
+3228568,land type,地類,,2017-08-08
+3228569,land unit,土地單元,,2017-08-08
+3228570,land use,土地利用,,2017-08-08
+3228571,land use category,土地利用分類,,2017-08-08
+3228572,land use data,土地利用數據,,2017-08-08
+3228573,land use map,土地使用圖,,2017-08-08
+3228574,land utilization,土地利用,,2017-08-08
+3228575,landform,地形,,2017-08-08
+3228576,landmark,地標,,2017-08-08
+3228577,Landsat,大地衛星,,2017-08-08
+3228578,Landsat MSS,大地衛星多光譜掃描儀,,2017-08-08
+3228579,Landsat multispectral scanner,大地衛星多光譜掃描儀,,2017-08-08
+3228580,Landsat thematic mapper,大地衛星主題製圖儀,,2017-08-08
+3228581,landsat TM,大地衛星主題製圖儀,,2017-08-08
+3228582,landscape map,景觀地圖,,2017-08-08
+3228583,land-type map,土地類型圖,,2017-08-08
+3228584,landuse inventory,土地利用調查,,2017-08-08
+3228585,landuse planning,土地利用規劃,,2017-08-08
+3228586,landuse survey,土地利用調查,,2017-08-08
+3228587,large scale,大比例尺,,2017-08-08
+3228588,laser plotter,雷射繪圖機,,2017-08-08
+3228589,laser printer,雷射印表機,,2017-08-08
+3228590,late binding,遲連結,,2017-08-08
+3228591,latitude,緯度;縱距,,2017-08-08
+3228592,latitude of center,[投影]中心點緯度,,2017-08-08
+3228593,latitude of origin,原點緯度,,2017-08-08
+3228594,latitude-longitude,經緯,,2017-08-08
+3228595,latitude-longitude coordinate system,經緯度坐標系統,,2017-08-08
+3228596,lattice,方格網,,2017-08-08
+3228597,layer,分層;圖層,,2017-08-08
+3228599,layer file,圖層檔案,,2017-08-08
+3228600,layer index,圖層索引,,2017-08-08
+3228601,layer tinting,分層設色,,2017-08-08
+3228602,layered map visualization,圖層視覺化,,2017-08-08
+3228603,laying off,放樣;測設,,2017-08-08
+3228604,layout,圖面配置,,2017-08-08
+3228605,layout view,版面檢視,,2017-08-08
+3228606,layover,頂底位移;疊掩,,2017-08-08
+3228607,L-band,L波段,,2017-08-08
+3228608,leaf node,葉節點,,2017-08-08
+3228609,leaking polygon,不閉合多邊形,,2017-08-08
+3228610,leap day,閏日,,2017-08-08
+3228611,least squares adjustment,最小平方平差,,2017-08-08
+3228612,least squares corrections,最小平方改正,,2017-08-08
+3228613,least-cost path,最低成本路徑,,2017-08-08
+3228614,left-right topology,左右位相,,2017-08-08
+3228615,legend,圖例;圖式,,2017-08-08
+3228616,Lempel-Zif-Welch compression{=LZW compression},LZW壓縮,,2017-08-08
+3228617,level,層次,,2017-08-08
+3228618,level of confidence,信賴水準,,2017-08-08
+3228619,level of detail{=LOD},細緻度,,2017-08-08
+3228620,level of significance,顯著水準,,2017-08-08
+3228621,leveling,定平;水準測量,,2017-08-08
+3228622,license,使用許可,,2017-08-08
+3228623,license file,使用許可檔案,,2017-08-08
+3228624,lidar,光達,,2017-08-08
+3228625,limits,限制,,2017-08-08
+3228626,line,線,,2017-08-08
+3228627,line connection,線連接,,2017-08-08
+3228628,line coverage,線圖層,,2017-08-08
+3228629,line driver,線驅動器,,2017-08-08
+3228630,line element,線元素,,2017-08-08
+3228631,line feature,線圖徵,,2017-08-08
+3228632,line generalization,線概括化,,2017-08-08
+3228633,line graph,線畫圖,,2017-08-08
+3228634,line intersection,線交會,,2017-08-08
+3228635,line map,線畫圖,,2017-08-08
+3228636,line mode,線模式,,2017-08-08
+3228637,line of sight,視準線；視線,,2017-08-08
+3228638,line of sight map,視線圖；通視圖,,2017-08-08
+3228639,line pattern,線型,,2017-08-08
+3228640,line simplification,線簡化,,2017-08-08
+3228641,line smoothing,線平滑化,,2017-08-08
+3228642,line string,線串,,2017-08-08
+3228643,line symbol,線符號,,2017-08-08
+3228644,line thinning,線細化,,2017-08-08
+3228645,line weight,線寬,,2017-08-08
+3228646,lineage,資料處理歷程,,2017-08-08
+3228647,linear dimension,線性維度,,2017-08-08
+3228648,linear feature,線狀圖徵,,2017-08-08
+3228649,linear reference system,線性參考系統,,2017-08-08
+3228650,linear referencing,線性參考,,2017-08-08
+3228651,linear transformation,線性轉換,,2017-08-08
+3228652,linear unit,線性單位,,2017-08-08
+3228653,line-in-polygon operation,線在多邊形處理,,2021-11-29
+3228654,line-on-line overlay,線圖層套疊,,2017-08-08
+3228655,line-on-point overlay,點線圖層套疊,,2017-08-08
+3228656,link,鏈結；連結,,2017-08-08
+3228657,link and node structure,連結線和節點架構,,2017-08-08
+3228658,link command,連接指令,,2017-08-08
+3228659,link lines,連接線,,2017-08-08
+3228660,link tool,連接工具,,2017-08-08
+3228661,load balance,負載平衡,,2017-08-08
+3228662,load of map content,地圖內容負載量,,2017-08-08
+3228663,local analysis,局部分析,,2017-08-08
+3228664,local area network{=LAN},區域網路,,2017-08-08
+3228665,local check method,局部檢查方法,,2017-08-08
+3228666,local coordinate system,地方坐標系統,,2017-08-08
+3228667,localization,在地化；局部化,,2017-08-08
+3228668,locating,定位,,2017-08-08
+3228669,location,區位,,2017-08-08
+3228670,location dependent services,適地性服務,,2017-08-08
+3228671,location error,定位誤差,,2017-08-08
+3228672,location service,定位服務,,2017-08-08
+3228673,locational reference,定位參考,,2017-08-08
+3228674,location-allocation,區位配置,,2017-08-08
+3228675,location-based services{= LBS},適地性服務,,2017-08-08
+3228676,locator,定位器,,2017-08-08
+3228677,locking,鎖定,,2017-08-08
+3228678,log file,日誌檔,,2017-08-08
+3228679,logic,邏輯；理則,,2017-08-08
+3228680,logical consistency,邏輯一致性,,2017-08-08
+3228681,logical data model,邏輯資料模式,,2017-08-08
+3228682,logical data structure,邏輯資料結構,,2017-08-08
+3228683,logical database {= LDB},邏輯資料庫,,2017-08-08
+3228684,logical design,邏輯設計,,2017-08-08
+3228685,logical expression,邏輯表達,,2017-08-08
+3228686,logical network,邏輯網路,,2017-08-08
+3228687,logical operation,邏輯運算,,2017-08-08
+3228688,logical operator,邏輯運算子,,2017-08-08
+3228689,logical order,邏輯指令,,2017-08-08
+3228690,logical overlap,邏輯套疊,,2017-08-08
+3228691,logical query,邏輯查詢,,2017-08-08
+3228692,logical record,邏輯記錄,,2017-08-08
+3228693,logical relationship,邏輯關聯,,2017-08-08
+3228694,logical selection,邏輯選擇,,2017-08-08
+3228695,logical storage structure,邏輯儲存結構,,2017-08-08
+3228696,logical unit,邏輯單元,,2017-08-08
+3228697,login,登入,,2017-08-08
+3228698,logoff,登出,,2017-08-08
+3228699,logon,登入,,2017-08-08
+3228700,logout,登出,,2017-08-08
+3228701,longitude,經度,,2017-08-08
+3228702,longitude of center,中央經線,,2017-08-08
+3228703,longitude of origin,起始經度,,2017-08-08
+3228704,longitudinal tilt,航向傾斜,,2017-08-08
+3228705,look-up table {=LUT},對照表,,2017-08-08
+3228706,loose coupled service,鬆散耦合服務,,2017-08-08
+3228707,loose coupling,鬆散耦合服務,,2017-08-08
+3228708,lossless compression,無損壓縮,,2017-08-08
+3228709,lossy compression,有損壓縮,,2017-08-08
+3228710,lot,[土地]區塊,,2017-08-08
+3228711,low level language,低階語言,,2017-08-08
+3228712,low oblique photography,低傾攝影,,2017-08-08
+3228713,low pass filter,低通濾波器,,2017-08-08
+3228714,lowpass filter,低通濾波器,,2017-08-08
+3228715,lowpass filtering,低通濾波,,2017-08-08
+3228716,loxodrome,恆向線,,2017-08-08
+3228717,machine encoding,機器編碼,,2017-08-08
+3228718,machine language,機器語言,,2017-08-08
+3228719,macro,巨集,,2017-08-08
+3228720,macro language,巨集語言,,2017-08-08
+3228721,macro programming,巨集程式設計,,2017-08-08
+3228722,magnatec declination,磁偏角,,2017-08-08
+3228723,magnetometer,磁力計,,2017-08-08
+3228724,magnifier window,放大鏡視窗,,2017-08-08
+3228725,Mahalanobis distance,馬哈拉諾畢斯距離,,2017-08-08
+3228726,maintenance license,維護許可,,2017-08-08
+3228727,maintenance renewal,維護更新,,2017-08-08
+3228728,major axis,主軸,,2017-08-08
+3228729,management database,管理資料庫,,2017-08-08
+3228730,management information system {=MIS},管理資訊系統,,2017-08-08
+3228731,manual digitizing,人工數化,,2017-08-08
+3228732,manual encoding,人工編碼,,2017-08-08
+3228733,manual interpretation,人工判釋,,2017-08-08
+3228734,manuscript map,稿圖,,2017-08-08
+3228735,many-to-many,多對多,,2017-08-08
+3228736,many-to-many-relationship,多對多關係,,2017-08-08
+3228737,many-to-one,多對一,,2017-08-08
+3228738,many-to-one-relationship,多對一關係,,2017-08-08
+3228739,map,地圖,,2017-08-08
+3228740,map accuracy,地圖準確度,,2017-08-08
+3228741,map adjustment,地圖調整,,2017-08-08
+3228742,map algebra,地圖代數,,2017-08-08
+3228743,map annotation,文字註記,,2017-08-08
+3228744,map border,圖廓,,2017-08-08
+3228746,map cache,地圖快取,,2017-08-08
+3228747,map compilation,地圖編繪,,2017-08-08
+3228748,map coverage,圖層,,2017-08-08
+3228749,map data file,地圖資料檔,,2017-08-08
+3228750,map data retrieval,地圖資料檢索,,2017-08-08
+3228751,map database,地圖資料庫,,2017-08-08
+3228752,map decoration,地圖整飾,,2017-08-08
+3228753,map design,地圖設計,,2017-08-08
+3228754,map digitizing,地圖數化,,2017-08-08
+3228755,map display,地圖顯示,,2017-08-08
+3228756,map distortion,地圖變形,,2017-08-08
+3228757,map distribution,地圖供應；地圖分送,,2017-08-08
+3228758,map document,地圖文件,,2017-08-08
+3228759,map duplicate,地圖複製,,2017-08-08
+3228760,map editing,地圖編緝,,2017-08-08
+3228761,map element,地圖元素,,2017-08-08
+3228762,map extent,圖幅範圍,,2017-08-08
+3228763,map generalization,地圖概括化,,2017-08-08
+3228764,map grid,地圖網格,,2017-08-08
+3228765,map join,地圖接合,,2017-08-08
+3228766,map layout,圖面配置,,2017-08-08
+3228767,map library,地圖庫,,2017-08-08
+3228768,map limits,地圖界限,,2017-08-08
+3228769,map load,地圖負載量,,2017-08-08
+3228770,map making,製圖,,2017-08-08
+3228771,map matching,地圖匹配,,2017-08-08
+3228772,map nadir,圖面底點,,2017-08-08
+3228773,map name,圖名,,2017-08-08
+3228774,map origin,地圖坐標原點,,2017-08-08
+3228775,map overlay,地圖套疊,,2017-08-08
+3228776,map overlay analysis,疊圖分析,,2017-08-08
+3228777,map positional file,地圖定位檔案,,2017-08-08
+3228778,map printing,地圖印刷,,2017-08-08
+3228779,map production,地圖生產,,2017-08-08
+3228780,map production system {=MPS},地圖生產系統,,2017-08-08
+3228781,map projection,地圖投影,,2017-08-08
+3228782,map projection classification,地圖投影分類,,2017-08-08
+3228783,map projection distortion,地圖投影變形,,2017-08-08
+3228784,map projection system,地圖投影系統,,2017-08-08
+3228785,map projection transformation,地圖投影轉換,,2017-08-08
+3228786,map query,地圖查詢,,2017-08-08
+3228787,map reproduction,地圖複製,,2017-08-08
+3228788,map revision,地圖修正,,2017-08-08
+3228789,map scale,地圖比例尺,,2017-08-08
+3228790,map series,地圖系列,,2017-08-08
+3228791,map server,地圖伺服器,,2017-08-08
+3228792,map specification,製圖規範；地圖規格,,2017-08-08
+3228793,map symbol,地圖符號,,2017-08-08
+3228794,map template,地圖模版,,2017-08-08
+3228795,map title,圖名,,2017-08-08
+3228796,map topology,地圖位相關係,,2017-08-08
+3228797,map unit,地圖單位,,2017-08-08
+3228798,mapping,製圖,,2017-08-08
+3228799,mapping accuracy,製圖準確度,,2017-08-08
+3228800,mapping data interchange format {=MDIF},地圖資料交換格式,,2017-08-08
+3228801,margin,圖邊,,2017-08-08
+3228802,marginalia,邊緣註記,,2017-08-08
+3228803,master plan,綱要計畫；總計畫,,2017-08-08
+3228804,master site,主站,,2017-08-08
+3228805,match,匹配,,2017-08-08
+3228806,match key,匹配鍵,,2017-08-08
+3228807,match rules,匹配原則,,2017-08-08
+3228808,matching,匹配,,2017-08-08
+3228809,mathematical expression,數學表達式,,2017-08-08
+3228810,mathematical function,數學函數,,2017-08-08
+3228811,mathematical model,數學模型,,2017-08-08
+3228812,matrix,矩陣,,2017-08-08
+3228813,maximum extent,最大範圍,,2017-08-08
+3228814,mean sea level {=MSL},平均海水面,,2017-08-08
+3228815,measurement error,量測誤差,,2017-08-08
+3228816,measurement residual,量測殘差,,2017-08-08
+3228817,media,媒體,,2017-08-08
+3228818,median,中數,,2017-08-08
+3228819,median filter,中數濾波器；中數濾鏡,,2017-08-08
+3228820,medium scale,中比例尺,,2017-08-08
+3228821,megabyte {=MB},百萬位元組,,2017-08-08
+3228822,memory cache,高速緩衝記憶體,,2017-08-08
+3228823,memory chip,記憶體晶片,,2017-08-08
+3228824,memory leak,記憶體漏失,,2017-08-08
+3228825,memory management unit,記憶體管理單元,,2017-08-08
+3228826,menu,選單；功能表,,2017-08-08
+3228827,menu bar,選單列,,2017-08-08
+3228828,menu box,選單盒,,2017-08-08
+3228829,menu button,選單按鈕,,2017-08-08
+3228830,menu controlled program,選單控制程式,,2017-08-08
+3228831,menu item,選單項目,,2017-08-08
+3228832,Mercator projection,麥卡托投影,,2017-08-08
+3228833,merge policy,合併策略,,2017-08-08
+3228834,meridian,子午線；子午圈,,2017-08-08
+3228835,metadata,詮釋資料,,2017-08-08
+3228836,metadata element,詮釋資料元素,,2017-08-08
+3228837,metadata element dictionary,詮釋資料元素字典,,2017-08-08
+3228838,metadata entity,詮釋資料實體,,2017-08-08
+3228839,metadata explorer,詮釋資料瀏覽器,,2017-08-08
+3228840,metadata profile,詮釋資料設定檔,,2017-08-08
+3228841,metadata schema,詮釋資料綱要,,2017-08-08
+3228842,metadata section,詮釋資料區段,,2017-08-08
+3228843,metadata server,詮釋資料伺服器,,2017-08-08
+3228844,metadata service,詮釋資料服務,,2017-08-08
+3228845,metadata set,詮釋資料集,,2017-08-08
+3228846,microfilm,微膠片,,2017-08-08
+3228847,min/max scale,最小/最大比例尺,,2017-08-08
+3228848,minimum access time,最短存取時間,,2017-08-08
+3228849,minimum bounding rectangle,最小外包矩形,,2017-08-08
+3228850,minimum distance classification,最小距離分類,,2017-08-08
+3228851,minimum map unit,最小地圖單元,,2017-08-08
+3228852,minimum mapping unit,最小製圖單元,,2017-08-08
+3228853,minimum path algorithm,最短路徑演算法,,2017-08-08
+3228854,minor axis,短軸,,2017-08-08
+3228855,mixed list,混合列表,,2017-08-08
+3228856,mixed pixel,混合像元,,2017-08-08
+3228857,mode,型式,,2017-08-08
+3228858,model,模式；模型,,2017-08-08
+3228859,model builder,建模器,,2017-08-08
+3228860,model parameter,模型參數,,2017-08-08
+3228861,modeling,建模,,2017-08-08
+3228862,modeling language,建模語言,,2017-08-08
+3228863,modular software,模組化軟體,,2017-08-08
+3228864,module,模組,,2017-08-08
+3228865,monochromatic,單色,,2017-08-08
+3228866,monochromatic image,單色影像,,2017-08-08
+3228867,morphology,型態學,,2017-08-08
+3228868,Morton number,莫頓數,,2017-08-08
+3228869,Morton order,莫頓排序,,2017-08-08
+3228870,mosaic,鑲嵌,,2017-08-08
+3228871,mouse mode,滑鼠模式,,2017-08-08
+3228872,moving average filter,移動平均濾波器,,2017-08-08
+3228873,multi-band photography,多光譜攝影,,2017-08-08
+3228874,multi-channel receiver,多波段接受器；多通道接受器,,2017-08-08
+3228875,multi-dimensional data,多維資料,,2017-08-08
+3228876,multimedia,多媒體,,2017-08-08
+3228877,multimedia relational database,多媒體關聯資料庫,,2017-08-08
+3228878,multimedia system,多媒體系統,,2017-08-08
+3228879,multimodal network,多形式網路,,2017-08-08
+3228880,multiple centroids,多重形心,,2017-08-08
+3228881,multiple regression,多重迴歸,,2017-08-08
+3228882,multipoint,多點,,2017-08-08
+3228883,multipoint feature,多點圖徵,,2017-08-08
+3228884,multi-purpose cadastre,多目標地籍,,2017-08-08
+3228885,multi-purpose European ground related information network {=MEGRIN},多目標歐洲地面相關資訊網路,,2017-08-08
+3228886,multispectral dataset,多光譜資料集,,2017-08-08
+3228887,multispectral photography,多光譜攝影,,2017-08-08
+3228888,multi-spectral scanner {=MSS},多光譜掃描器,,2017-08-08
+3228889,multispectrum,多光譜,,2017-08-08
+3228890,multi-temporal dataset,多時段資料集,,2017-08-08
+3228891,multi-temporal remote sensing,多時相遙感探測,,2017-08-08
+3228892,multi-user,多使用者,,2017-08-08
+3228893,multi-user geodatabase,多使用者地理資料庫,,2017-08-08
+3228894,multi-user operating system,多使用者操作系統,,2017-08-08
+3228895,nadir,天底,,2017-08-08
+3228896,National Center for Geographic Information and Analysis {=NCGIA},美國國家地理資訊與分析中心,,2017-08-08
+3228897,National Committee for Digital Cartographic Data Standards {=NCDCDS},美國國家數值地圖資料標準委員會,,2017-08-08
+3228898,National Digital Cartographic Database {=NDCDB},美國國家數位地圖資料庫,,2017-08-08
+3228899,national geographic information system {=NGIS},國土資訊系統,,2017-08-08
+3228900,national geographic information system steering committee {=NGISSC},國土資訊系統推動小組,,2017-08-08
+3228901,National Geospatial Database {=NGD},英國國家地理空間資料庫,,2017-08-08
+3228902,National Grid,英國國家網格系統,,2017-08-08
+3228903,National Information Infrastructure {=NII},美國國家資訊基礎,,2017-08-08
+3228904,National Institute of Standards and Technology {=NIST},美國國家標準與技術研究院,,2021-12-16
+3228905,National Land Information Service {=NLIS},英國國家土地資訊服務,,2017-08-08
+3228906,National Land Survey of Finland,芬蘭國家土地調查局,,2017-08-08
+3228907,National Oceanic and Atmospheric Adminiatration {=NOAA},美國國家海洋及大氣總署,,2017-08-08
+3228908,national spatial data infrastructure {=NSDI},國家空間資料基礎建設,,2021-09-02
+3228909,national transfer format {=NTF},國家轉換格式,,2017-08-08
+3228910,natural language,自然語言,,2017-08-08
+3228911,natural neighbors,自然鄰域,,2017-08-08
+3228912,navigation,導航,,2017-08-08
+3228913,navigation service,導航服務,,2017-08-08
+3228914,navigation system timing and ranging {=NAVSTAR},時距導航系統,,2017-08-08
+3228915,near infrared,近紅外光,,2017-08-08
+3228916,nearest neighbor resampling,最近鄰重新取樣,,2021-09-15
+3228917,neat line,圖廓線,,2017-08-08
+3228918,negative photograph,負片,,2017-08-08
+3228919,neighborhood analysis,鄰域分析,,2017-08-08
+3228920,neighborhood function,鄰域函數,,2017-08-08
+3228921,neighborhood statistics,鄰域統計,,2017-08-08
+3228922,network,網路,,2017-08-08
+3228923,network analysis,網路分析,,2017-08-08
+3228924,network analysis layer,網路分析層,,2017-08-08
+3228925,network ancillary role,網路附屬元素,,2017-08-08
+3228926,network attribute,網路屬性,,2017-08-08
+3228927,network data,網路資料,,2017-08-08
+3228928,network data model,網路資料模式,,2017-08-08
+3228929,network database,網路資料庫,,2017-08-08
+3228930,network dataset,網路資料集,,2017-08-08
+3228931,network element,網路元素,,2017-08-08
+3228932,network feature,網路圖徵,,2017-08-08
+3228933,network file system {=NFS},網路檔案系統,,2017-08-08
+3228934,network GIS,網路地理資訊系統,,2017-08-08
+3228935,network layer,網路圖層,,2017-08-08
+3228936,network link,網路連結線,,2017-08-08
+3228937,network model,網路模型,,2017-08-08
+3228938,network node,網路節點,,2017-08-08
+3228939,network protocol,網路協定,,2017-08-08
+3228940,network structure,網路結構,,2017-08-08
+3228941,network topology,網路位相,,2017-08-08
+3228942,network trace,網路追蹤,,2017-08-08
+3228943,neutral network,類神經網路,,2017-08-08
+3228944,node,節點,,2017-08-08
+3228945,node snap,節點附合,,2017-08-08
+3228946,nodical month,交點月,,2017-08-08
+3228947,noise,雜訊,,2017-08-08
+3228948,non-geographic information,非地理資訊,,2017-08-08
+3228949,non-governmental organization {=NGO},非政府組織,,2017-08-08
+3228950,non-graphic attribute data,非圖形屬性資料,,2017-08-08
+3228951,nongraphic data,非圖形資料,,2017-08-08
+3228952,non-semantic information,非語意資訊,,2017-08-08
+3228953,non-spatial data,非空間資料,,2017-08-08
+3228954,non-stationarity,非恆定性,,2017-08-08
+3228955,normal distribution,常態分布,,2021-09-15
+3228956,normal form {=NF},正規形式,,2017-08-08
+3228957,normal probability distribution,常態概率分布,,2021-09-15
+3228958,normal template,標準模板,,2017-08-08
+3228959,normalization,正規化,,2017-08-08
+3228960,North American Datum {=NAD},北美基準面,,2017-08-08
+3228961,north arrow,指北標,,2017-08-08
+3228962,north magnetic pole,磁北極,,2017-08-08
+3228963,null value,空值,,2017-08-08
+3228964,object,物件,,2017-08-08
+3228966,object class,物件類別,,2017-08-08
+3228967,object code,物件碼,,2017-08-08
+3228968,object definition language,物件定義語言,,2017-08-08
+3228969,object library,物件庫,,2017-08-08
+3228970,object linking and embedding {=OLE},物件連結與嵌入,,2017-08-08
+3228971,object model diagram,物件模型圖,,2017-08-08
+3228972,object pooling,物件彙整,,2017-08-08
+3228973,object program,物件程式,,2017-08-08
+3228974,object spectrum characteristics,物件光譜特性,,2017-08-08
+3228975,object technology,物件技術,,2017-08-08
+3228976,object type,物件類型,,2017-08-08
+3228977,object-oriented database management system {=OODBMS},物件導向資料庫管理系統,,2017-08-08
+3228978,object-oriented database{=OODB},物件導向資料庫,,2017-08-08
+3228979,object-oriented programming {=OOP},物件導向程式設計,,2017-08-08
+3228980,object-oriented programming language {=OOPL},物件導向程式語言,,2017-08-08
+3228981,object-oriented programming system {=OOPS},物件導向程式系統,,2017-08-08
+3228982,object-oriented relational database,物件導向關聯式資料庫,,2017-08-08
+3228983,oblate ellipsoid,扁橢球體,,2017-08-08
+3228984,oblate ellipsoid of rotation,旋轉橢球體,,2017-08-08
+3228985,oblique photograph,傾斜像片,,2017-08-08
+3228986,oblique projection,斜軸投影；傾斜投影,,2017-08-08
+3228987,observation domain model,觀測領域模式,,2017-08-08
+3228988,observation model,觀測模式,,2017-08-08
+3228989,observation point,觀測點,,2017-08-08
+3228990,observer,觀測員,,2017-08-08
+3228991,observer offset,觀測位移,,2017-08-08
+3228992,octal code,八進位碼,,2017-08-08
+3228993,octal notation,八進位記數法,,2017-08-08
+3228994,octree,八元樹,,2017-08-08
+3228995,off-line,離線,,2017-08-08
+3228996,off-nadir,偏離天底,,2017-08-08
+3228997,offset,位移；偏移量；支距,,2017-08-08
+3228998,omission error,漏授誤差,,2017-08-08
+3228999,on-demand cache,隨取暫存區,,2017-08-08
+3229000,one-dimensional datum,一維基準面,,2017-08-08
+3229001,one-to-many,一對多,,2017-08-08
+3229002,one-to-many relationship,一對多關係,,2017-08-08
+3229003,on-line,線上；連線,,2017-08-08
+3229004,on-line access,線上存取,,2017-08-08
+3229005,on-line help,線上說明,,2017-08-08
+3229006,on-line query,線上查詢,,2017-08-08
+3229007,open data base connectivity {=ODBC},開放式資料庫連結,,2017-08-08
+3229008,open geodata interoperability specification {=OGIS},開放式地理資料互操作規範,,2017-08-08
+3229009,open geographic information system {=Open GIS},開放式地理資訊系統,,2017-08-08
+3229010,Open Geospatial Consortium {=OGC},開放式地理空間資訊協會,,2017-08-08
+3229011,open GIS abstract specification,開放式地理資訊系統抽象規格,,2017-08-08
+3229012,Open GIS Consortium {=OGC},開放式地理資訊系統協會,,2017-08-08
+3229013,open GIS core services,開放式地理資訊系統核心服務,,2017-08-08
+3229014,open GIS implementation specification,開放式地理資訊服務實作規格,,2017-08-08
+3229015,open GIS refernce model {=ORM},開放式地理資訊系統參考模式,,2017-08-08
+3229016,open interface,開放式介面,,2017-08-08
+3229017,open location services {=Open LS},開放式定位服務,,2017-08-08
+3229018,open platform,開放式平台,,2017-08-08
+3229019,open source,開放原始碼,,2017-08-08
+3229020,open system,開放式系統,,2017-08-08
+3229021,open system environment {=OSE},開放式系統環境,,2017-08-08
+3229022,open systems interconnection {=OSI},開放式系統互連,,2017-08-08
+3229023,operand,運算元,,2017-08-08
+3229024,operating system {=OS},作業系統,,2017-08-08
+3229025,operation,操作,,2017-08-08
+3229026,operation code,操作碼,,2017-08-08
+3229027,operator,運算子；運算元；操作員,,2017-08-08
+3229028,operator precedence,運算子在先,,2017-08-08
+3229029,optical disk,光碟,,2017-08-08
+3229030,optical scanner,光學掃描器,,2017-08-08
+3229031,ordinal,級序的,,2017-08-08
+3229032,ordinal data,級序資料,,2017-08-08
+3229033,ordinal reference system,級序參考系統,,2017-08-08
+3229034,ordinal time scale,級序時間尺度,,2017-08-08
+3229035,ordinary Kriging,普通克利金法,,2017-08-08
+3229036,ordinate,縱坐標,,2017-08-08
+3229037,orientation,方位；定向；定方位,,2017-08-08
+3229038,origin,原點；起源地,,2017-08-08
+3229039,orthodrome,大圓航線,,2017-08-08
+3229040,orthogonal offset,正交偏移,,2017-08-08
+3229041,orthographic projection,正射投影,,2017-08-08
+3229042,orthographic view,正射視圖,,2017-08-08
+3229043,orthophoto,正射像片,,2017-08-08
+3229044,orthophotograph,正射像片,,2017-08-08
+3229045,orthophotoquad,正射像片,,2017-08-08
+3229046,orthophotoscope,正射像片投影儀,,2017-08-08
+3229047,orthorectification,正射糾正,,2017-08-08
+3229048,outbound interface,輸出介面,,2017-08-08
+3229049,outlier,異常值,,2017-08-08
+3229050,outline,輪廓,,2017-08-08
+3229051,outline map,概要圖,,2017-08-08
+3229052,outline vectorization,輪廓向量化,,2017-08-08
+3229053,out-of-date,過期,,2017-08-08
+3229054,output,輸出,,2017-08-08
+3229055,output data,輸出資料,,2017-08-08
+3229056,output directory,輸出目錄,,2017-08-08
+3229057,overflow,溢出,,2017-08-08
+3229058,overflow list,溢出列表,,2017-08-08
+3229059,overlaid polygon,重疊多邊形,,2017-08-08
+3229060,overlap,重疊,,2017-08-08
+3229061,overlapping pair,重疊像對,,2017-08-08
+3229062,overlapping rings,重疊環,,2017-08-08
+3229063,overlay,疊合；套疊；疊圖,,2017-08-08
+3229064,overlay analysis,疊合分析；套疊分析；疊圖分析,,2017-08-08
+3229065,overlay operation,疊圖操作,,2017-08-08
+3229066,overprinting,套印,,2017-08-08
+3229067,overshoot,超搭,,2017-08-08
+3229068,overview map,全覽圖,,2017-08-08
+3229069,overview window,全覽圖視窗,,2017-08-08
+3229070,P code,精密碼；P電碼,,2017-08-08
+3229071,package,封裝,,2017-08-08
+3229072,page description language,頁面描述語言,,2017-08-08
+3229073,page reader,頁閱讀機,,2017-08-08
+3229074,page unit,頁面單位,,2017-08-08
+3229075,pan,平移,,2017-08-08
+3229076,panchromatic,全色態,,2017-08-08
+3229077,paneled map,拼合圖,,2017-08-08
+3229078,panning,平移,,2017-08-08
+3229079,parallax,視差,,2017-08-08
+3229080,parallel,緯線,,2017-08-08
+3229081,parallel communication,平行通訊,,2017-08-08
+3229082,parallel of latitude,緯線,,2017-08-08
+3229083,parallel processing,平行處理,,2017-08-08
+3229084,parallel processor,平行處理器,,2017-08-08
+3229085,parameter,參數,,2017-08-08
+3229086,parameter estimation,參數估計,,2017-08-08
+3229087,parametric curve,參數曲線,,2017-08-08
+3229088,parcel,宗地,,2017-08-08
+3229089,parcel identification number {=PIN},宗地識別碼,,2017-08-08
+3229090,parcel map,宗地圖,,2017-08-08
+3229091,parent node,父節點,,2017-08-08
+3229092,parity,奇偶性,,2017-08-08
+3229093,parsing parameter,剖析參數,,2017-08-08
+3229094,partial address support,局部地址支援,,2017-08-08
+3229095,partial cache,局部快取,,2017-08-08
+3229096,partition,分割,,2017-08-08
+3229097,pass verdict,合格判定,,2017-08-08
+3229098,passive remote sensing,被動式遙測,,2017-08-08
+3229099,passive sensor,被動式感測器,,2017-08-08
+3229100,password,密碼,,2017-08-08
+3229101,patch,局部增補,,2017-08-08
+3229102,path,路徑；航道,,2017-08-08
+3229103,path distance analysis,路徑距離分析,,2017-08-08
+3229104,path label,路徑標註,,2017-08-08
+3229105,pathfinding,路徑搜尋,,2017-08-08
+3229107,pattern,型態；圖樣,,2021-10-08
+3229108,pattern class,型態類別,,2017-08-08
+3229109,pattern file,範本檔,,2017-08-08
+3229110,pattern recognition,圖形識別,,2017-08-08
+3229111,peak,峰頂,,2017-08-08
+3229112,Peano curve,皮亞諾曲線,,2017-08-08
+3229113,pen plotter,筆式繪圖機,,2017-08-08
+3229114,percent slope,斜率,,2017-08-08
+3229115,percentage correctly classified,分類正確率,,2017-08-08
+3229116,percentage slope,百分比坡度,,2017-08-08
+3229117,performance,性能,,2017-08-08
+3229118,perigee,近地點,,2017-08-08
+3229119,peripheral device,週邊設備,,2017-08-08
+3229120,permanent dataset,永久資料集,,2017-08-08
+3229121,permanent license,永久授權,,2017-08-08
+3229122,persistence,持續性,,2017-08-08
+3229123,persistent lock,持續性鎖定,,2017-08-08
+3229124,personal geodatabase,個人地理資料庫,,2017-08-08
+3229125,perspective,透視,,2017-08-08
+3229126,perspective view,透視圖,,2017-08-08
+3229127,"petabyte, PB",拍位元組；千兆位元組,,2017-08-08
+3229128,photo basemap,像片基本圖,,2017-08-08
+3229129,photo mosaic,像片鑲嵌,,2017-08-08
+3229130,photogeology,空照地質學,,2017-08-08
+3229131,photogrammetric digitizing,攝影測量數位化,,2017-08-08
+3229132,photogrammetric mapping,攝影測量製圖,,2017-08-08
+3229133,photogrammetry,攝影測量學,,2017-08-08
+3229134,photograph,像片,,2017-08-08
+3229135,photomap,像片圖,,2017-08-08
+3229136,photometer,光度計，曝光計,,2017-08-08
+3229137,physical geography,自然地理,,2017-08-08
+3229138,physical network,實體網路,,2017-08-08
+3229139,picture element,像元；像素；圖元；畫素,,2017-08-08
+3229140,picture fill,圖像填充,,2017-08-08
+3229141,pilot project,先導計畫,,2017-08-08
+3229142,pixel,像元；像素；圖元；畫素,,2017-08-08
+3229143,pixel coordinate system,像元坐標系統,,2017-08-08
+3229144,planar coordinate,平面坐標,,2017-08-08
+3229145,planar projection,平面投影,,2017-08-08
+3229146,plane survey,平面測量,,2017-08-08
+3229147,plane transformation,平面轉換,,2017-08-08
+3229148,planimetric base,平面控制基線,,2017-08-08
+3229149,planimetric map,平面圖,,2017-08-08
+3229150,planimetric shift,平面轉換,,2017-08-08
+3229151,platform,平台,,2017-08-08
+3229152,platform independent,平台無關,,2017-08-08
+3229153,playback mode,重放模式,,2017-08-08
+3229154,playback window,重放視窗,,2017-08-08
+3229155,plot,繪圖；展點,,2017-08-08
+3229156,plotter,繪圖機；繪圖儀,,2017-08-08
+3229157,plotting primitives,繪圖基元,,2017-08-08
+3229158,plug-in,插件,,2017-08-08
+3229159,plug-in data source,插入式資料源,,2017-08-08
+3229160,plumb line,鉛垂線,,2017-08-08
+3229161,point,點,,2017-08-08
+3229162,point cluster,點群,,2017-08-08
+3229163,point collision,點衝突,,2017-08-08
+3229164,point coverage,點圖層,,2017-08-08
+3229165,point event,點事件,,2017-08-08
+3229166,point feature,點圖徵,,2017-08-08
+3229167,point identifier field,點標識符欄位,,2017-08-08
+3229168,point mode,點模式,,2017-08-08
+3229169,point mode digitizing,點模式數化,,2017-08-08
+3229170,point name flag,點名稱註記,,2017-08-08
+3229171,point name prefix,點名稱前綴,,2017-08-08
+3229172,point of interest{=POI},興趣點,,2017-08-08
+3229173,point symbol,點符號,,2017-08-08
+3229174,pointer,指標,,2017-08-08
+3229175,point-in-polygon operation,點在多邊形處理,,2021-11-29
+3229176,point-in-polygon overlay,點在多邊形套疊,,2021-11-29
+3229177,points of interest manager web service,興趣點管理器網絡服務,,2017-08-08
+3229178,polar aspect,極位,,2017-08-08
+3229179,polar coordinate system,極坐標系統,,2017-08-08
+3229180,polar orbit,極軌,,2017-08-08
+3229181,polar radius,極半徑,,2017-08-08
+3229182,polyconic projection,多圓錐投影,,2017-08-08
+3229183,polygon,多邊形,,2017-08-08
+3229184,polygon coverage,多邊型圖層,,2017-08-08
+3229185,polygon feature,多邊形圖徵,,2017-08-08
+3229186,polygon overlay,多邊形套疊,,2017-08-08
+3229187,polygon retrieval,多邊形檢索,,2017-08-08
+3229188,polygon-arc topology,多邊形-弧段位向,,2017-08-08
+3229189,polygonization,多邊形化,,2017-08-08
+3229190,polyhedric projection,多面體投影,,2017-08-08
+3229191,polyhedron,多面體,,2017-08-08
+3229192,polyline,聚合線,,2017-08-08
+3229193,polyline feature,聚合線圖徵,,2017-08-08
+3229194,polymorphism,多態性,,2017-08-08
+3229195,pop-up window,跳出式視窗,,2017-08-08
+3229196,port number,端口數,,2017-08-08
+3229197,portable document format{=PDF},可攜式文件格式,,2017-08-08
+3229198,portable network graphic format{= PNG},可攜式網路圖像格式,,2017-08-08
+3229199,portal,入口網站,,2017-08-08
+3229200,portrayal,描繪,,2017-08-08
+3229201,portrayal service,描繪服務,,2017-08-08
+3229202,position,位置,,2017-08-08
+3229203,position error,位置誤差,,2017-08-08
+3229204,positional accuracy,位置準確度,,2021-03-26
+3229205,positional reference system,定位參考系統,,2017-08-08
+3229206,positioning,定位,,2017-08-08
+3229207,positioning system,定位系統,,2017-08-08
+3229208,post,樁,,2017-08-08
+3229209,postcode,郵遞區號,,2017-08-08
+3229210,postscript,頁面描述語言,,2017-08-08
+3229211,power,電源；指數,,2017-08-08
+3229212,precise code,精密碼；P電碼,,2017-08-08
+3229213,precision,精密度,,2017-08-08
+3229214,precision processing,精密處理,,2017-08-08
+3229215,prefix,前置；前綴,,2017-08-08
+3229216,prefix value,前置值,,2017-08-08
+3229217,preliminary topology,初始位相,,2017-08-08
+3229218,preprocessed cache,預處理緩衝區,,2017-08-08
+3229219,pre-processing,預處理,,2017-08-08
+3229220,preview,預覽,,2017-08-08
+3229221,primary color,原色,,2017-08-08
+3229222,primary key,主鍵,,2017-08-08
+3229223,primary reference data,主參考數據,,2017-08-08
+3229224,primary table,主表,,2017-08-08
+3229225,prime meridian,本初子午線,,2017-08-08
+3229226,prime vertical,卯酉圈,,2017-08-08
+3229227,primitive,基元；元素,,2017-08-08
+3229228,principal scale,主比例尺,,2017-08-08
+3229229,printer,印表機,,2017-08-08
+3229230,private virtual server,私用虛擬伺服器,,2017-08-08
+3229231,privilege,特權；使用權,,2017-08-08
+3229232,process,過程,,2017-08-08
+3229233,processing,處理,,2017-08-08
+3229234,product specification,產品規格,,2017-08-08
+3229235,profile,縱斷面；剖面；設定檔,,2017-08-08
+3229236,ProgID,程序標識碼,,2017-08-08
+3229237,program,程式,,2017-08-08
+3229238,project,專案；計畫,,2017-08-08
+3229239,project lock,專案鎖,,2017-08-08
+3229240,project repair,專案修護,,2017-08-08
+3229241,projected coordinate system,投影坐標系,,2017-08-08
+3229242,projected coordinates,投影坐標,,2017-08-08
+3229243,projection,投影,,2017-08-08
+3229244,projection transformation,投影轉換,,2017-08-08
+3229245,proof plot,打樣圖,,2017-08-08
+3229246,property page,屬性頁,,2017-08-08
+3229247,protocol,協定,,2017-08-08
+3229248,prototype,原型,,2017-08-08
+3229249,proximity,鄰近性,,2017-08-08
+3229250,proximity analysis,鄰近分析,,2017-08-08
+3229251,proximity polygon,鄰近多邊形,,2017-08-08
+3229252,proximity query,鄰近查詢,,2017-08-08
+3229253,proximity web service,鄰近網絡服務,,2017-08-08
+3229254,proxy object,代理物件,,2017-08-08
+3229255,pruning,修剪,,2017-08-08
+3229256,pseudo node,虛擬節點,,2017-08-08
+3229257,pseudo polygon,虛擬多邊形,,2017-08-08
+3229258,pseudo-color enhancement,假色增強,,2017-08-08
+3229259,pseudo-color transform,假色轉換,,2017-08-08
+3229260,pseudo-random noise{=PRN,偽隨機雜訊,,2017-08-08
+3229261,pseudoscopic view,反立體視圖,,2017-08-08
+3229262,public land survey system,公有土地測量系統,,2017-08-08
+3229263,public virtual server,公共虛擬伺服器,,2017-08-08
+3229264,publish,發佈,,2017-08-08
+3229265,published map file,出版地圖檔,,2017-08-08
+3229266,pull-down menu,下拉選單,,2017-08-08
+3229267,push-broom scanner,推掃式掃描儀,,2017-08-08
+3229268,pyramid,金字塔,,2017-08-08
+3229269,Q-tree,四元樹,,2017-08-08
+3229270,quadrangle,四邊形,,2017-08-08
+3229271,quadrant,象限,,2017-08-08
+3229272,quadtree,四元樹,,2017-08-08
+3229273,qualitative,定性的,,2017-08-08
+3229274,quality beta,品質測試版,,2017-08-08
+3229275,quality control,品質管制,,2017-08-08
+3229276,quality element,品質元素,,2017-08-08
+3229277,quality schema,質量綱要,,2017-08-08
+3229278,quantile classification,分位數分類,,2017-08-08
+3229279,quantitative,定量的,,2017-08-08
+3229280,query,查詢,,2017-08-08
+3229281,query expression,查詢式,,2017-08-08
+3229282,query interface,查詢界面,,2017-08-08
+3229283,query language,查詢語言,,2017-08-08
+3229284,query server,查詢伺服器,,2017-08-08
+3229285,query web service,查詢網路服務,,2017-08-08
+3229286,query window,查詢視窗,,2017-08-08
+3229287,queue,佇列,,2017-08-08
+3229288,quick look,速覽,,2017-08-08
+3229289,radar altimeter,雷達測高儀,,2017-08-08
+3229290,radian,弧度；弳,,2017-08-08
+3229291,radiation,輻射,,2017-08-08
+3229292,radio detecting and ranging,雷達,,2017-08-08
+3229293,radiometer,輻射計,,2017-08-08
+3229294,radiometric resolution,輻射解析度,,2017-08-08
+3229295,radiometric sensitivity,輻射靈敏度,,2017-08-08
+3229296,random access,隨機存取,,2017-08-08
+3229297,random sampling,隨機抽樣,,2017-08-08
+3229298,rank,排序；秩,,2017-08-08
+3229299,raster,網格,,2017-08-08
+3229300,raster data,網格資料,,2017-08-08
+3229302,raster data format,網格資料格式,,2017-08-08
+3229303,raster data model,網格資料模式,,2017-08-08
+3229304,raster data structure,網格資料結構,,2017-08-08
+3229305,raster database,網格資料庫,,2017-08-08
+3229306,raster dataset,網格資料集,,2017-08-08
+3229307,raster intersection,網格交會,,2017-08-08
+3229308,raster layer,網格圖層,,2017-08-08
+3229309,raster map,網格地圖,,2017-08-08
+3229310,raster postprocessing,網格後處理,,2017-08-08
+3229311,raster preprocessing,網格預處理,,2017-08-08
+3229312,raster scan,網格掃描,,2017-08-08
+3229313,raster tracing,網格追蹤,,2017-08-08
+3229314,rasterization,網格化,,2017-08-08
+3229315,rasterized feature layer,網格圖徵層,,2017-08-08
+3229316,raster-to-vector conversion,網格-向量轉換,,2017-08-08
+3229317,ray tracing,光線追蹤,,2017-08-08
+3229318,real time,即時,,2017-08-08
+3229319,real time positioning,即時定位,,2017-08-08
+3229320,real world phenomenon,真實世界現象,,2017-08-08
+3229321,real-time data,即時資料,,2017-08-08
+3229322,real-time mode,即時模式,,2017-08-08
+3229323,real-time system,即時系統,,2017-08-08
+3229324,reclassification,重分類,,2017-08-08
+3229325,record,記錄,,2017-08-08
+3229326,rectification,糾正,,2017-08-08
+3229327,recursion,遞迴,,2017-08-08
+3229328,red green blue{=RGB},紅綠藍,,2017-08-08
+3229329,reduced instruction set computer{=RISC,精簡指令集,,2017-08-08
+3229330,redundancy,冗餘,,2017-08-08
+3229331,re-entrant polygon,凹多邊形,,2017-08-08
+3229332,reference,參考,,2017-08-08
+3229333,reference data,參考資料,,2017-08-08
+3229334,reference data source,參考資料來源,,2017-08-08
+3229335,reference datum,參考基準,,2017-08-08
+3229336,reference ellipsoid,參考橢球體,,2017-08-08
+3229337,reference file,參考檔案,,2017-08-08
+3229338,reference map,參考圖,,2017-08-08
+3229339,reference model,參考模式,,2017-08-08
+3229340,reference model for open distributed processing{= RM-ODP,開放分散式處理參考模型,,2017-08-08
+3229341,reference point,參考點,,2017-08-08
+3229342,reference scale,參考比例尺,,2017-08-08
+3229343,reference system,參考系統,,2017-08-08
+3229344,referential integrity,參考完整性,,2017-08-08
+3229345,reflectance,反射率,,2017-08-08
+3229346,refresh,刷新,,2017-08-08
+3229347,refresh graphics,刷新圖形,,2017-08-08
+3229348,region,區域,,2017-08-08
+3229349,regional spatial data infrastructure{= RSDI},區域空間資料基礎建設,,2021-09-02
+3229350,register of geodetic points,大地控制點登記冊,,2017-08-08
+3229351,registration,對位,,2017-08-08
+3229352,registry model,註冊模式,,2017-08-08
+3229353,registry object,註冊物件,,2017-08-08
+3229354,registry service,註冊服務,,2017-08-08
+3229355,relate key,關聯鍵,,2017-08-08
+3229356,relate manager,關係管理員,,2017-08-08
+3229357,related object,關聯物件,,2017-08-08
+3229358,relation,關係,,2017-08-08
+3229359,relational algebra,關聯式代數,,2017-08-08
+3229360,relational database,關聯式資料庫,,2017-08-08
+3229361,relational database management system{= RDBMS,關聯式資料庫管理系統,,2017-08-08
+3229362,relational join,關聯式連結,,2017-08-08
+3229363,relational operator,關係運算子,,2017-08-08
+3229364,relationship,關係,,2017-08-08
+3229365,relationship class,關係類別,,2017-08-08
+3229366,relative accuracy,相對準確度,,2017-08-08
+3229367,relative coordinates,相對坐標,,2017-08-08
+3229368,relative path,相對路徑,,2017-08-08
+3229369,relative positioning,相對定位,,2017-08-08
+3229370,reliability diagram,圖料表,,2017-08-08
+3229371,relief displacement,高差位移,,2017-08-08
+3229372,relief map,起伏地圖,,2017-08-08
+3229373,relief model,地形模型,,2017-08-08
+3229374,rematching,重匹配,,2017-08-08
+3229375,remote communication,遠距通訊,,2017-08-08
+3229376,remote procedure call{= RPC},遠端程序呼叫,,2017-08-08
+3229377,remote sensing,遙感探測,,2017-08-08
+3229378,remote sensing image processing,遙測影像處理,,2017-08-08
+3229379,remote sensing imagery,遙測影像,,2017-08-08
+3229380,renderer,彩現器,,2017-08-08
+3229381,rendering,彩現,,2017-08-08
+3229382,repeatability,可重複性,,2017-08-08
+3229383,request,要求,,2017-08-08
+3229384,resampling,重新取樣,,2017-08-08
+3229385,reserved word,保留字,,2017-08-08
+3229386,resolution,解析度,,2017-08-08
+3229387,resolution merging,跨解析度融合,,2017-08-08
+3229388,resolving power of image,影像解析度,,2017-08-08
+3229389,response,回應,,2017-08-08
+3229390,response time,回應時間,,2017-08-08
+3229391,restore,還原；恢復,,2017-08-08
+3229392,restriction,約束；限制,,2017-08-08
+3229393,reverse floating position specifier,浮點位置逆向識別,,2017-08-08
+3229394,reverse geocoder service,逆向地理編碼服務,,2017-08-08
+3229395,reverse geocoding,逆向地理編碼,,2017-08-08
+3229396,RGB monitor,彩色監視器,,2017-08-08
+3229397,rhumb line,恆向線,,2017-08-08
+3229398,ridge,山脊,,2017-08-08
+3229399,ring,環,,2017-08-08
+3229400,roam,漫遊,,2017-08-08
+3229401,rollback,轉返,,2017-08-08
+3229402,root mean square error,均方根誤差,,2017-08-08
+3229403,root node,根節點,,2017-08-08
+3229404,route,路徑,,2017-08-08
+3229405,route analysis,路徑分析,,2017-08-08
+3229406,route event,路徑事件,,2017-08-08
+3229407,route event source,路徑事件源,,2017-08-08
+3229408,route event table,路徑事件表,,2017-08-08
+3229409,route finder web service,路徑查詢網絡服務,,2017-08-08
+3229410,route identifier,路徑標識符,,2017-08-08
+3229411,route location,路徑位置,,2017-08-08
+3229412,route measure,路徑量測,,2017-08-08
+3229413,route measure anomalies,路徑量測異常,,2017-08-08
+3229414,route reference,路徑參考,,2017-08-08
+3229415,route server,路徑伺服器,,2017-08-08
+3229416,route service,路徑服務,,2017-08-08
+3229417,row,列,,2017-08-08
+3229418,rubber sheeting,橡皮伸縮法,,2017-08-08
+3229419,rule base,規則庫,,2017-08-08
+3229420,run time,運行時間,,2017-08-08
+3229421,run-length coding,運行長度編碼,,2017-08-08
+3229422,run-length encoding,運行長度編碼,,2017-08-08
+3229423,running time,運行時間,,2017-08-08
+3229424,sample,取樣,,2017-08-08
+3229425,sampling density,取樣,,2017-08-08
+3229426,sampling interval,取樣間隔,,2017-08-08
+3229427,sampling schema,取樣綱要,,2017-08-08
+3229428,sampling strategy,取樣策略,,2017-08-08
+3229429,satellite constellation,衛星星座,,2017-08-08
+3229430,satellite image,衛星影像,,2017-08-08
+3229431,Satellite Pour L’observation De La Terre{=SPOT},史波特衛星,,2017-08-08
+3229432,saturation,飽和度,,2017-08-08
+3229433,scalable,可縮放,,2017-08-08
+3229434,scalable vector graphics{=SVG},可縮放向量圖形,,2017-08-08
+3229435,scale,比例尺；尺度,,2017-08-08
+3229436,scale factor,比例因子；縮尺係數,,2017-08-08
+3229437,scale range,比例範圍,,2017-08-08
+3229438,scan line,掃描線,,2017-08-08
+3229439,scan map,掃描圖,,2017-08-08
+3229440,scanner,掃描儀,,2017-08-08
+3229441,scanning,掃描,,2017-08-08
+3229442,scatter chart,散布圖,,2017-08-08
+3229443,scatter plot,散布圖,,2017-08-08
+3229444,scene,場景,,2017-08-08
+3229445,schema,綱要,,2017-08-08
+3229446,scratch file,暫存檔案,,2017-08-08
+3229447,scratch space,暫存空間,,2017-08-08
+3229448,screen copy,螢幕複製,,2017-08-08
+3229449,screen copy device,螢幕拷貝設備,,2017-08-08
+3229450,script,腳本,,2017-08-08
+3229451,script file,指令檔案,,2017-08-08
+3229452,seamless database,無縫資料庫,,2017-08-08
+3229453,seamless integration,無縫整合,,2017-08-08
+3229454,search,搜尋,,2017-08-08
+3229455,search radius,搜索半徑,,2017-08-08
+3229456,search tolerance,搜索閾值,,2017-08-08
+3229457,secant,正割,,2017-08-08
+3229458,secant projection,正割投影,,2017-08-08
+3229459,second normal form{=2NF},第二正規格式,,2017-08-08
+3229460,section,段,,2017-08-08
+3229461,section table,區段表,,2017-08-08
+3229462,secure sockets layer{=SSL},安全資料傳輸層,,2017-08-08
+3229463,segment,線段；段,,2017-08-08
+3229464,selectable layer,可選層,,2017-08-08
+3229465,selected set,選集,,2017-08-08
+3229466,selected values,選值,,2017-08-08
+3229467,selection,選擇,,2017-08-08
+3229468,selection anchor,選擇錨點,,2017-08-08
+3229469,selection file,選擇條件檔,,2017-08-08
+3229470,selective availability{=SA},選擇性效應,,2017-08-08
+3229471,semantic information,語意資訊,,2017-08-08
+3229472,semantic translator,語意轉譯器,,2017-08-08
+3229473,semi-automated digitizing,半自動數化,,2017-08-08
+3229474,semi-major axis,半長軸,,2017-08-08
+3229475,semi-minor axis,半短軸,,2017-08-08
+3229476,semivariogram,半變異量：半變異圖,,2017-08-08
+3229477,sensor,感測器,,2017-08-08
+3229478,sensor collection service{=SCS},感測器資料蒐集服務,,2017-08-08
+3229479,sensor model language{=SML},感測器模式語言,,2017-08-08
+3229480,sensor web,感測網,,2017-08-08
+3229481,sequential file,順序檔,,2017-08-08
+3229482,serial communication,序列通訊,,2017-08-08
+3229483,serialization,串列化；編序,,2017-08-08
+3229484,serialization file,串列化檔,,2017-08-08
+3229485,series of conditional values,條件值系列,,2017-08-08
+3229486,server,伺服器,,2017-08-08
+3229487,server account,伺服器帳號,,2017-08-08
+3229488,server context,伺服器脈絡,,2017-08-08
+3229489,server directory,伺服器目錄,,2017-08-08
+3229490,server object,伺服器物件,,2017-08-08
+3229491,server object isolation,伺服器物件隔離,,2017-08-08
+3229492,server object type,伺服器物件類型,,2017-08-08
+3229493,server product,伺服器產品,,2017-08-08
+3229494,service,服務,,2017-08-08
+3229495,service chain,服務鏈,,2017-08-08
+3229496,service interface,服務介面,,2017-08-08
+3229497,service metadata,服務詮釋資料,,2017-08-08
+3229498,service model,服務模式,,2017-08-08
+3229499,service request,服務要求,,2017-08-08
+3229500,servlet,小型應用程式,,2017-08-08
+3229501,servlet connector,小型應用程式連接,,2017-08-08
+3229502,servlet engine,小型應用程式引擎,,2017-08-08
+3229503,session state,對話狀態,,2017-08-08
+3229504,set function,集合函數,,2017-08-08
+3229505,setting out,放樣;測設,,2017-08-08
+3229506,shade symbol,色調符號,,2017-08-08
+3229507,shaded relief image,暈渲影像,,2017-08-08
+3229508,shading,繪影,,2017-08-08
+3229509,shallowly stateful application,淺狀態應用程式,,2017-08-08
+3229510,shape,形狀,,2017-08-08
+3229511,shapefile,形狀檔,,2017-08-08
+3229512,share,分享；共用,,2017-08-08
+3229513,shared boundary,共邊,,2017-08-08
+3229514,shared vertex,共點,,2017-08-08
+3229515,shield,屏；遮蓋,,2017-08-08
+3229516,shortcut menu,快捷鍵選單,,2017-08-08
+3229517,shortest path analysis,最短路徑分析,,2017-08-08
+3229518,shortest route,最短路徑,,2017-08-08
+3229519,side offset,側向位移,,2017-08-08
+3229520,side shot,引點,,2017-08-08
+3229521,side-shot course,支導線,,2017-08-08
+3229522,signal,信號,,2017-08-08
+3229523,signal-noise ratio {=SNR},訊噪比,,2017-08-08
+3229524,similar analysis,相似分析,,2017-08-08
+3229525,simple conditional value,簡單條件值,,2017-08-08
+3229526,simple conic projection,簡單圓錐投影,,2017-08-08
+3229527,simple edge feature,簡單邊圖徵,,2017-08-08
+3229528,simple feature,簡單圖徵,,2017-08-08
+3229529,simple feature model,簡單圖徵模式,,2017-08-08
+3229530,simple junction feature,簡單交叉點圖徵,,2017-08-08
+3229531,simple Kriging,簡單克利金法,,2017-08-08
+3229532,simple measurement,簡單量測,,2017-08-08
+3229533,simple object,單一物件,,2017-08-08
+3229534,simple object access protocol {=SOAP},簡單物件存取協定,,2017-08-08
+3229535,simple temporal event,簡單暫時事件,,2017-08-08
+3229536,simple transformation,簡單轉換,,2017-08-08
+3229537,simplification,簡化,,2017-08-08
+3229538,simulation,模擬,,2017-08-08
+3229539,single point positioning,單點定位,,2017-08-08
+3229540,single precision,單精度,,2017-08-08
+3229541,single token,單一訊標,,2017-08-08
+3229542,single use,單一使用,,2017-08-08
+3229543,singleton,單例物件,,2017-08-08
+3229544,single-user geodatabase,單用戶地理資料庫,,2017-08-08
+3229545,sink,凹陷；下陷,,2017-08-08
+3229546,site prospecting,位址探測,,2017-08-08
+3229547,sketch,草圖,,2017-08-08
+3229548,sketch constraint,草圖約制,,2017-08-08
+3229549,sketch operation,描繪操作,,2017-08-08
+3229550,sketch tool,描繪工具,,2017-08-08
+3229551,skew,偏斜,,2017-08-08
+3229552,slice,片,,2017-08-08
+3229553,slicing,分片,,2017-08-08
+3229554,sliver polygon,狹縫多邊形,,2017-08-08
+3229555,slope,坡度,,2017-08-08
+3229556,slope image,坡度圖,,2017-08-08
+3229557,small scale,小比例尺,,2017-08-08
+3229558,smoothing,平滑化,,2017-08-08
+3229559,snap tip,捕捉提示,,2017-08-08
+3229560,snapping,接合,,2017-08-08
+3229561,snapping distance,接合距離,,2017-08-08
+3229562,snapping environment,接合條件,,2017-08-08
+3229563,snapping extent,接合範圍,,2017-08-08
+3229564,snapping priority,接合優先序,,2017-08-08
+3229565,snapping property,接合特性,,2017-08-08
+3229566,snapping tolerance,接合容差,,2017-08-08
+3229567,snapshot,快照,,2017-08-08
+3229568,soft copy,軟式拷貝；軟式複製,,2017-08-08
+3229569,software,軟體,,2017-08-08
+3229570,software engineering,軟體工程,,2017-08-08
+3229571,software package,套裝軟體,,2017-08-08
+3229572,solid,實體,,2017-08-08
+3229573,solid map,立體地圖,,2017-08-08
+3229574,solution,方案,,2017-08-08
+3229575,sort,排序,,2017-08-08
+3229576,soundex,聲音編碼,,2017-08-08
+3229577,source table,來源表,,2017-08-08
+3229578,space,空間,,2017-08-08
+3229579,space coordinate system,空間坐標系統,,2017-08-08
+3229580,spaghetti data,無位相資料,,2017-08-08
+3229581,spaghetti data model,無位相模式,,2017-08-08
+3229582,spaghetti digitizing,無位相數化,,2017-08-08
+3229583,spatial,空間的,,2017-08-08
+3229584,spatial adjustment,空間校正,,2017-08-08
+3229585,spatial analysis,空間分析,,2017-08-08
+3229586,spatial archive and interchange format{=SAIF},空間檔案及交換格式,,2017-08-08
+3229587,spatial attribute,空間屬性,,2017-08-08
+3229588,spatial autocorrelation,空間自相關,,2017-08-08
+3229589,spatial bookmark,空間書籤,,2017-08-08
+3229590,spatial correlation,空間關聯,,2017-08-08
+3229591,spatial data,空間資料,,2017-08-08
+3229592,spatial data clearinghouse,空間資料交換中心,,2017-08-08
+3229593,spatial data infrastructure{=SDI},空間資料基礎建設,,2021-09-02
+3229594,spatial data manipulation language{=SDML},空間資料操作語言,,2017-08-08
+3229595,spatial data mining,空間資料探勘,,2017-08-08
+3229596,spatial data model,空間資料模式,,2017-08-08
+3229597,spatial data structure,空間資料結構,,2017-08-08
+3229598,spatial data transfer standard{=SDTS},空間資料交換標準,,2017-08-08
+3229599,spatial database,空間資料庫,,2017-08-08
+3229600,spatial database engine{=SDE},空間資料庫引擎,,2017-08-08
+3229601,spatial datum,空間基準,,2017-08-08
+3229602,spatial domain,空間域,,2017-08-08
+3229603,spatial filtering,空間濾波,,2017-08-08
+3229604,spatial function,空間函數,,2017-08-08
+3229605,spatial grid,空間網格,,2017-08-08
+3229606,spatial indexing,空間索引,,2017-08-08
+3229607,spatial information,空間資訊,,2017-08-08
+3229608,spatial join,空間連接,,2017-08-08
+3229609,spatial modeling,空間建模,,2017-08-08
+3229610,spatial object,空間物件,,2017-08-08
+3229611,spatial overlay,空間套疊,,2017-08-08
+3229612,spatial overlay analysis,空間套疊分析,,2017-08-08
+3229613,spatial query,空間查詢,,2017-08-08
+3229614,spatial reference system,空間參考坐標系統,,2017-08-08
+3229615,spatial relationship,空間關系,,2017-08-08
+3229616,spatial resolution,空間解析度,,2017-08-08
+3229617,spatial structured query language{=SSQL},空間結構化查詢語言,,2017-08-08
+3229618,spatial unit,空間單元,,2017-08-08
+3229619,spatio-temporal data,時空資料,,2017-08-08
+3229620,spatio-temporal database,時空資料庫,,2017-08-08
+3229621,spatio-temporal element,時空元素,,2017-08-08
+3229622,spatio-temporal query,時空查詢,,2017-08-08
+3229623,specification,規格,,2017-08-08
+3229624,specifier,描述符號,,2017-08-08
+3229625,spectral resolution,光譜解析度,,2017-08-08
+3229626,spectral signature,光譜特徵,,2020-08-06
+3229627,spectrophotometer,分光光度計,,2017-08-08
+3229628,spectroscopy,光譜學,,2017-08-08
+3229629,sphere,球體,,2017-08-08
+3229630,spherical coordinate system,球面坐標系統,,2017-08-08
+3229631,spheroid,橢球體,,2017-08-08
+3229632,spike,突兀；突出,,2017-08-08
+3229634,spline interpolation,雲形線內插；曲規線內插,,2017-08-08
+3229635,split character,分割字元,,2017-08-08
+3229636,split policy,分割策略,,2017-08-08
+3229637,spread function,擴散函數,,2017-08-08
+3229638,standard,標準,,2017-08-08
+3229639,standard deviation,標準差,,2017-08-08
+3229640,standard deviation classification,標準差分類,,2017-08-08
+3229641,standard for general markup language{=SGML},通用標記語言標準,,2017-08-08
+3229642,standard industrial classification codes{=SIC codes},標準工業分類碼,,2017-08-08
+3229643,standard interchange format{=SIF},標準交換格式,,2017-08-08
+3229644,standard parallel,標準緯線,,2017-08-08
+3229645,standardization,標準化,,2017-08-08
+3229646,standardization process,標準化作業,,2017-08-08
+3229647,start of conversion pulse{=SOC},脈衝起始,,2017-08-08
+3229648,start point,起點,,2017-08-08
+3229649,state,狀態,,2017-08-08
+3229650,static positioning,靜態定位,,2017-08-08
+3229651,stationing,設站,,2017-08-08
+3229652,statistic,統計量,,2017-08-08
+3229653,statistical analysis,統計分析,,2017-08-08
+3229654,statistical surface,統計面,,2017-08-08
+3229655,statistics,統計學,,2017-08-08
+3229656,steradian,球面度,,2017-08-08
+3229657,stereo,立體,,2017-08-08
+3229658,stereocompilation,立體編圖,,2017-08-08
+3229659,stereographic projection,球面投影,,2017-08-08
+3229660,stereometer,立體量測尺,,2017-08-08
+3229661,stereomodel,立體模型,,2017-08-08
+3229662,stereopair,立體像對,,2017-08-08
+3229663,stereoplotter,立體測圖儀,,2017-08-08
+3229664,stereoscope,立體鏡,,2017-08-08
+3229665,stereotype,刻板印象,,2017-08-08
+3229666,stochastic model,隨機模型,,2017-08-08
+3229667,storage keyword,儲存關鍵字,,2017-08-08
+3229668,store market analysis,商店市場分析,,2017-08-08
+3229669,straight-line direction,直線方向,,2017-08-08
+3229670,straight-line distance,直線距離,,2017-08-08
+3229671,stream,流,,2017-08-08
+3229672,stream mode,連續模式,,2017-08-08
+3229673,stream mode digitizing,連續數化,,2017-08-08
+3229674,stream tolerance,連續數化容許誤差,,2017-08-08
+3229675,street centerline,街道中心線,,2017-08-08
+3229676,street network,街道網,,2017-08-08
+3229677,street-based mapping,街道底圖製圖,,2017-08-08
+3229678,stretch,拉伸；伸長,,2017-08-08
+3229679,string,線；串,,2017-08-08
+3229680,structured query language{=SQL},結構化查詢語言,,2017-08-08
+3229681,study area,訓練區,,2017-08-08
+3229682,style,樣式,,2017-08-08
+3229683,style manager,樣式管理器,,2017-08-08
+3229684,style sheet,樣式模板,,2017-08-08
+3229685,sub-satellite point,星下點,,2017-08-08
+3229686,subtractive primary colors,減法三原色,,2017-08-08
+3229687,subtype,次類型,,2017-08-08
+3229688,suitability model,適宜性模型,,2017-08-08
+3229689,surface,表面,,2017-08-08
+3229690,surface fitting,表面貼合,,2017-08-08
+3229691,surface mode,表面模式,,2017-08-08
+3229692,surface model,表面模型,,2017-08-08
+3229693,surface smoothness,曲面平滑度,,2017-08-08
+3229694,survey class,測量類,,2017-08-08
+3229695,survey dataset,測量資料集,,2017-08-08
+3229696,survey layers,測量圖層,,2017-08-08
+3229697,survey mark,測標,,2017-08-08
+3229698,survey object,測量物件,,2017-08-08
+3229699,survey point,測點,,2017-08-08
+3229700,survey project,測量專案,,2017-08-08
+3229701,survey station,測站,,2017-08-08
+3229702,surveying,測量,,2017-08-08
+3229703,sustainable development,永續發展,,2017-08-08
+3229704,Sybase database,Sybase資料庫,,2017-08-08
+3229705,symbol,符號,,2017-08-08
+3229706,symbol ID code,符號識別碼,,2017-08-08
+3229707,symbol level,符號層級,,2017-08-08
+3229708,symbolization,符號化,,2017-08-08
+3229709,symbology,符號學,,2017-08-08
+3229710,synchronization version,版本一致性,,2017-08-08
+3229711,synchronous communication,同步通訊,,2017-08-08
+3229712,synchronous data link control{=SDLC},同步資料連結控制,,2017-08-08
+3229713,syntax,語法,,2017-08-08
+3229714,synthetic resolution,合成解析度,,2017-08-08
+3229715,system integration,系統整合,,2017-08-08
+3229716,system network architecture{=SNA},系統網路架構,,2017-08-08
+3229717,systematic error,系統誤差,,2017-08-08
+3229718,table,表,,2017-08-08
+3229719,table of contents,內容表,,2017-08-08
+3229720,table view,表視圖,,2017-08-08
+3229721,tablet coordinates,數化板坐標,,2017-08-08
+3229722,tablet menu,數化板選單,,2017-08-08
+3229723,tabular data,表狀資料,,2017-08-08
+3229724,tag,標籤,,2017-08-08
+3229725,tagged image file format{=TIFF},標記影像檔案格式；TIFF格式,,2017-08-08
+3229726,tagged value,標記值,,2017-08-08
+3229727,tagging,標記,,2017-08-08
+3229728,tangent projection,切投影,,2017-08-08
+3229729,target,目標,,2017-08-08
+3229730,target area,目標區,,2017-08-08
+3229731,target computer,靶標計算機,,2017-08-08
+3229732,target layer,目標圖層,,2017-08-08
+3229733,target offset,目標偏移,,2017-08-08
+3229734,target point,目標點,,2017-08-08
+3229735,target recognition,目標識別；目標辨認,,2017-08-08
+3229736,taxonomy,分類學,,2017-08-08
+3229737,technology viewpoint,技術觀點,,2017-08-08
+3229738,teleprocessing,遠端處理,,2017-08-08
+3229739,telnet,遠端登入,,2017-08-08
+3229740,template,樣板,,2017-08-08
+3229741,temporal,時間的,,2017-08-08
+3229742,temporal accuracy,時間準確度,,2017-08-08
+3229743,temporal attribute,時間屬性,,2017-08-08
+3229744,temporal characteristic,時間特徵,,2017-08-08
+3229745,temporal coordinate,時間坐標,,2017-08-08
+3229746,temporal database,時間性資料庫,,2017-08-08
+3229747,temporal dimension,時間維度,,2017-08-08
+3229748,temporal event,時間性事件,,2017-08-08
+3229749,temporal file,暫存檔,,2017-08-08
+3229750,temporal object,時間性物件,,2017-08-08
+3229751,temporal object table,時間性物件表,,2017-08-08
+3229752,temporal observation,時間性觀測,,2017-08-08
+3229753,temporal observation table,時間性觀測表,,2017-08-08
+3229754,temporal offset,時間偏移,,2017-08-08
+3229755,temporal position,時間位置,,2017-08-08
+3229756,temporal reference system,時間參考系統,,2017-08-08
+3229757,temporal relationship,時間關係,,2017-08-08
+3229758,temporal resolution,時間解析度,,2017-08-08
+3229759,temporal window,時間窗,,2017-08-08
+3229760,temporal-spatial resolution,時空解析度,,2017-08-08
+3229761,temporary dataset,暫時資料集,,2017-08-08
+3229762,terabyte{=TB},兆位元組,,2017-08-08
+3229763,terminating node,終結點,,2017-08-08
+3229764,terrain,地形,,2017-08-08
+3229765,terrain analysis,地形分析,,2017-08-08
+3229766,terrain correction,地形改正,,2017-08-08
+3229767,terrain emboss,地形浮雕,,2017-08-08
+3229768,terrain factor,地形因子,,2017-08-08
+3229769,terrain features,地形特徵,,2017-08-08
+3229770,terrain information,地形資訊,,2017-08-08
+3229771,terrain model,地形模型,,2017-08-08
+3229772,tessellation,鑲嵌,,2017-08-08
+3229773,tessellation data model,鑲嵌式資料模式,,2017-08-08
+3229774,tesseral,田形的,,2017-08-08
+3229775,test verdict,測試判定,,2017-08-08
+3229776,testbed,測試平台,,2017-08-08
+3229777,text,文字,,2017-08-08
+3229778,text attribute,文字屬性,,2017-08-08
+3229779,text data,文字資料,,2017-08-08
+3229780,text file,文本檔案,,2017-08-08
+3229781,text formatting tag,文本格式標記,,2017-08-08
+3229782,text object,文字物件,,2017-08-08
+3229783,text rectangle,文字框,,2017-08-08
+3229784,text style,文字樣式,,2017-08-08
+3229785,text symbol,文本符號,,2017-08-08
+3229786,text window,文字視窗,,2017-08-08
+3229787,texture,紋理,,2017-08-08
+3229788,texture analysis,紋理分析,,2017-08-08
+3229789,texture coordinate,紋理坐標,,2017-08-08
+3229790,texture mapping,紋理映射,,2017-08-08
+3229791,thematic,主題,,2017-08-08
+3229792,thematic attribute,主題屬性,,2017-08-08
+3229793,thematic cartography,主題地圖學,,2017-08-08
+3229794,thematic data,主題資料,,2017-08-08
+3229795,thematic map,主題地圖,,2017-08-08
+3229796,thematic mapper{=TM},主題製圖儀,,2017-08-08
+3229797,thematic mapping,主題製圖,,2017-08-08
+3229798,theme,主題,,2017-08-08
+3229799,theme image,主題影像,,2017-08-08
+3229800,theme table,主題表,,2017-08-08
+3229801,theodolite,經緯儀,,2017-08-08
+3229802,Thiessen polygons,徐昇多邊形,,2017-08-08
+3229803,thinning,細化,,2017-08-08
+3229804,thread,線序,,2017-08-08
+3229805,three-tier configuration,三層結構,,2017-08-08
+3229806,threshold,閾值,,2017-08-08
+3229807,threshold ring analysis,閾值範圍分析,,2017-08-08
+3229808,thumbnail,縮略圖,,2017-08-08
+3229809,tic,配準控制點,,2017-08-08
+3229810,tidal datum,潮汐基準面,,2017-08-08
+3229811,tie point,連結點,,2017-08-08
+3229812,tile,磚,,2017-08-08
+3229813,tiling,分塊,,2017-08-08
+3229814,time data type,時間資料類型,,2017-08-08
+3229815,time mode,時間模式,,2017-08-08
+3229816,time stamp,時間標記,,2017-08-08
+3229817,TIN dataset,不規則三角網資料集,,2017-08-08
+3229818,token,訊標,,2017-08-08
+3229819,token type value,訊標類型值,,2017-08-08
+3229820,tolerance,容忍值；容許值,,2017-08-08
+3229821,tone,色調,,2017-08-08
+3229822,tool tip,工具提示,,2017-08-08
+3229823,toolbar,工具列,,2017-08-08
+3229824,toolbox,工具箱,,2017-08-08
+3229825,toolkit,工具包,,2017-08-08
+3229826,toolset,工具集,,2017-08-08
+3229827,topographic analysis,地形分析,,2017-08-08
+3229828,topographic cycle,地形輪迴;地形循環,,2017-08-08
+3229829,topographic features,地形特徵,,2017-08-08
+3229830,topographic functions,地形分析功能,,2017-08-08
+3229831,Topographic Line Map{=TLM},地形線劃圖,,2017-08-08
+3229832,topographic map,地形圖,,2017-08-08
+3229833,topographic map symbols,地形圖符號,,2017-08-08
+3229834,topographical database,地形資料庫,,2017-08-08
+3229835,topography,地形學,,2017-08-08
+3229836,topological analysis,位相分析,,2017-08-08
+3229837,topological association,位相連接,,2017-08-08
+3229838,topological coding,位相編碼,,2017-08-08
+3229839,topological data,位相資料,,2017-08-08
+3229840,topological data model,位相資料模式,,2017-08-08
+3229841,topological data structure,位相資料結構,,2017-08-08
+3229842,topological error,位相錯誤,,2017-08-08
+3229843,topological feature,位相圖徵,,2017-08-08
+3229844,topological overlay,位相套疊,,2017-08-08
+3229845,topological primitive,位相基元,,2017-08-08
+3229846,topological relationship,位相關係,,2017-08-08
+3229847,topological space,位相空間,,2017-08-08
+3229848,topological structure,位相結構,,2017-08-08
+3229849,Topologically Integrated Geographic Encoding and Referencing{=TIGER},位相整合地理編碼與參考系統,,2017-08-08
+3229851,topologically linked database,位相聯結資料庫,,2017-08-08
+3229852,topologically structured data,位相結構資料,,2017-08-08
+3229853,topology,位相；拓撲,,2017-08-08
+3229854,topology cache,位相快取,,2017-08-08
+3229855,topology fix,位相修正,,2017-08-08
+3229856,topology rule,位相規則,,2017-08-08
+3229857,toponym,地名,,2017-08-08
+3229858,toponymy,地名學,,2017-08-08
+3229859,tour,旅程,,2017-08-08
+3229860,tracing,追跡,,2017-08-08
+3229861,track,航跡,,2017-08-08
+3229863,track identifier field,航跡識別欄,,2017-08-08
+3229864,tracking connection,軌跡連接,,2017-08-08
+3229865,training,訓練,,2017-08-08
+3229866,training area,訓練區,,2017-08-08
+3229867,training sample,訓練樣本,,2017-08-08
+3229868,transaction,交易,,2017-08-08
+3229869,transaction log,交易記錄,,2017-08-08
+3229870,transactional database,交易資料庫,,2017-08-08
+3229871,transection,橫斷面,,2017-08-08
+3229872,transfer format,轉換格式,,2017-08-08
+3229873,transform events,轉換事件,,2017-08-08
+3229874,transformation,轉換,,2017-08-08
+3229875,transformation program,轉換程式,,2017-08-08
+3229876,transformation schema,轉換綱要,,2017-08-08
+3229877,transient network analyzer{=TNA},瞬時網絡分析器,,2017-08-08
+3229878,transit rule,轉換規則,,2017-08-08
+3229879,translation,平移；轉化,,2017-08-08
+3229881,transmission,傳送；發射,,2017-08-08
+3229882,transmission control protocol/internet protocol{= TCP/IP},傳輸控制協定/網際網路協定,,2017-08-08
+3229883,transportation information system{=TIS},運輸資訊系統,,2017-08-08
+3229884,transverse Mercator projection,橫麥卡托投影,,2017-08-08
+3229885,transverse profile,橫斷面,,2017-08-08
+3229886,traveling salesman problem{=TSP},銷售員路線問題,,2017-08-08
+3229887,traversal method,遍歷法,,2017-08-08
+3229888,traverse,導線,,2017-08-08
+3229889,traverse course,導線路線,,2017-08-08
+3229890,tree structure,樹狀結構,,2017-08-08
+3229891,trend surface analysis,趨勢面分析,,2017-08-08
+3229892,triangle,三角形,,2017-08-08
+3229893,triangular digital terrain model,三角網數值地形模型,,2017-08-08
+3229895,triangulation,三角網連結；三角測量,,2017-08-08
+3229896,tricolor,三色,,2017-08-08
+3229897,trigonometric function,三角函數,,2017-08-08
+3229898,trilateration,三邊測量,,2017-08-08
+3229899,true north,真北,,2017-08-08
+3229900,tuple,元組,,2017-08-08
+3229901,turn,轉換,,2017-08-08
+3229902,turn feature class,轉彎圖徵類別,,2017-08-08
+3229903,turn impedance,轉換阻力,,2017-08-08
+3229904,turn table,順序表,,2017-08-08
+3229905,two-tier configuration,兩層配置,,2017-08-08
+3229906,type inheritance,類型繼承,,2017-08-08
+3229907,type library,類型庫,,2017-08-08
+3229908,U probability,U機率,,2017-08-08
+3229909,UI control,用戶界面控制,,2017-08-08
+3229910,ultra wide angle lens,超廣角鏡頭,,2017-08-08
+3229911,uncertainty,不確定性,,2017-08-08
+3229912,unconditional pattern,無條件類型,,2017-08-08
+3229913,undershoot,未搭,,2017-08-08
+3229914,undevelopable surface,不可展面,,2017-08-08
+3229915,undirected network flow,無方向網路流,,2017-08-08
+3229916,unified customer interface,統一使用者介面,,2017-08-08
+3229917,unified data structure,統一資料結構,,2017-08-08
+3229918,unified modeling language{=UML},統一塑模語言,,2017-08-08
+3229919,uniform list,統一序列,,2017-08-08
+3229920,uniform resource locator{=URL},網址,,2017-08-08
+3229921,uninitialized flow direction,未初始化流方向,,2017-08-08
+3229922,unit of measure,量測單位,,2017-08-08
+3229923,universal class,通用分類,,2017-08-08
+3229924,"universal description, discovery, and integration{=UDDI}",通用描述發現與整合,,2017-08-08
+3229925,universal Kriging,通用克利金法,,2017-08-08
+3229926,universal naming convention{= UNC},通用命名慣例,,2017-08-08
+3229927,universal polar sterographic{= UPS},全球極球面投影,,2017-08-08
+3229928,universal soil loss equation,通用水土流失方程式,,2017-08-08
+3229929,universal transverse mercator{=UTM},全球橫麥卡托投影,,2017-08-08
+3229930,universe of discourse,論域；討論範圍,,2017-08-08
+3229931,universe polygon,外多邊形,,2017-08-08
+3229932,unknown points,未知點,,2017-08-08
+3229933,update,更新,,2017-08-08
+3229934,upgrade,升級,,2017-08-08
+3229935,upload,上傳,,2017-08-08
+3229936,upstream,上行,,2017-08-08
+3229937,urban geographic information system{=UGIS},都市地理資訊系統,,2017-08-08
+3229938,urban management information system{=UMIS},都市管理資訊系統,,2017-08-08
+3229939,usage,使用,,2017-08-08
+3229940,user,使用者,,2017-08-08
+3229941,user command,使用者指令,,2017-08-08
+3229942,user coordinate system{=UCS},使用者坐標系,,2017-08-08
+3229943,user file directory{=UFD},使用者檔案路徑,,2017-08-08
+3229944,user identification code,使用者識別碼,,2017-08-08
+3229946,user identifier,使用者識別碼,,2017-08-08
+3229947,user interface{=UI},使用者介面,,2017-08-08
+3229948,user name,用戶名,,2017-08-08
+3229949,user requirement analysis,使用者需求分析,,2017-08-08
+3229950,user work area,使用者工作區,,2017-08-08
+3229951,user-defined data type,使用者定義資料類型,,2017-08-08
+3229952,user-oriented information system,使用者導向資訊系統,,2017-08-08
+3229953,utilities,公共設施,,2017-08-08
+3229954,utility COM object,工具類COM物件,,2017-08-08
+3229955,utility information system,公共設施資訊系統,,2017-08-08
+3229956,utility network map,公共設施網路地圖,,2017-08-08
+3229957,utility web service,公共設施網路服務,,2017-08-08
+3229958,valid value table{=VVT},有效值表,,2017-08-08
+3229959,validation,驗證,,2017-08-08
+3229960,validation rule,驗證規則,,2017-08-08
+3229961,validity,效度,,2017-08-08
+3229962,value,值,,2017-08-08
+3229963,value attribute table {=VAT},值屬性表,,2017-08-08
+3229964,value domain,值域,,2017-08-08
+3229965,variable,變數,,2017-08-08
+3229966,variance,方差；變異數,,2017-08-08
+3229967,variance-covariance matrix,方差-協方差矩陣,,2017-08-08
+3229968,variant,變量,,2017-08-08
+3229969,variogram,變異圖,,2017-08-08
+3229970,vector,向量,,2017-08-08
+3229971,vector analysis,向量分析,,2017-08-08
+3229972,vector data,向量資料,,2017-08-08
+3229973,vector data format,向量資料格式,,2017-08-08
+3229974,vector data model,向量資料模式,,2017-08-08
+3229975,vector data structure,向量資料結構,,2017-08-08
+3229976,vector map,向量圖,,2017-08-08
+3229977,vector plotting,向量繪圖,,2017-08-08
+3229978,Vector Product Format{=VPF},向量產品格式,,2017-08-08
+3229979,vector representation,向量表示,,2017-08-08
+3229980,vector topology,向量位相,,2017-08-08
+3229981,vectorization,向量化,,2017-08-08
+3229982,vectorization trace tool,向量化追跡工具,,2017-08-08
+3229983,vector-to-raster conversion,向量網格轉換,,2017-08-08
+3229984,vegetation index,植被指數；植生指數,,2017-08-08
+3229985,verifiability,可驗證性,,2017-08-08
+3229986,verification,確認,,2017-08-08
+3229987,verification test,確認測試,,2017-08-08
+3229988,version,版本,,2017-08-08
+3229989,version management,版本管理,,2017-08-08
+3229990,version merging,版本合併,,2017-08-08
+3229991,version reconciliation,版本調和,,2017-08-08
+3229992,vertex,頂點,,2017-08-08
+3229993,vertical control,垂直控制,,2017-08-08
+3229994,vertical control datum,高程控制基準,,2017-08-08
+3229995,vertical datum,高程基準,,2017-08-08
+3229996,vertical exaggeration,垂直誇大,,2017-08-08
+3229997,vertical integration,垂直整合,,2017-08-08
+3229998,vertical photograph,垂直攝影像片,,2017-08-08
+3229999,video capture,視訊擷取,,2017-08-08
+3230000,view,檢視；視圖,,2017-08-08
+3230001,viewer,檢視器,,2017-08-08
+3230002,viewpoint,視點；觀察點,,2017-08-08
+3230003,viewport,視埠,,2017-08-08
+3230004,viewshed,視域,,2017-08-08
+3230005,viewshed analysis,視域分析,,2017-08-08
+3230006,viewshed map,視域地圖,,2017-08-08
+3230007,virtual directory,虛擬目錄,,2017-08-08
+3230008,virtual map,虛擬地圖,,2017-08-08
+3230009,virtual memory,虛擬記憶體,,2017-08-08
+3230010,virtual page,虛擬頁,,2017-08-08
+3230011,virtual reality {=VR},虛擬實境,,2017-08-08
+3230012,virtual study area,虛擬研究區,,2017-08-08
+3230013,virtual table,虛擬表,,2017-08-08
+3230014,virtual terminal,虛擬終端機,,2017-08-08
+3230015,visibility analysis,通視分析,,2017-08-08
+3230016,visible scale range,可視比例尺範圍,,2017-08-08
+3230017,visual interpretation,目視判讀,,2017-08-08
+3230018,visualization,視覺化,,2017-08-08
+3230019,visualization in scientific computing,科學計算視覺化,,2017-08-08
+3230020,volume,體積；容積,,2017-08-08
+3230021,voxel,體元,,2017-08-08
+3230022,wait time,等待時間,,2017-08-08
+3230023,walk mode,步行模式,,2017-08-08
+3230024,watershed,集水區,,2017-08-08
+3230025,wavelength,波長,,2017-08-08
+3230026,web application,網路應用,,2017-08-08
+3230027,web application template,網路應用模板,,2017-08-08
+3230028,web browser,網路瀏覽器,,2017-08-08
+3230029,web control,網路控制,,2017-08-08
+3230030,web feature server{=WFS},網路圖徵服務,,2017-08-08
+3230031,web form,網路表單,,2017-08-08
+3230032,web GIS,網路地理資訊系統,,2017-08-08
+3230033,web map server specification,網路地圖伺服器規範,,2017-08-08
+3230034,web map service,網路地圖服務,,2017-08-08
+3230035,web mapping,網路製圖,,2017-08-08
+3230036,web portal,入口網站,,2017-08-08
+3230037,web registry service,網站註冊服務,,2017-08-08
+3230038,web server,網站伺服器,,2017-08-08
+3230039,web service,網路服務,,2017-08-08
+3230040,web service catalog,網路服務目錄,,2017-08-08
+3230041,web service description language{=WSDL},網路服務描述語言,,2017-08-08
+3230042,web site,網站,,2017-08-08
+3230043,weight,權重,,2017-08-08
+3230044,weight filter,加權濾波器,,2017-08-08
+3230045,whisk broom scanner,橫掃式掃描儀,,2017-08-08
+3230046,wide area network{=WAN},廣域網路,,2017-08-08
+3230047,wire frame,線框,,2017-08-08
+3230048,wireless application protocol GIS{=WAP GIS},無線應用通訊協定GIS,,2017-08-08
+3230049,work flow,工作流程,,2017-08-08
+3230050,work order,工作順序,,2017-08-08
+3230051,working directory,工作目錄,,2017-08-08
+3230052,workspace,工作空間,,2017-08-08
+3230053,workstation,工作站,,2017-08-08
+3230054,world coordinate system{=WCS},世界坐標系,,2017-08-08
+3230055,world geodetic system 1984{= WGS84},1984世界大地坐標系,,2017-08-08
+3230056,world geodetic system{=WGS},世界大地坐標系,,2017-08-08
+3230057,world polyconic projection,全球多圓錐投影,,2017-08-08
+3230058,world wide web consortium,全球網路協會,,2017-08-08
+3230059,world wide web{=WWW},全球資訊網,,2017-08-08
+3230060,W-test,W檢測,,2017-08-08
+3230061,Xi’an geodetic coordinate system 1980,1980西安坐標系,,2017-08-08
+3230062,XML metadata interchange,XML詮釋資料轉換,,2017-08-08
+3230063,XML recordset document,XML記錄文件,,2017-08-08
+3230064,XML workspace document,XML工作文件,,2017-08-08
+3230065,yaw angle,偏航角,,2017-08-08
+3230066,y-tilt,航向傾斜,,2017-08-08
+3230067,zenith angle,天頂角,,2017-08-08
+3230068,zenith distance,天頂距,,2017-08-08
+3230069,zenithal projection,正方位投影,,2017-08-08
+3230070,zipcode,郵遞區號,,2017-08-08
+3230071,zonal analysis,區塊分析,,2017-08-08
+3230072,zonal rectification,分帶糾正,,2017-08-08
+3230073,zonal statistics,分帶統計,,2017-08-08
+3230074,zone,區塊；帶,,2017-08-08
+3230075,zone dividing meridian,分帶子午線,,2017-08-08
+3230076,zone generation,區塊生成,,2017-08-08
+3230077,zone of interpolation,內插區,,2017-08-08
+3230078,zoom,縮放,,2017-08-08
+3230079,zoom in,放大,,2017-08-08
+3230080,zoom out,縮小,,2017-08-08
+11570995,a posteri model,後驗模型,,2020-12-03
+11570996,a priori model,先驗模型,,2020-12-03
+11570997,Aarhus Convention,奧胡斯協定,,2020-12-03
+11570998,absolute uncertainty,絕對不確定性,,2020-12-03
+11570999,abstract concepts,抽象概念,,2020-12-03
+11571000,accident black spot,偶然黑點,,2020-12-03
+11571001,accumulation,累積,,2020-12-03
+11571002,accurate positional fix,精確定位,,2020-12-03
+11571003,acid rain,酸雨,,2020-12-03
+11571004,ACS {American Community Survey},美國社區調查,,2020-12-03
+11571005,active sensors,主動式感測器,,2020-12-03
+11571006,address data,地址資料,,2020-12-03
+11571007,adjacent polygons,相鄰多邊形,,2020-12-03
+11571008,administrative data,行政資料,,2020-12-03
+11571009,administrative geographies,行政地理,,2020-12-03
+11571010,AGI {Association for Geographic Information},地理資訊協會,,2020-12-03
+11571011,Albers Equal Area projection,亞爾勃斯等積投影,,2020-12-03
+11571012,allocation modelling,配置模擬,,2020-12-03
+11571013,amalgamation,融合,,2020-12-03
+11571015,analysis function,分析功能,,2020-12-03
+11571016,analysis of surfaces,地表分析,,2020-12-03
+11571017,analysis phase,分析階段,,2020-12-03
+11571018,analysis procedures,分析程序,,2020-12-03
+11571019,analysis schema,分析綱要,,2020-12-03
+11571020,Analyst extension,分析模組,,2020-12-03
+11571021,analytical hillshading,解析暈渲,,2020-12-03
+11571022,analytical modelling,解析模擬,,2020-12-03
+11571023,animated maps,動畫地圖,,2020-12-03
+11571024,anisotropic models,非等向模式,,2020-12-03
+11571025,anthropogenic sources,人為來源,,2020-12-03
+11571026,Apache,阿帕契伺服器,,2020-12-03
+11571027,applicable data sets,可用資料集,,2020-12-03
+11571028,application specialists,應用專家,,2020-12-03
+11571029,application-specific models,特定應用模式,,2020-12-03
+11571030,Apps,行動應用程式,,2020-12-03
+11571032,archaeology,考古學,,2020-12-03
+11571033,Arc-node topography,弧點位相,,2020-12-03
+11571034,areas,面,,2020-12-03
+11571036,aspatial queries,非空間查詢,,2020-12-03
+11571037,asset management,資產管理,,2020-12-03
+11571038,Atlas of Britain,英國地圖集,,2020-12-03
+11571039,atmospheric pollutant emissions,大氣汙染排放,,2020-12-03
+11571040,attractiveness,吸引力,,2020-12-03
+11571041,audio-tactile realities,聲音觸覺實境,,2020-12-03
+11571042,AUTOCARTO,自動地圖研討會,,2020-12-03
+11571043,automatic digitizing,自動數化,,2020-12-03
+11571044,automatic line following,自動跟線,,2020-12-03
+11571045,auto-processing,自動處理,,2020-12-03
+11571046,avalanches,雪崩；山崩,,2020-12-03
+11571047,avatars,化身,,2020-12-03
+11571048,awareness-raising,覺察提升,,2020-12-03
+11571049,bare earth,裸地,,2020-12-03
+11571050,barrier features,阻隔圖徵,,2020-12-03
+11571051,base map conversion,底圖轉換,,2020-12-03
+11571052,base model settings,基底模式設定,,2020-12-03
+11571053,baseline comparison chart,基線比較圖,,2020-12-03
+11571054,basic lineage requirements,基本歷程需求,,2020-12-03
+11571055,basic spatial entity,基本空間實體,,2020-12-03
+11571056,basic spatial unit {=BSU},基本空間單元,,2020-12-03
+11571057,behaviour,行為,,2020-12-03
+11571058,benchmarking,標竿評比,,2020-12-03
+11571059,best fit tilted plane,最適斜面,,2020-12-03
+11571060,Bezier curves,貝齊爾曲線,,2020-12-03
+11571061,bias,偏差,,2020-12-03
+11571062,big bang conversion,爆發式轉換,,2020-12-03
+11571063,bimodal distribution,雙峰分布,,2020-12-03
+11571064,binary classification,二元分類,,2020-12-03
+11571065,biophysical effects,生物物理效應,,2020-12-03
+11571066,bird's eye perspective,鳥瞰透視,,2020-12-03
+11571067,block coding,區塊編碼,,2020-12-03
+11571068,blog,部落格,,2020-12-03
+11571069,bootstrapping,自我重抽法,,2020-12-03
+11571071,break-even point,損益平衡點,,2020-12-03
+11571072,British Crime Survey {=BCS},英國犯罪調查局,,2020-12-03
+11571073,British Geological Survey {=BGS},英國地質調查局,,2020-12-03
+11571074,British Oxford Experimental Cartography Unit,英國牛津地圖實驗單位,,2020-12-03
+11571075,British Telecom,英國電信,,2020-12-03
+11571076,BS 7666,BS 7666英國標準,,2020-12-03
+11571077,buffer zones,環域；緩衝區,,2020-12-03
+11571078,buffering,環域,,2020-12-03
+11571080,building occupancy,建物使用,,2020-12-03
+11571081,business process outsourcing {=BPO},商務流程委外,,2020-12-03
+11571082,cadastral plans,地籍圖,,2020-12-03
+11571083,calibration studies,率定研究,,2020-12-03
+11571084,Canada Land Data System,加拿大土地資料系統,,2020-12-03
+11571085,Canada Land Use Inventory,加拿大土地使用普查,,2020-12-03
+11571086,Canadian Agriculture and Development Act,加拿大農業及發展條例,,2020-12-03
+11571087,Canadian Census of Population,加拿大人口普查局,,2020-12-03
+11571088,Canadian Forest Fire Danger Rating System {=CFFDRS},加拿大森林火災危險分級系統,,2020-12-03
+11571089,Canadian Geographic Information System,加拿大地理資訊系統,,2020-12-03
+11571090,Canadian Geospatial Data Infrastructure,加拿大地理空間資料基礎建設,,2020-12-03
+11571091,Cartesian coordinates,卡氏坐標,,2020-12-03
+11571092,cartograms,面積變量圖,,2020-12-03
+11571093,cartographic data source errors,地圖資料來源誤差,,2020-12-03
+11571094,cartographic maps,地圖,,2020-12-03
+11571095,cartographic modelling,地圖模擬,,2020-12-03
+11571096,catchment,集水區,,2020-12-03
+11571097,categorical mapping,類別製圖,,2020-12-03
+11571098,cathode ray tube {=CRT},陰極射線管,,2020-12-03
+11571099,cell representation,網格表現,,2020-12-03
+11571100,cellular communication,蜂巢式通訊,,2020-12-03
+11571101,Celsius,攝氏,,2020-12-03
+11571102,census data,普查資料,,2020-12-03
+11571103,census enumeration districts,普查統計單元,,2020-12-03
+11571104,census enumeration districts {=EDs},統計區,,2020-12-03
+11571105,central point linear cartograms,中央點線性面積變量圖,,2020-12-03
+11571106,Centre for Advanced Spatial Analysis,先進空間資訊研究中心,,2020-12-03
+11571107,Centre for Geographic Information,地理資訊中心,,2020-12-03
+11571108,Centre for Interaction Data Estimation and Research {=CIDER},互動資料估計與研究中心,,2020-12-03
+11571109,chain coding,鏈編碼,,2020-12-03
+11571110,chains,鏈,,2020-12-03
+11571111,chaos theory,混沌理論,,2020-12-03
+11571112,chart junk,圖面冗餘,,2020-12-03
+11571113,checking attribute data,屬性資料檢查,,2020-12-03
+11571114,checking for errors,誤差檢查,,2020-12-03
+11571115,chi-squared analysis,卡方分析,,2020-12-03
+11571116,Chorley Report,初利報告,,2020-12-03
+11571117,choropleth mapping,面量製圖,,2020-12-03
+11571118,chunks of data,資料塊,,2020-12-03
+11571119,circular filtration,圓形過濾法,,2020-12-03
+11571120,clarity,清晰度,,2020-12-03
+11571121,class membership,類別資格,,2020-12-03
+11571122,classification errors,分類誤差,,2020-12-03
+11571123,classification systems,分類系統,,2020-12-03
+11571124,clearing houses,資料交換中心,,2020-12-03
+11571125,climate change,氣候變遷,,2020-12-03
+11571126,closed circuit television {=CCTV},閉路電視,,2020-12-03
+11571127,Cold War,冷戰,,2020-12-03
+11571128,collaborative design,協同設計,,2020-12-03
+11571129,collating data,檢核資料,,2020-12-03
+11571130,colour separation,分色,,2020-12-03
+11571131,common data exchange formats,共同資料交換格式,,2020-12-03
+11571132,communication devices,通訊裝置,,2020-12-03
+11571133,compatible data sets,相容資料集,,2020-12-03
+11571134,complete data sets,完整資料集,,2020-12-03
+11571137,computer aided drawing {=CAD},電腦輔助繪圖,,2020-12-03
+11571138,computer cartography,電腦地圖學,,2020-12-03
+11571139,computer movies,電腦電影,,2020-12-03
+11571140,computer systems,電腦系統,,2020-12-03
+11571141,concentration,集中,,2020-12-03
+11571142,conceptual errors,概念誤差,,2020-12-03
+11571143,conceptual models,概念模型,,2020-12-03
+11571144,confidence intervals,信賴區間,,2020-12-03
+11571145,confidentiality,可信度,,2020-12-03
+11571146,Conrail,美國聯合鐵路公司,,2020-12-03
+11571147,conservation,保育,,2020-12-03
+11571148,consistent data sets,一致資料集,,2020-12-03
+11571149,continuous events,連續事件,,2020-12-03
+11571150,continuous management,連續管理,,2020-12-03
+11571151,contour lines,等高線,,2020-12-03
+11571153,convexity,凸度,,2020-12-03
+11571154,cookie cutting,區塊切割,,2020-12-03
+11571155,corporate GIS applications,企業地理資訊系統應用,,2020-12-03
+11571156,correcting errors,修正誤差,,2020-12-03
+11571157,cost constraints,成本限制,,2020-12-03
+11571158,counter mapping,對抗性製圖,,2020-12-03
+11571159,counting squares,方格計數,,2020-12-03
+11571160,cover operation,覆蓋操作,,2020-12-03
+11571161,critical success factors,關鍵成功因子,,2020-12-03
+11571162,crossed swords,衝突,,2020-12-03
+11571163,crowdsourcing,群眾外包,,2020-12-03
+11571164,crystal ball gazing,預測,,2020-12-03
+11571165,cumulative impedance,累積阻抗,,2020-12-03
+11571166,cumulative visibility analysis,累積可視度分析,,2020-12-03
+11571167,Cyber-democracy,網路民主,,2020-12-03
+11571168,D8 algorithm,八方向演算法,,2020-12-03
+11571169,dangling lines,懸線,,2020-12-03
+11571170,data abstraction,資料抽象化,,2020-12-03
+11571171,data compaction,資料壓縮,,2020-12-03
+11571173,data lineage tracking functions,資料歷程追蹤功能,,2020-12-03
+11571174,data management procedures,資料管理程序,,2020-12-03
+11571175,data on demand,隨選資料,,2020-12-03
+11571176,data output errors,資料輸出誤差,,2020-12-03
+11571177,data processing errors,資料處理誤差,,2020-12-03
+11571178,database data models,資料庫資料模式,,2020-12-03
+11571179,database management systems {=DBMS},資料庫管理系統,,2020-12-03
+11571180,database truth,資料庫實況,,2020-12-03
+11571181,data-sharing difficulties,資料分享困難,,2020-12-03
+11571182,dead-end nodes,終端節點,,2020-12-03
+11571183,decision rules,決策規則,,2020-12-03
+11571184,decision support,決策支援,,2020-12-03
+11571185,decision-making process modelling,決策過程模擬,,2020-12-03
+11571186,decision-support systems,決策支援系統,,2020-12-03
+11571187,deforestation,去森林化,,2020-12-03
+11571188,degree of excellence,卓越度,,2020-12-03
+11571189,Delaunay triangulation,迪勞內三角法,,2020-12-03
+11571190,delivery planning,配送規劃,,2020-12-03
+11571191,demonstrations,展示,,2020-12-03
+11571192,design graphics,設計圖形,,2020-12-03
+11571193,designing analysis,設計分析,,2020-12-03
+11571194,detecting errors,偵測誤差,,2020-12-03
+11571195,Deterministic 8 {=D8 algorithm},八方定向法,,2020-12-03
+11571196,Deterministic Infinity,無限定向法,,2020-12-03
+11571197,digital contour data,數值等高線資料,,2020-12-03
+11571198,digital elevation model {=DEM},數值高程模型,,2020-12-03
+11571199,digital national framework {=DNF},國家數值框架,,2020-12-03
+11571200,digital topographic maps,數值地形圖,,2020-12-03
+11571201,digital traffic,數位流量,,2020-12-03
+11571202,digitizer coordinates,數化板坐標,,2020-12-03
+11571203,Dijkstra's shortest path algorithm,狄格斯特最短路徑法,,2020-12-03
+11571204,direct conversion,直接轉換,,2020-12-03
+11571205,direct mailing,直接郵寄,,2020-12-03
+11571206,directionality,方向性,,2020-12-03
+11571207,disaggregation,解聚,,2020-12-03
+11571208,disaster areas,災區,,2020-12-03
+11571209,disaster response,災害回應,,2020-12-03
+11571210,discrete objects,離散物件,,2020-12-03
+11571211,discrete vector polygon,離散向量多邊形,,2020-12-03
+11571212,disembarkation,下機,,2020-12-03
+11571213,dislocation,移位,,2020-12-03
+11571214,dismemberment of reality,實體切割,,2020-12-03
+11571215,dispersion model,擴散模式,,2020-12-03
+11571216,dissemination,分送,,2020-12-03
+11571217,distance-decay function,距離衰減函數,,2020-12-03
+11571218,distance-weighting function,距離加權函數,,2020-12-03
+11571219,distributed database approach,分散式資料庫方法,,2020-12-03
+11571220,distribution,分布,,2020-12-03
+11571221,double digitizing,雙重數化,,2020-12-03
+11571223,drag and drop techniques,拖放技術,,2020-12-03
+11571224,drop heuristic method,去除試探法,,2020-12-03
+11571225,dubious statistics,含糊統計,,2020-12-03
+11571226,Dummies books,入門書,,2020-12-03
+11571227,duplicate data,重複資料,,2020-12-03
+11571228,duplication,複製,,2020-12-03
+11571229,dynamic models,動態模型,,2020-12-03
+11571230,dynamic piste maps,動態滑雪道圖,,2020-12-03
+11571231,dynamic representations,動態展現,,2020-12-03
+11571232,dynamics,動力學,,2020-12-03
+11571233,E00,E00交換格式,,2020-12-03
+11571234,ecological fallacy,生態謬誤,,2020-12-03
+11571235,edge effect,邊際效應,,2020-12-03
+11571237,Edina Digimap,艾迪娜數值地圖,,2020-12-03
+11571238,efficiency,效率,,2020-12-03
+11571239,e-government,電子政府,,2020-12-03
+11571240,El Ni?o,聖嬰現象,,2020-12-03
+11571241,electoral area,選舉區,,2020-12-03
+11571242,electronic data transfer,電子資料傳送,,2020-12-03
+11571243,electronic distance metering,電子測距,,2020-12-03
+11571244,electronic point of sale {=EPOS},電子銷售時點,,2020-12-03
+11571245,elitist technology,菁英科技,,2020-12-03
+11571246,embarkation,登機,,2020-12-03
+11571247,embedded positioning technology,內嵌定位技術,,2020-12-03
+11571248,embellishment,裝飾,,2020-12-03
+11571249,emergency evacuation,緊急疏散,,2020-12-03
+11571250,emissions inventory,排放清查,,2020-12-03
+11571251,encoding errors,編碼誤差,,2020-12-03
+11571252,encroachments on public land,公地占用,,2020-12-03
+11571253,end nodes,端點,,2020-12-03
+11571254,enhancement,增顯,,2020-12-03
+11571255,entity attribute modelling,實體屬性模擬,,2020-12-03
+11571256,entity definition,實體定義,,2020-12-03
+11571257,Environment on Call,環境熱線,,2020-12-03
+11571258,Environmental Effects Statement,環境影響說明書,,2020-12-03
+11571259,environmental process modelling,環境作用模擬,,2020-12-03
+11571260,Environmental Systems Research Institute {=ESRI},環境系統研究所,,2020-12-03
+11571261,e-participation system,電子參與系統,,2020-12-03
+11571262,ephemeral output,暫時輸出,,2020-12-03
+11571263,epsilon modelling,容許誤差模擬,,2020-12-03
+11571264,error maps,誤差圖,,2020-12-03
+11571265,error modelling,誤差模擬,,2020-12-03
+11571266,error signature,誤差特徵,,2020-12-03
+11571267,errors,誤差,,2020-12-03
+11571268,errors of generalization,概括化誤差,,2020-12-03
+11571269,estimating emissions,排放估計,,2020-12-03
+11571270,ethnophysiography,人地學,,2020-12-03
+11571271,Euclidean distances,歐基里德距離,,2020-12-03
+11571272,evapotranspiration,蒸發散,,2020-12-03
+11571273,exaggerated line thickness,誇大線寬,,2020-12-03
+11571274,exploratory data analysis,探索式資料分析,,2020-12-03
+11571275,extensible Markup Language {=XML},可延伸標示語言,,2020-12-03
+11571276,extensible relational DBMS,可延伸關聯式資料庫管理系統,,2020-12-03
+11571277,external trading environment,外在交易環境,,2020-12-03
+11571278,extreme values,極值,,2020-12-03
+11571279,eye-balling,視覺檢視,,2020-12-03
+11571280,failed applications,失敗應用,,2020-12-03
+11571281,false connectivity,偽連結,,2020-12-03
+11571282,FARSITE,FARSITE軟體,,2020-12-03
+11571283,fear of crime,犯罪恐懼,,2020-12-03
+11571285,feedback,回饋,,2020-12-03
+11571286,field data sources,田野資料來源,,2020-12-03
+11571287,finalization,定案,,2020-12-03
+11571288,fire-fighting,滅火,,2020-12-03
+11571289,fishnet diagrams,漁網圖,,2020-12-03
+11571290,fitness for purpose,合用度,,2020-12-03
+11571291,flat Earth,平面地球,,2020-12-03
+11571292,flat file,平坦檔,,2021-04-19
+11571293,flat-bed scanners,平臺式掃描器,,2020-12-03
+11571294,flight simulation,飛行模擬,,2020-12-03
+11571295,flooding,洪氾,,2020-12-03
+11571296,flowcharts,流程圖,,2020-12-03
+11571297,fluvial geomorphology,河流地形學,,2020-12-03
+11571298,flux,通量,,2020-12-03
+11571299,fly through animation,飛越動畫,,2020-12-03
+11571300,forecasting,預報,,2020-12-03
+11571301,Forestry Commission (UK),英國森林委員會,,2020-12-03
+11571302,Forestry Service (USA),美國林務局,,2020-12-03
+11571303,FORTRAN,福傳語言,,2020-12-03
+11571304,fourth dimension modelling,第四維模擬,,2020-12-03
+11571305,friction value,摩擦值,,2020-12-03
+11571306,fuel information,燃料資訊,,2020-12-03
+11571307,functionality,功能性,,2020-12-03
+11571308,future-proof new system,未來仍適用新系統,,2020-12-03
+11571309,fuzzy boundaries,模糊邊界,,2020-12-03
+11571310,fuzzy feature classification,模糊地物分類,,2020-12-03
+11571311,GALILEO,伽利略衛星系統,,2020-12-03
+11571312,gaming,遊戲,,2020-12-03
+11571313,gamma correction,伽瑪改正,,2020-12-03
+11571314,gaps,縫隙,,2020-12-03
+11571315,garbage in garbage out {=GIGO},垃圾進垃圾出,,2020-12-03
+11571316,general systems approach,通用系統方法,,2020-12-03
+11571317,generic models,普通模型,,2020-12-03
+11571318,geocoding address data,門牌資料地理編碼,,2020-12-03
+11571319,geocomputation,地理運算,,2020-12-03
+11571320,geoconnections,地理連結,,2020-12-03
+11571321,Geographic Base File-Dual Independent Map Encoding {=GBF-DIME},GBF-DIME檔案,,2020-12-03
+11571323,Geographic Information Mapping and Manipulation System {=GIMMS},地理資訊繪圖與操作系統,,2020-12-03
+11571324,geographical data,地理資料,,2020-12-03
+11571325,Geography Markup Language {=GML},地理標記語言,,2020-12-03
+11571326,geo-marketing,地理行銷,,2020-12-03
+11571327,GeoMedia,GeoMedia軟體,,2020-12-03
+11571328,geometry-centric data models,幾何本位資料模型,,2020-12-03
+11571329,georeferencing,地理坐標參考,,2020-12-03
+11571330,Geospatial Management System,地理空間管理系統,,2020-12-03
+11571331,Geospatial metadata interoperability initiative {=GEMINI},地理空間詮釋資料互操作性倡議,,2020-12-03
+11571332,geospatial one-stop,地理空間單一窗口,,2020-12-03
+11571333,geo-tagging,地理標籤,,2020-12-03
+11571334,geovisualization,地理視覺化,,2020-12-03
+11571335,GIS and spatial decision support,地理資訊系統與空間決策支援,,2020-12-03
+11571336,GIS Certification Institute {=GISCI},地理資訊系統認證機構,,2020-12-03
+11571337,GIS data standards,地理資訊系統資料標準,,2020-12-03
+11571338,GIS design,地理資訊系統設計,,2020-12-03
+11571339,GIS project design,地理資訊系統專案設計,,2020-12-03
+11571340,GIS source data errors,地理資訊系統來源資料誤差,,2020-12-03
+11571341,GIS workstations,地理資訊系統工作站,,2020-12-03
+11571342,GIS World,地理資訊系統世界雜誌,,2020-12-03
+11571343,GIScience,地理資訊科學,,2020-12-03
+11571344,GIS-enabled retail sales forecasting,地理資訊系統輔助銷售預估,,2020-12-03
+11571345,GLIMMER,GLIMMER冰被模型,,2020-12-03
+11571346,global applications,全球應用,,2020-12-03
+11571347,Global Navigation Satellite System {=GLONASS},全球導航衛星系統,,2020-12-03
+11571348,Global Positioning Systems {=GPS},全球定位系統,,2020-12-03
+11571349,global warming,全球暖化,,2020-12-03
+11571350,GMAP,GMAP公司,,2020-12-03
+11571351,Google Documents,Google文件,,2021-12-17
+11571352,Google Earth,Google地球,,2021-12-17
+11571353,Google Maps,Google地圖,,2021-12-17
+11571354,Google Street View,Google街景,,2021-12-17
+11571355,graphical data,圖形資料,,2020-12-03
+11571356,graphical scale,圖形比例尺,,2020-12-03
+11571357,graphical user interface {=GUI},圖形使用者介面,,2020-12-03
+11571358,graphics retrieval,圖形取得,,2020-12-03
+11571359,grassroots opinion,草根意見,,2020-12-03
+11571360,gravity models,重力模型,,2020-12-03
+11571361,great circle distance,大圓距離,,2020-12-03
+11571362,Great Solar Eclipse,大日蝕,,2020-12-03
+11571363,grid models,方格模式,,2020-12-03
+11571364,grid orientation,方格方位,,2020-12-03
+11571365,grid origin,方格原點,,2020-12-03
+11571366,grids,方格,,2020-12-03
+11571367,half line method,半線法,,2020-12-03
+11571368,hand wobble,手搖晃,,2020-12-03
+11571369,hand-eye method,手眼法,,2020-12-03
+11571370,handhelds,手持裝置,,2020-12-03
+11571371,hard systems analysis,硬系統分析,,2020-12-03
+11571372,hardware for GIS,地理資訊系統硬體,,2020-12-03
+11571373,Harvard Graphics Laboratory,哈佛圖形研究室,,2020-12-03
+11571374,height data,高程資料,,2020-12-03
+11571375,Her Majesty's Land Registry,英國土地登記單位,,2020-12-03
+11571376,heuristic method,啟發式方法,,2020-12-03
+11571377,hidden data,隱藏資料,,2020-12-03
+11571378,hierarchy method,階層式方法,,2020-12-03
+11571379,high crime zones,高犯罪率地區,,2020-12-03
+11571380,high-end GIS,高階地理資訊系統,,2020-12-03
+11571381,high-resolution data,高解析度資料,,2020-12-03
+11571382,high-speed networking,高速聯網,,2020-12-03
+11571383,histograms,直方圖,,2020-12-03
+11571384,hole polygons,中空多邊形,,2020-12-03
+11571385,holistic view,全方位觀點,,2020-12-03
+11571386,homogeneous distribution,均勻分布,,2020-12-03
+11571387,hotspots,熱點,,2020-12-03
+11571388,house hunting,找房子,,2020-12-03
+11571389,Huff-type spatial interaction model,哈夫空間互動模式,,2020-12-03
+11571390,human error,人為誤差,,2020-12-03
+11571391,human process modelling,人為操作模擬,,2020-12-03
+11571392,human sources of bias,人為偏差來源,,2020-12-03
+11571393,human-machine interface,人機介面,,2020-12-03
+11571394,Hurricane Katrina,卡崔娜颶風,,2020-12-03
+11571395,hybrid systems,混合式系統,,2020-12-03
+11571396,hydrological modelling,水文模擬,,2020-12-03
+11571397,hypertext transfer protocol {=HTTP},超文字傳輸協定,,2020-12-03
+11571398,ice-sheet modelling,冰被模擬,,2020-12-03
+11571399,Idrisi,Idrisi軟體,,2020-12-03
+11571400,iGeology,iGeology地質應用軟體,,2020-12-03
+11571401,IKONOS,IKONOS衛星,,2020-12-03
+11571402,image draping,影像披蓋,,2020-12-03
+11571403,image-processing software,影像處理軟體,,2020-12-03
+11571404,impedance,阻抗,,2020-12-03
+11571405,impedance value,阻抗值,,2020-12-03
+11571406,implementation problems,執行問題,,2020-12-03
+11571407,implementation strategies,執行策略,,2020-12-03
+11571408,impossible values,不可能值,,2020-12-03
+11571409,inaccuracy,不準確,,2020-12-03
+11571410,inconsistency,不一致,,2020-12-03
+11571411,incremental implementation system,逐步執行系統,,2020-12-03
+11571412,independent GIS applications,獨立地理資訊系統應用,,2020-12-03
+11571413,infiltration,入滲,,2020-12-03
+11571414,influence of cartographic generalization,地圖概括化影響,,2020-12-03
+11571415,information as power,資訊即力量,,2020-12-03
+11571416,information management strategy,資訊管理策略,,2020-12-03
+11571417,information system design,資訊系統設計,,2020-12-03
+11571418,information technology,資訊科技,,2020-12-03
+11571419,innovation,創新,,2020-12-03
+11571420,integrated databases,整合資料庫,,2020-12-03
+11571421,intension,意圖,,2020-12-03
+11571422,interaction probability,互動機率,,2020-12-03
+11571423,interception,截距,,2020-12-03
+11571424,interconnecting polygons,互連多邊形,,2020-12-03
+11571425,interfaces with GIS,地理資訊系統介面,,2020-12-03
+11571426,internal consistency,內部一致性,,2020-12-03
+11571427,internal operations,內部運作,,2020-12-03
+11571428,International Geographical Union {=IGU},國際地理聯合會,,2020-12-03
+11571429,International Journal of GIS,國際地理資訊科學期刊,,2020-12-03
+11571430,interval scale,等距尺度；間距尺度,,2020-12-03
+11571431,intra-model interaction,模型內部互動,,2020-12-03
+11571432,intuitive guesswork,直覺推測,,2020-12-03
+11571433,investigation,調查,,2020-12-03
+11571434,involving users,相關使用者,,2020-12-03
+11571435,island polygons,島多邊形,,2020-12-03
+11571436,isotropic models,等向模型,,2020-12-03
+11571437,issues with nuclear waste,核廢議題,,2020-12-03
+11571438,jack-knifing,摺刀法,,2020-12-03
+11571439,Jordan method,喬丹法,,2020-12-03
+11571440,just in time training,及時訓練,,2020-12-03
+11571441,kernel-density estimation,核密度推估,,2020-12-03
+11571442,keyboard encoding,鍵盤編碼,,2020-12-03
+11571443,keyboard entry,鍵盤輸入,,2020-12-03
+11571444,Keyhole Markup Language {=KML},鑰孔標記語言,,2020-12-03
+11571445,keys,圖例,,2020-12-03
+11571446,kickbacks,回衝,,2020-12-03
+11571447,Kinematic Routing algorithm,動態選路演算法,,2020-12-03
+11571448,kleinschalige basiskaart {=KBK},荷蘭地形圖,,2020-12-03
+11571449,knots,結,,2020-12-03
+11571450,Lambert Conformal Conic projection,蘭伯特正形圓錐投影,,2020-12-03
+11571451,land capability,土地可用度,,2020-12-03
+11571452,land inventory,土地清查,,2020-12-03
+11571453,land management,土地管理,,2020-12-03
+11571454,land use planning,土地使用規劃,,2020-12-03
+11571455,large corporate databases,大公司資料庫,,2020-12-03
+11571456,large critical mass,大臨界量,,2020-12-03
+11571457,lateral diffusion,側向擴散,,2020-12-03
+11571458,lateral dislocation,側向錯位,,2020-12-03
+11571459,lateral displacement,側向位移,,2020-12-03
+11571460,Layar,雷雅行動應用程式,,2020-12-03
+11571461,layer-based approach,圖層法,,2020-12-03
+11571462,lean of tall buildings,建物高差位移,,2020-12-03
+11571463,least cost route,最小成本路徑,,2020-12-03
+11571464,leave-one-out analysis,捨一分析,,2020-12-03
+11571465,lexical phase,詞階段,,2020-12-03
+11571466,lifelong learning,終身學習,,2020-12-03
+11571467,lifestyle data,生活型態資料,,2020-12-03
+11571468,Light Detection and Ranging {=LiDAR},光達,,2020-12-03
+11571469,light missions,輕量任務,,2020-12-03
+11571470,line of true scale,標準線,,2020-12-03
+11571471,line thickness,線寬,,2020-12-03
+11571473,line threading,穿線法,,2020-12-03
+11571474,lineage requirements,歷程要求,,2020-12-03
+11571475,lineage tracking functions,歷程追蹤功能,,2020-12-03
+11571476,line-in-polygon overlay,線在多邊形內套疊,,2020-12-03
+11571477,lines,線,,2020-12-03
+11571478,link impedance,連結阻抗,,2020-12-03
+11571479,linked display,連動展示,,2020-12-03
+11571480,liquid crystal displays {=LCDs},液晶顯示器,,2020-12-03
+11571481,lobbying power,遊說力,,2020-12-03
+11571482,local applications,局部應用,,2020-12-03
+11571483,local interpolation,局部內插,,2020-12-03
+11571484,local knowledge,在地知識,,2020-12-03
+11571485,location-based services {=LBS},適地性服務,,2020-12-03
+11571486,loss of information,資訊流失,,2020-12-03
+11571487,loss of small polygons,小多邊形流失,,2020-12-03
+11571488,machine error,機器誤差,,2020-12-03
+11571489,macro-scale systems,宏觀尺度系統,,2020-12-03
+11571490,magnetic media,磁性媒體,,2020-12-03
+11571491,magnitude of generalization,概括化程度,,2020-12-03
+11571492,mail targeting,郵寄定標,,2020-12-03
+11571493,maintaining spatial databases,維護空間資料庫,,2020-12-03
+11571494,majorative events,經常事件,,2020-12-03
+11571495,management of GIS projects,地理資訊專案管理,,2020-12-03
+11571496,managing air quality,空氣品質管理,,2020-12-03
+11571497,managing GIS error,地理資訊誤差管理,,2020-12-03
+11571498,Manhattan distance,曼哈頓距離,,2020-12-03
+11571499,manipulation errors,處理過程誤差,,2020-12-03
+11571500,manual digitizing introducing errors,人工數化誤差,,2020-12-03
+11571501,manual digitizing table,人工數化桌,,2020-12-03
+11571502,manual handling of spatial data,空間資料人工處理,,2020-12-03
+11571503,manual keyboard encoding,人工鍵盤編碼,,2020-12-03
+11571504,manual map measuring,人工地圖量測,,2020-12-03
+11571505,manual sieve mapping,人工篩圖,,2020-12-03
+11571506,manual surveying,人工測量,,2020-12-03
+11571507,map analysis package,地圖分析套件,,2020-12-03
+11571508,map graticule,地圖網格,,2020-12-03
+11571509,MAP software,MAP軟體,,2020-12-03
+11571510,mapematics,地圖運算,,2020-12-03
+11571511,MapInfo,MapInfo軟體,,2020-12-03
+11571512,Mapserver,Mapserver軟體,,2020-12-03
+11571513,market research,市場研究,,2020-12-03
+11571514,mashups,混搭,,2020-12-03
+11571515,mass digitization,大量數化,,2020-12-03
+11571516,MasterMap,英國基本圖,,2020-12-03
+11571517,mathematical models,數學模式,,2020-12-03
+11571518,mathematical operators,數學運算子,,2020-12-03
+11571519,maximum slope method,最大坡度法,,2020-12-03
+11571520,mechanical error,機械誤差,,2020-12-03
+11571521,mechanisms of delivery,配送機制,,2020-12-03
+11571522,media format,媒體格式,,2020-12-03
+11571523,Mediterranean ecosystem,地中海生態系統,,2020-12-03
+11571524,mental mapping,心智繪圖,,2020-12-03
+11571525,meso-scale systems,中尺度系統,,2020-12-03
+11571526,meteorological maps,氣象圖,,2020-12-03
+11571527,Meteosat,Meteosat衛星,,2020-12-03
+11571528,method of digitizing,數化方法,,2020-12-03
+11571529,method of interpolation,內插方法,,2020-12-03
+11571530,methods for information system design,資訊系統設計方法,,2020-12-03
+11571531,methods of attribute data checking,屬性資料檢核方法,,2020-12-03
+11571532,Millennium Eye,倫敦眼,,2020-12-03
+11571533,mining,探勘,,2020-12-03
+11571534,Minitab,Minitab軟體,,2020-12-03
+11571535,mirror world,鏡像世界,,2020-12-03
+11571536,misclassification,分類錯誤,,2020-12-03
+11571537,misinterpretation of imagery,影像誤判,,2020-12-03
+11571538,misplaced investment,錯置投資,,2020-12-03
+11571539,missing holes,漏洞,,2020-12-03
+11571540,missing lines,掉線,,2020-12-03
+11571541,mitigation of risk,風險調適,,2020-12-03
+11571542,mobile phone,行動電話,,2020-12-03
+11571543,mobility,移動性,,2020-12-03
+11571544,mock earthquake,模擬地震,,2020-12-03
+11571545,modifiable areal unit problem {=MAUP},可調整面單元問題,,2020-12-03
+11571546,moire vibration,網紋震動,,2020-12-03
+11571547,monitoring coastal change,海岸變遷偵測,,2020-12-03
+11571548,monochrome choropleth map,單色系面量圖,,2020-12-03
+11571549,Monte Carlo simulation,蒙地卡羅模擬,,2020-12-03
+11571550,multi-agency GIS projects,多機構GIS專案,,2020-12-03
+11571551,Multi-Agency Problem Solving {=MAPS},多機構問題解決,,2020-12-03
+11571552,multi-criteria evaluation {=MCE},多準則評估,,2020-12-03
+11571553,multi-department GIS application,多部門GIS應用,,2020-12-03
+11571554,multimedia presentations,多媒體展現,,2020-12-03
+11571555,multiple passing,多重作業,,2020-12-03
+11571556,multiple regression models,複迴歸模式,,2020-12-03
+11571557,multipolygons,複多邊形,,2020-12-03
+11571558,Multipurpose European Ground-Related Information Network {=MEGRIN},多目標歐洲地面資訊網絡,,2020-12-03
+11571559,multi-purpose GIS,多目標GIS,,2020-12-03
+11571560,multispectral imagery,多光譜影像,,2020-12-03
+11571561,multispectral scanner,多光譜掃描儀,,2020-12-03
+11571562,nano satellite,奈衛星,,2020-12-03
+11571563,National Aeronautics and Space Administration {=NASA},美國太空總署,,2020-12-03
+11571565,National Committee on Digital Cartographic Data Standards,美國國家數值地圖標準委員會,,2020-12-03
+11571566,National Curriculum,國家課程,,2020-12-03
+11571567,National Historical Geographic Information System,國家歷史地理資訊系統,,2020-12-03
+11571569,National Video Survey {=NVS},國家視訊調查,,2020-12-03
+11571570,natural analogue model,自然類比模型,,2020-12-03
+11571571,natural disasters,自然災害,,2020-12-03
+11571572,Nature Conservancy Council,自然保育委員會,,2020-12-03
+11571573,navigation beacon,導航信標,,2020-12-03
+11571574,Navigation Satellite Time and Ranging {=NAVSTAR},NAVSTAR導航衛星,,2020-12-03
+11571575,negative curvature,負曲率,,2020-12-03
+11571576,neighbourhood functions,鄰域分析功能,,2020-12-03
+11571577,neogeography,新地理,,2020-12-03
+11571578,nested polygons,巢狀多邊形,,2020-12-03
+11571579,nested relationships,巢狀關係,,2020-12-03
+11571580,network models,網路模式,,2020-12-03
+11571581,Network Rail,英國鐵路網,,2020-12-03
+11571582,neural networks,類神經網絡,,2020-12-03
+11571583,New Zealand Lands,紐西蘭土地局,,2020-12-03
+11571584,Newton's law of gravitation,牛頓重力定律,,2020-12-03
+11571585,NoData values,無資料值,,2020-12-03
+11571586,nodes,節點,,2020-12-03
+11571587,nominal scale,類別量表,,2020-12-03
+11571588,non-cartographic output,非圖輸出,,2020-12-03
+11571589,non-co-ordinate systems,非坐標系統；網格系統,,2020-12-03
+11571590,non-governmental organizations {=NGOs},非政府組織,,2020-12-03
+11571591,non-nested units,非巢化單元,,2020-12-03
+11571592,nonsensical overlays,無意義疊圖,,2020-12-03
+11571593,non-spatial attribute data,非空間屬性資料,,2020-12-03
+11571594,non-usability,不易使用性,,2020-12-03
+11571595,non-visibility,不可見度,,2020-12-03
+11571596,Nuclear Decommissioning Authority {=NDA},核能除役委員會,,2020-12-03
+11571597,Nuclear Installations Inspectorate {=NII},核設施監察局,,2020-12-03
+11571598,object-background clarity,物件－背景清晰度,,2020-12-03
+11571599,Object-oriented approach {=OO approach},物件導向方法,,2020-12-03
+11571601,oblique photographs,傾斜像片,,2020-12-03
+11571602,obscuring detail,受遮蔽細節,,2020-12-03
+11571603,occasional professionals,非正規專家,,2020-12-03
+11571605,off-the-shelf map,現成地圖,,2020-12-03
+11571606,omission,漏授,,2020-12-03
+11571607,one-off query,逐筆查詢,,2020-12-03
+11571608,online spatial data,線上空間資料,,2020-12-03
+11571609,on-the-fly forecasting,即時預測,,2020-12-03
+11571610,open polygon,未閉合多邊形,,2020-12-03
+11571611,Open Source movement,開放原始碼運動,,2020-12-03
+11571612,OpenStreetMap {=OSM},開放街圖,,2020-12-03
+11571613,operational applications,作業應用,,2020-12-03
+11571614,operational errors,作業錯誤,,2020-12-03
+11571615,opportunistic applications,伺機應用,,2020-12-03
+11571616,optical character recognition {=OCR},光學字元辨識,,2020-12-03
+11571617,optimization,優化,,2020-12-03
+11571618,Oracle,甲骨文,,2020-12-03
+11571619,Oracle Database,甲骨文資料庫,,2020-12-03
+11571620,ordinal scale,級序量表,,2020-12-03
+11571621,Ordnance Survey {=OS},英國測量繪圖局,,2020-12-03
+11571622,Origin-Destination Statistics,起迄點統計,,2020-12-03
+11571623,OS Landline data,英國測繪局線資料,,2020-12-03
+11571624,out-of-the-box solution,立即可用方案,,2020-12-03
+11571625,out-of-town retailing,市郊零售,,2020-12-03
+11571626,output areas {=OAs},輸出區域,,2020-12-03
+11571627,overshooting,超搭,,2020-12-03
+11571628,oversight,疏忽,,2020-12-03
+11571629,panchromatic imagery,全色影像,,2020-12-03
+11571630,paper map,紙圖,,2020-12-03
+11571631,parallax displacement,視差位移,,2020-12-03
+11571632,parallel conversion,併行轉換,,2020-12-03
+11571633,parsing phase,剖析階段,,2020-12-03
+11571634,participative methods,參與方法,,2020-12-03
+11571635,participatory problem solving,參與式問題解決,,2020-12-03
+11571636,passive sensors,被動感測器,,2020-12-03
+11571637,patchy data,塊狀資料,,2020-12-03
+11571638,pattern-matching algorithms,圖形匹配演算法,,2020-12-03
+11571639,peat extraction,泥炭地萃取,,2020-12-03
+11571640,perceived variables,識覺變數,,2020-12-03
+11571641,perceptual studies,識覺研究,,2020-12-03
+11571642,perimeters,周長,,2020-12-03
+11571643,permeable barriers,可穿透屏障,,2020-12-03
+11571644,personal data assistant {=PDA},個人資料助理器,,2020-12-03
+11571645,phased conversion,階段式轉換,,2020-12-03
+11571646,photomontage,合成照片,,2020-12-03
+11571647,physical data model creation,實體資料模式建立,,2020-12-03
+11571648,physiological error,生理誤差,,2020-12-03
+11571649,piece-wise quadratic distribution,片段式二次分配,,2020-12-03
+11571650,pilot systems,先導系統,,2020-12-03
+11571651,pioneering applications,開拓應用,,2020-12-03
+11571652,plan curvature,平面曲率,,2020-12-03
+11571653,planned missions,計畫任務,,2020-12-03
+11571654,planning land use,土地利用規劃,,2020-12-03
+11571655,planning schemes,規劃圖,,2020-12-03
+11571656,platykurtic distribution,低峰態分布,,2020-12-03
+11571657,play back,回放,,2020-12-03
+11571658,point and click menus,點選式選單,,2020-12-03
+11571659,point cloud,點雲,,2020-12-03
+11571660,point dictionary,點資料典,,2020-12-03
+11571661,point-in-polygon analysis,點在多邊形分析,,2020-12-03
+11571662,polarity,極性,,2020-12-03
+11571663,police speed traps,測速照相,,2020-12-03
+11571664,political pragmatism,政治實用主義,,2020-12-03
+11571665,pollution,汙染,,2020-12-03
+11571666,polygonal knots,多邊形結,,2020-12-03
+11571667,polygon-on-polygon overlay,多邊形套疊,,2020-12-03
+11571668,population census,人口普查,,2020-12-03
+11571669,Portable Revision Integrated Survey Module {=PRISM},可攜式修測整合系統,,2020-12-03
+11571670,portraying reality,描繪實境,,2020-12-03
+11571671,positional information,位址資訊,,2020-12-03
+11571672,Postal Address File,門牌資料檔,,2020-12-03
+11571673,postal geographies,郵務地理,,2020-12-03
+11571674,predictive statistics,預測統計,,2020-12-03
+11571675,prejudice,偏見,,2020-12-03
+11571676,prescriptive statistics,指導性統計,,2020-12-03
+11571677,primary data sources,主要資料來源,,2020-12-03
+11571678,privacy,隱私,,2020-12-03
+11571679,probabilistic trade area surface,交易區機率曲面,,2020-12-03
+11571680,probability distribution,機率分布,,2020-12-03
+11571681,problem indentification,問題界定,,2020-12-03
+11571682,process models,處理模型,,2020-12-03
+11571683,project design,專案設計,,2020-12-03
+11571684,project evaluation,專案評估,,2020-12-03
+11571685,project log,專案記錄,,2020-12-03
+11571687,propaganda maps,宣傳地圖,,2020-12-03
+11571688,proprietary systems,專屬系統,,2020-12-03
+11571689,prototyping approach,雛型法,,2020-12-03
+11571690,psychological error,心理誤差,,2020-12-03
+11571691,Public Health Service,美國公共衛生局,,2020-12-03
+11571692,Public Land Survey System {=PLSS},美國公眾土地測量系統,,2020-12-03
+11571693,public participation geographical information system {=PPGIS},公眾參與地理資訊系統,,2020-12-03
+11571694,Pythagorean geometry,畢氏定理,,2020-12-03
+11571695,quadratic surface method,二次曲面法,,2020-12-03
+11571697,quantitative interaction,量化互動,,2020-12-03
+11571698,quantitative revolution,計量革命,,2020-12-03
+11571699,Quaternary Triangular Mesh,四元三角網,,2020-12-03
+11571700,queries,查詢,,2020-12-03
+11571701,QuickBird,捷鳥,,2020-12-03
+11571702,Radio Frequency Identification {=RFID},無線射頻辨識,,2020-12-03
+11571703,Radio Frequency Identification chips,無線射頻識別晶片,,2020-12-03
+11571704,radioactive waste,放射性廢料,,2020-12-03
+11571705,railway mapping,軌道繪圖,,2020-12-03
+11571706,random data,隨機資料,,2020-12-03
+11571707,random noise,隨機雜訊,,2020-12-03
+11571708,ranking and sorting,排序與分類,,2020-12-03
+11571709,Rapid Application Development,快速應用開發,,2020-12-03
+11571710,raster data compaction techniques,網格資料壓縮技術,,2020-12-03
+11571712,raster map overlay,網格資料套疊,,2020-12-03
+11571713,raster model,網格模式,,2020-12-03
+11571714,raster scanning,網格掃描,,2020-12-03
+11571715,raster spatial data,網格空間資料,,2020-12-03
+11571716,raster to vector conversion,網格向量轉換,,2020-12-03
+11571717,rasterization errors,網格化誤差,,2020-12-03
+11571718,ratio scale,比率尺度,,2020-12-03
+11571719,reality modelling,實境模擬,,2020-12-03
+11571720,real-time database,即時資料庫,,2020-12-03
+11571721,real-time monitoring,即時監測,,2020-12-03
+11571722,real-world detail,真實世界細節,,2020-12-03
+11571723,real-world representation,真實世界表現,,2020-12-03
+11571724,rectangular coordinates,直角坐標,,2020-12-03
+11571725,redeployment,重新布署,,2020-12-03
+11571726,redigitalization,再數化,,2020-12-03
+11571727,reductionist approach,化約法,,2020-12-03
+11571728,referencing system,參考系統,,2020-12-03
+11571729,reflectance value,反射值,,2020-12-03
+11571730,reformatting,重新格式化,,2020-12-03
+11571731,Regional Graphic Information System {=REGIS},區域圖形資訊系統,,2020-12-03
+11571732,regional research laboratory,地區研究實驗室,,2020-12-03
+11571733,regression analysis,迴歸分析,,2020-12-03
+11571734,relational database model,關聯性資料庫模式,,2020-12-03
+11571735,relative drop,相對落差,,2020-12-03
+11571736,relief shadow,高差陰影,,2020-12-03
+11571737,remote interactive graphics,遠端互動圖形,,2020-12-03
+11571738,remoteness modelling,偏遠性模擬,,2020-12-03
+11571739,repeat coverage,重複覆蓋,,2020-12-03
+11571740,replicas of reality,實境複製品,,2020-12-03
+11571741,representation,表現,,2020-12-03
+11571742,reprojection,再投影,,2020-12-03
+11571744,re-scaling,重定比例,,2020-12-03
+11571745,residuals,殘差,,2020-12-03
+11571746,resistance,阻力,,2020-12-03
+11571747,resort monitoring,渡假村監測,,2020-12-03
+11571748,retail decision support,零售決策支援,,2020-12-03
+11571749,retail geovisualization,零售地理視覺化,,2020-12-03
+11571750,retail sales forecasting,零售預測,,2020-12-03
+11571751,retraining,再訓練,,2020-12-03
+11571752,Rho8,八向法,,2020-12-03
+11571753,risk management,風險管理,,2020-12-03
+11571754,risk register,風險登錄,,2020-12-03
+11571755,robust error modelling,穩健誤差模擬,,2020-12-03
+11571756,robust forecasting,穩健預測,,2020-12-03
+11571757,rotation,旋轉,,2020-12-03
+11571758,routed line cartogram,路線示意圖,,2020-12-03
+11571759,routine applications,例行應用,,2020-12-03
+11571760,Royal Mail,英國皇家郵政,,2020-12-03
+11571761,Royal Observatory Greenwich,皇家格林威治天文臺,,2020-12-03
+11571763,run length encoding,運行長度編碼,,2020-12-03
+11571764,runoff models,逕流模擬,,2020-12-03
+11571765,sales forecasting,銷售預測,,2020-12-03
+11571766,sample data,樣本資料,,2020-12-03
+11571767,sampling difficulties,抽樣困難,,2020-12-03
+11571769,scale analogue models,尺度類比模型,,2020-12-03
+11571770,scale of measurement,量測尺度,,2020-12-03
+11571771,scale-related generalization,比例尺相關概括化,,2020-12-03
+11571772,scaling,定比例,,2020-12-03
+11571773,scattergram,散布圖,,2020-12-03
+11571775,search engine,搜尋引擎,,2020-12-03
+11571776,searching for sites,選址,,2020-12-03
+11571777,secondary data sources,二手資料來源,,2020-12-03
+11571778,second-order polynomial trend surfaces,二次多項式趨勢面,,2020-12-03
+11571780,selecting threshold criteria,選擇閾值,,2020-12-03
+11571781,selective availability {=SA},選擇性效應,,2020-12-03
+11571782,sensitivity of map,地圖敏感度,,2020-12-03
+11571783,shading patterns,填圖圖樣,,2020-12-03
+11571784,shadow,陰影,,2020-12-03
+11571785,shrinkage,收縮,,2020-12-03
+11571786,Shuttle Radar Topography Mission {=SRTM},太空梭雷達製圖任務,,2020-12-03
+11571787,sieve mapping,選址繪圖,,2020-12-03
+11571788,significant point identification,顯著點辨識,,2020-12-03
+11571789,significant threshold,顯著閾值,,2020-12-03
+11571790,single-order polynomial trend surfaces,一次多項式趨勢面,,2020-12-03
+11571791,sink hole,陷穴,,2020-12-03
+11571792,skeleton method,簡要法,,2020-12-03
+11571793,skewed distribution,偏態分布,,2020-12-03
+11571794,slides show,幻燈片顯示,,2020-12-03
+11571796,slivers,狹縫,,2020-12-03
+11571797,small area statistical geographies,小區域統計地理,,2020-12-03
+11571798,small scale topography,小比例尺地形,,2020-12-03
+11571799,smart phone,智慧型手機,,2020-12-03
+11571800,snags,障礙,,2020-12-03
+11571801,snapping rules,接合法則,,2020-12-03
+11571802,socio-economic variables,社經變數,,2020-12-03
+11571803,soft systems analysis,軟系統分析,,2020-12-03
+11571804,soil erosion,土壤侵蝕,,2020-12-03
+11571805,source map error,原圖誤差,,2020-12-03
+11571806,space-time cube,時空立方體,,2020-12-03
+11571807,spaghetti topology,無位相,,2020-12-03
+11571808,spatial average method,空間平均法,,2020-12-03
+11571810,spatial decision support,空間決策支援,,2020-12-03
+11571811,spatial entity,空間實體,,2020-12-03
+11571812,spatial intelligence,空間智慧,,2020-12-03
+11571813,spatial interaction,空間互動,,2020-12-03
+11571814,spatial interpolation,空間內插,,2020-12-03
+11571815,spatial moving average,空間移動平均,,2020-12-03
+11571816,spatial multimedia,空間多媒體,,2020-12-03
+11571817,spatial process modelling,空間處理模擬,,2020-12-03
+11571819,spatial referencing,空間參考,,2020-12-03
+11571820,spatial statistics,空間統計,,2020-12-03
+11571821,spatially referenced data,空間參考資料,,2020-12-03
+11571822,spatio-temporal knowledge representation,時空知識表現,,2020-12-03
+11571823,speech bubble,對話框,,2020-12-03
+11571825,spline,雲規；曲規,,2021-11-29
+11571826,SPLUS,SPLUS統計軟體,,2020-12-03
+11571827,sporadic events,偶發事件,,2020-12-03
+11571828,SPOT,史波特衛星,,2020-12-03
+11571829,spot heights,點高程,,2020-12-03
+11571830,spraycan interface,塗鴉區交界,,2020-12-03
+11571831,spread,擴散,,2020-12-03
+11571832,SPSS,SPSS統計軟體,,2020-12-03
+11571833,stamp operation,衝壓操作,,2020-12-03
+11571834,standard international colour scheme,國際標準色彩配置,,2020-12-03
+11571835,states,狀態,,2020-12-03
+11571836,Statistics Analysis System {=SAS},SAS統計軟體,,2020-12-03
+11571837,steady-state models,穩態模式,,2020-12-03
+11571838,stepped apperarance,階梯狀,,2020-12-03
+11571839,stereoscopic aerial photography,立體航空攝影,,2020-12-03
+11571840,stochastic models,隨機模式,,2020-12-03
+11571841,stock market crash,股市崩盤,,2020-12-03
+11571842,stop impedance,停止點阻抗,,2020-12-03
+11571843,stragegic applications,策略應用,,2020-12-03
+11571844,strain,形變,,2020-12-03
+11571845,stratification,分層,,2020-12-03
+11571846,stratified data,分層資料,,2020-12-03
+11571847,stream networks,水系(網絡),,2020-12-03
+11571848,striping,分帶,,2020-12-03
+11571849,structured problems,結構化問題,,2020-12-03
+11571850,structured systems methods,結構化系統方法,,2020-12-03
+11571851,subcatchments,子集水區,,2020-12-03
+11571852,subjectivity,主觀性,,2020-12-03
+11571853,supply and demand,供需,,2020-12-03
+11571854,surface interpolation,表面內插,,2020-12-03
+11571855,surface significant points,表面特徵點,,2020-12-03
+11571856,sustainable interoperability,永續互操作性,,2020-12-03
+11571857,switchbacks,折返,,2020-12-03
+11571858,SYMAP,SYMAP繪圖軟體,,2020-12-03
+11571859,symbolism,符號體系,,2020-12-03
+11571860,SYMVU,SYMVU繪圖軟體,,2020-12-03
+11571861,synthesis,合成,,2020-12-03
+11571862,synthesis of data,資料合成,,2020-12-03
+11571863,Synthetic Aperture Radar {=SAR},合成孔徑雷達,,2020-12-03
+11571864,system development life cycle approach {=SDLA},系統開發生命週期方法,,2020-12-03
+11571865,system investigation,系統調查,,2020-12-03
+11571866,systems approach,系統方法,,2020-12-03
+11571867,tablet PCs,平板電腦,,2020-12-03
+11571868,tactical applications,戰術應用,,2020-12-03
+11571869,target marketing,目標行銷,,2020-12-03
+11571870,technological overload,科技超載,,2020-12-03
+11571871,temporal data,時序資料,,2020-12-03
+11571872,temporal slices,時序斷片,,2020-12-03
+11571873,terminology recap,術語摘總,,2020-12-03
+11571874,terrain data,地形資料,,2020-12-03
+11571875,terrestrial laser scanning {=TLS},地面雷射掃描,,2020-12-03
+11571876,terrestrial remote sensing,地面遙測,,2020-12-03
+11571877,terrorism,恐怖主義,,2020-12-03
+11571878,tesselations,格網化,,2020-12-03
+11571879,tesseral model,格網模型,,2020-12-03
+11571880,texture effects,紋理效應,,2020-12-03
+11571881,thematic layers,主題圖層,,2020-12-03
+11571882,thin polygons,細多邊形,,2020-12-03
+11571883,third dimension modelling,第三維模擬,,2020-12-03
+11571884,third-order polynomial trend surfaces,三階多項式趨勢面,,2020-12-03
+11571885,threshold criteria,門檻條件,,2020-12-03
+11571886,time,時間,,2020-12-03
+11571887,time series data,時間序列資料,,2020-12-03
+11571888,TIN model,不規則三角網模型,,2020-12-03
+11571889,Tobler's first law of geography,托布勒地理學第一定律,,2020-12-03
+11571891,Topographic Identifier,地形識別碼,,2020-12-03
+11571892,Topographic Index,地形指數,,2020-12-03
+11571893,topographic maps,地形圖,,2020-12-03
+11571894,topological errors,位相誤差,,2020-12-03
+11571895,topology snapping rules,位相接合規則,,2020-12-03
+11571896,tourism,旅遊,,2020-12-03
+11571897,traffic lights,交通號誌,,2020-12-03
+11571898,trafficability,可通性,,2020-12-03
+11571899,transition,轉換,,2020-12-03
+11571900,travelling salesperson problem,銷售員問題,,2020-12-03
+11571901,trend surfaces,趨勢面,,2020-12-03
+11571902,trial and error,試誤,,2020-12-03
+11571903,triangulated irregular network {=TIN},不規則三角網,,2020-12-03
+11571904,triggers,觸發器,,2020-12-03
+11571905,trigonometry,三角學,,2020-12-03
+11571906,true geographic coordinates,真北地理坐標,,2020-12-03
+11571907,Twitter,推特,,2020-12-03
+11571908,two dimensional coordinates,二維坐標,,2020-12-03
+11571909,two-and-a-half dimensional nature,二點五維性質,,2020-12-03
+11571910,unambiguous instruction,非模糊指令,,2020-12-03
+11571911,UNDAC (United Nations Disaster Assessment Team),聯合國災害評估團隊,,2020-12-03
+11571912,undershooting,未搭,,2020-12-03
+11571913,UNICEF,聯合國兒童基金會,,2020-12-03
+11571914,union,聯集,,2020-12-03
+11571915,unique events,單一事件,,2020-12-03
+11571916,United Nations,聯合國,,2020-12-03
+11571917,Universal Parcel Service {=UPS},優比速快遞,,2020-12-03
+11571918,Universal Transverse Mercator projection,世界橫麥卡托投影,,2020-12-03
+11571919,unregulated farming,不受管制的農業,,2020-12-03
+11571920,unstructured problems,非結構化問題,,2020-12-03
+11571921,urban growth analysis,都市成長分析,,2020-12-03
+11571922,urban morphology,都市形態學,,2020-12-03
+11571923,usability,可用性,,2020-12-03
+11571924,user intervention,使用者介入,,2020-12-03
+11571925,user-centred GIS implementation,使用者中心地理資訊系統實作,,2020-12-03
+11571926,user-friendly GUI,使用者友善圖形人機介面,,2020-12-03
+11571927,user-needs survey,使用者需求調查,,2020-12-03
+11571928,users of GIS,地理資訊系統使用者,,2020-12-03
+11571929,value-added services,加值服務,,2020-12-03
+11571930,variations in grid origin,方格坐標原點變動,,2020-12-03
+11571931,vector data stuctures,向量資料結構,,2020-12-03
+11571932,vector map overlay,向量地圖套疊,,2020-12-03
+11571933,vector models,向量模型,,2020-12-03
+11571934,vector polygons,向量多邊形,,2020-12-03
+11571935,vector spatial data,向量式空間資料,,2020-12-03
+11571936,Venn diagram,范氏圖,,2020-12-03
+11571937,verbal scale,敘述比例尺,,2020-12-03
+11571938,vernacular geographies,鄉土地理,,2020-12-03
+11571939,vertical photographs,垂直像片,,2020-12-03
+11571940,very important point method {=VIP method},非常重要點選法,,2020-12-03
+11571941,view distance,視距；觀察距離,,2020-12-03
+11571942,Virtual Field Course,虛擬野外課程,,2020-12-03
+11571943,virtual London,虛擬倫敦,,2020-12-03
+11571944,virtual reality GIS,虛擬實境地理資訊系統,,2020-12-03
+11571945,virtual reality modelling language {=VRML},虛擬實境模塑語言,,2020-12-03
+11571946,virtual values,虛擬值,,2020-12-03
+11571947,virtual views,虛擬視景,,2020-12-03
+11571948,visual complexity,視覺複雜度,,2020-12-03
+11571949,volunteered geographic information {=VGI},自發性地理資訊,,2020-12-03
+11571950,Voronoi polygons,沃羅諾伊多邊形,,2020-12-03
+11571951,voxles,體元,,2020-12-03
+11571952,waterfall approach,瀑布法,,2020-12-03
+11571954,Web Map Server {=WMS},網路地圖伺服器,,2020-12-03
+11571955,web maps,網路地圖,,2020-12-03
+11571956,Weberian location analysis,韋伯區位分析,,2020-12-03
+11571957,Weighted linear summation,加權線性總和,,2020-12-03
+11571958,weird polygons,怪多邊形,,2020-12-03
+11571959,Wide Area Augmentation System {=WAAS },廣域擴增系統,,2020-12-03
+11571960,Wikipedia,維基百科,,2020-12-03
+11571961,wind farm visibility,風場可視性,,2020-12-03
+11571962,wire-frame diagrams,線框圖,,2020-12-03
+11571963,wire-frame digrams,網狀圖,,2020-12-03
+11571964,wizards,精靈,,2020-12-03
+11571965,World Wind,世界風,,2020-12-03
+11571966,X3D,X3D檔案格式,,2020-12-03
+11571967,ZDES (Zone DESign),ZDES軟體,,2020-12-03
+11571968,ZIP codes,郵遞區號,,2020-12-03
+11571969,zonal means,區塊平均,,2020-12-03
+11571970,zooming,縮放,,2020-12-03

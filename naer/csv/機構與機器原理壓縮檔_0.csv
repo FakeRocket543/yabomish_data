@@ -1,0 +1,2006 @@
+ID,英文名稱,中文名稱,圖片,更新日期
+721473,reduced stress,等效應力,,2012-11-26
+721474,reduced moment,等效矩,,2012-11-26
+721475,reduced mass of a mechanism,機構之等效質量,,2012-11-26
+721476,reduced force,等效力,,2012-11-26
+721477,rectilinear translation,直線平移,,2012-11-26
+721478,rectilinear motion,直線運動,,2012-11-26
+721479,reciprocating motion,往復運動,,2012-11-26
+721480,reciprocating cam follower,往復從動件,,2012-11-26
+721481,receptance,位移響應（振動）,,2012-11-26
+721482,receding side,退出側（皮帶輪）,,2012-11-26
+721483,real part of dual quantity,雙量之實部,,2012-11-26
+721484,reaction,反作用，反作用力,,2012-11-26
+721485,Rayleigh dissipation function,Rayleigh散逸函數,,2012-11-26
+721486,ratio,比，比率,,2012-11-26
+721487,ratchet wheel,棘輪,,2012-11-26
+721488,ratchet mechanism,棘輪機構,,2012-11-26
+721489,ratchet,棘輪,,2012-11-26
+721490,Rapson slide,Rapson滑行裝置,,2012-11-26
+721492,random vibration,隨機振動,,2012-11-26
+721493,random process,隨機程序,,2012-11-26
+721494,random,隨機的,,2012-11-26
+721495,ram,撞鎚,,2012-11-26
+721496,radius of the throat,喉半徑（蝸輪）,,2012-11-26
+721497,radius of gyration,迴轉半徑,,2012-11-26
+721498,radius of curvature,曲率半徑,,2012-11-26
+721499,radius,半徑,,2012-11-26
+721500,radian,弳，弳度,,2012-11-26
+721501,radial component,徑〔向〕分量,,2012-11-26
+721502,radial cam follower,徑向從動件,,2012-11-26
+721503,rack,齒條,,2012-11-26
+721504,r.m.s. value,均方根值,,2012-11-26
+721505,quinary link,五接頭桿,,2012-11-26
+721506,quick-return mechanism,急回機構,,2012-11-26
+721507,quaternion,四數,,2012-11-26
+721508,quaternary link,四接頭桿,,2012-11-26
+721509,quartic of derivative curvature,導數曲率四次曲線,,2012-11-26
+721510,quantity,量,,2012-11-26
+721511,quality factor,品質因子，品質因數（振動）,,2012-11-26
+721513,quadratic transformation,二次變換,,2012-11-26
+721514,Q-factor,品質因子，品質因數（振動）,,2012-11-26
+721515,pulsating load,脈動負載,,2012-11-26
+721516,pulley,1.皮帶輪；2.滑輪,,2012-11-26
+721517,proximity sense,近接感度（機器人）,,2012-11-26
+721518,proximal,近軀端（機器人）,,2012-11-26
+721519,prosthetic device,義肢,,2012-11-26
+721520,proportional mechanism,比例機構,,2012-11-26
+721521,proportional control,比例控制,,2012-11-26
+721522,proper vector,固有振動模態,,2012-11-26
+721523,pronation,內下運動（機器人）,,2012-11-26
+721524,prolate trochoid,長次擺線,,2012-11-26
+721525,programming,1.程式設計；2.規劃,,2012-11-26
+721526,programmable manipulator,可程式機械臂,,2012-11-26
+721528,profile,輪廓，外形,,2012-11-26
+721529,product of inertia,慣性積,,2012-11-26
+721530,process,程序,,2012-11-26
+721531,prismatic pair,稜柱〔運動〕對,,2012-11-26
+721532,principle of virtual work,虛功原理,,2012-11-26
+721533,principle of motion of centre/center of mass,質心運動原理,,2012-11-26
+721534,principle of motion of centre of mass,質心運動原理,,2012-11-26
+721535,principle of momentum,動量原理,,2012-11-26
+721536,principle of moment of momentum,角動量原理,,2012-11-26
+721537,principle of energy,能量原理,,2012-11-26
+721538,principle of conservation of momentum,動量守恆原理,,2012-11-26
+721539,principle of conservation of moment of momentum,角動量守恆原理,,2012-11-26
+721540,principle of conservation of energy,能量守恆原理,,2012-11-26
+721541,principle,原理,,2012-11-26
+721542,principal moment of inertia,主慣性矩,,2012-11-26
+721543,principal axis of inertia,慣性主軸線,,2012-11-26
+721544,principal,主要的,,2012-11-26
+721545,prime mover,原動機,,2012-11-26
+721546,prime circle,主圓（凸輪）,,2012-11-26
+721547,primary feedback,主回饋,,2012-11-26
+721548,primary axes,位置軸線（機器人），主軸線,,2012-11-26
+721549,primary,主要的,,2012-11-26
+721550,pressure angle,壓力角,,2012-11-26
+721551,precision point,精確點,,2012-11-26
+721552,precision,精確度,,2012-11-26
+721553,precession,進動，擾轉,,2012-11-26
+721554,power transmission chain,傳力鏈,,2012-11-26
+721555,power screw,動力螺桿,,2012-11-26
+721556,power of a force,力之功率,,2012-11-26
+721557,power,1.功率；2.動力的,,2012-11-26
+721558,potential energy of particle,質點之位能,,2012-11-26
+721559,potential energy of a system,系統之位能,,2012-11-26
+721560,potential energy of a particle,質點之位能,,2012-11-26
+721561,potential,位，勢,,2012-11-26
+721562,positive motion cam,確動凸輪,,2012-11-26
+721563,positive drive cam,確動凸輪,,2012-11-26
+721564,positional axes,位置軸線（機器人）,,2012-11-26
+721565,positional accuracy,位置準確度,,2012-11-26
+721566,position vector,位置向量,,2012-11-26
+721567,position angle,位置角,,2012-11-26
+721568,position analysis,位置分析,,2012-11-26
+721569,position,位置,,2012-11-26
+721570,pose-to-pose control,逐位控制,,2012-11-26
+721571,pose,姿勢,,2012-11-26
+721572,polynomial curve,多項式曲線,,2012-11-26
+721573,polygon,多邊形,,2012-11-26
+721574,polode tangent,極心線切線，瞬心線切線,,2012-11-26
+721575,polode method,極心線法，瞬心線法,,2012-11-26
+721576,polode,極心線，瞬心線,,2012-11-26
+721577,pole-tangent,極心切線,,2012-11-26
+721578,pole-normal,極心法線,,2012-11-26
+721579,pole velocity,極心〔改換〕速度,,2012-11-26
+721580,pole triangle,極心三角形,,2012-11-26
+721581,pole of a great circle,大圓之極心,,2012-11-26
+721582,pole changing velocity,極心改換速度,,2012-11-26
+721583,pole,極心,,2012-11-26
+721584,polar moment of inertia of body,物體之極慣性矩,,2012-11-26
+721585,polar moment of inertia of a lamina,一平面區域之極慣性矩,,2012-11-26
+721586,polar moment of inertia of a body,物體之極慣性矩,,2012-11-26
+721587,polar line,極線,,2012-11-26
+721588,point-to-point control,逐點控制,,2012-11-26
+721589,point-to point control,逐點控制,,2012-11-26
+721590,point-position reduction method,點位置縮減法,,2012-11-26
+721591,pointed tooth,尖端齒,,2012-11-26
+721592,pointed cam follower,尖頭從動件,,2012-11-26
+721593,point mass,質點,,2012-11-26
+721594,point contact,點接觸,,2012-11-26
+721595,point,點,,2012-11-26
+721596,Poinsot ellipsoid of inertia,慣性橢球面,,2012-11-26
+721597,Poinsot ellipsoid,慣性橢球面,,2012-11-26
+721598,playback robot,重現型機器人,,2012-11-26
+721599,playback accuracy,重現準確度,,2012-11-26
+721600,playback,重現,,2012-11-26
+721601,plate cam,平板凸輪,,2012-11-26
+721602,plate,板,,2012-11-26
+721603,plasticity,1.塑性；2.塑性力學,,2012-11-26
+721604,plastic strain,塑性應變,,2012-11-26
+721605,plastic deformation,塑性變形,,2012-11-26
+721606,plastic,塑性的,,2012-11-26
+721607,planetary gear train,行星齒輪系,,2012-11-26
+721608,planetary gear,行星齒輪,,2012-11-26
+721609,planetary bevel gear train,行星傘齒輪系,,2012-11-26
+721610,planetary,行星的,,2012-11-26
+721611,planet gear,行星齒輪,,2012-11-26
+721613,plane of rotation,旋轉平面,,2012-11-26
+721614,plane of motion,運動平面,,2012-11-26
+721615,plane motion,平面運動,,2012-11-26
+721616,plane mechanism,平面機構,,2012-11-26
+721617,plane indicatrix,平面指標機構,,2012-11-26
+721618,plane algebraic curve,平面代數曲線,,2012-11-26
+721619,plane,平面,,2012-11-26
+721620,planar system,平面系統,,2012-11-26
+721621,planar pair,平面〔運動〕對,,2012-11-26
+721622,planar motion,平面運動,,2012-11-26
+721623,planar mechanism,平面機構,,2012-11-26
+721624,planar linkage,平面連桿組,,2012-11-26
+721625,planar contact pair,平面〔運動〕對,,2012-11-26
+721626,planar cam,平面凸輪,,2012-11-26
+721627,planar,平面的,,2012-11-26
+721628,pivot-point curve,瞬時圓心點曲線,,2012-11-26
+721629,pivoting friction,樞轉摩擦,,2012-11-26
+721630,pivot,樞軸,,2012-11-26
+721631,pitch surface,節曲面,,2012-11-26
+721632,pitch spiral,節蝸線,,2012-11-26
+721633,pitch radius,節半徑,,2012-11-26
+721634,pitch profile,節輪廓,,2012-11-26
+721635,pitch point,節點,,2012-11-26
+721636,pitch plane,節平面,,2012-11-26
+721637,pitch of screw,螺距,,2012-11-26
+721638,pitch line,節線,,2012-11-26
+721639,pitch helix,節螺旋線,,2012-11-26
+721640,pitch diameter,節徑,,2012-11-26
+721641,pitch cylinder,節圓柱面,,2012-11-26
+721642,pitch curve,節曲線,,2012-11-26
+721643,pitch cone radius,節圓錐半徑,,2012-11-26
+721644,pitch cone angle,節圓錐角,,2012-11-26
+721645,pitch cone,節圓錐,,2012-11-26
+721646,pitch circle,節圓,,2012-11-26
+721647,pitch angle,周節角，俯仰角,,2012-11-26
+721648,pitch,節，節距，螺距，俯仰,,2012-11-26
+721649,pintle chain,銷鏈,,2012-11-26
+721650,pinion,小齒輪，齒輇,,2012-11-26
+721651,pinch zone,危險區,,2012-11-26
+721652,pin joint,銷子接頭,,2012-11-26
+721653,pin gearing,銷子輪傳動,,2012-11-26
+721654,pin gear,銷子輪,,2012-11-26
+721655,pin,銷子,,2012-11-26
+721656,pilgrim-step motion,朝聖者步伐運動,,2012-11-26
+721657,pilgrim-step mechanism,朝聖者步伐機構,,2012-11-26
+721658,pilgrim-step,朝聖者步伐,,2012-11-26
+721659,pick-and-place robot,取放型機器人,,2012-11-26
+721660,pick-and place robot,取放型機器人,,2012-11-26
+721661,phase margin,相位邊限,,2012-11-26
+721662,phase crossover,相位交越點,,2012-11-26
+721663,phase angle,相位角,,2012-11-26
+721664,phase,相,,2012-11-26
+721665,perturbation,微擾，擾動,,2012-11-26
+721666,perpendicular bisector,中垂線,,2012-11-26
+721667,permanent set,永久應變,,2012-11-26
+721668,permanent load,固定負載,,2012-11-26
+721669,periodic motion,週期運動,,2012-11-26
+721670,period of motion,運動週期,,2012-11-26
+721671,period of a motion,運動週期,,2012-11-26
+721672,period,週期,,2012-11-26
+721673,percussion， centre/center of pendulum,撞心，撞擊中心,,2012-11-26
+721674,pendulum,擺,,2012-11-26
+721675,pedipulator,機械腿,,2012-11-26
+721676,peak-to-peak value,峰間值,,2012-11-26
+721677,peak-to peak value,峰間值,,2012-11-26
+721678,peak value,峰值,,2012-11-26
+721679,pawl,爪，棘爪,,2012-11-26
+721680,path-generating mechanism,路徑演生機構,,2012-11-26
+721681,path of contact,接觸路徑（齒輪）,,2012-11-26
+721682,path generator,路徑演生機構,,2012-11-26
+721683,path generation,路徑之演生,,2012-11-26
+721684,path generating mechanism,路徑演生機構,,2012-11-26
+721685,path,路徑,,2012-11-26
+721686,passive system,被動系統,,2012-11-26
+721687,passive device,被動裝置,,2012-11-26
+721688,passive degree of freedom,無效自由度,,2012-11-26
+721689,passive accommodation,被動補償,,2012-11-26
+721690,passive,被動的,,2012-11-26
+721691,particle,質點,,2012-11-26
+721692,parallelogram law,平行四邊形定律,,2012-11-26
+721693,parallel-crank mechanism,平行曲柄機構,,2012-11-26
+721694,parallel motion mechanism,平行運動機構,,2012-11-26
+721695,parallel force system,平行力系,,2012-11-26
+721696,parallel equal crank linkage,平行等曲柄四連桿組,,2012-11-26
+721697,parallel axes theorem,平行軸線定理,,2012-11-26
+721698,pantograph,縮放儀,,2012-11-26
+721699,pairing element,成運動對元件,,2012-11-26
+721700,pair,運動對，對偶,,2012-11-26
+721701,overtones,泛音,,2012-11-26
+721702,overshoot,超越，過越量,,2012-11-26
+721703,over-constrained kinematic chain,過度拘束運動鏈,,2012-11-26
+721704,outside diameter,外徑,,2012-11-26
+721705,output torque,輸出扭矩,,2012-11-26
+721706,output link,輸出桿,,2012-11-26
+721707,output,輸出,,2012-11-26
+721708,outer frame position,外機架位置,,2012-11-26
+721709,outer dead-centre position,外死點位置,,2012-11-26
+721710,osculating ellipse,密切橢圓,,2012-11-26
+721711,osculating curve,密切曲線,,2012-11-26
+721712,osculating,密切的,,2012-11-26
+721713,oscillation,振盪,,2012-11-26
+721714,oscillating motion,搖擺運動,,2012-11-26
+721715,oscillating follower,搖擺從動件,,2012-11-26
+721716,oscillating cylinder linkage,擺動汽缸連桿組,,2012-11-26
+721717,oscillating cylinder angle,擺動汽缸角,,2012-11-26
+721718,oscillating cam follower,搖擺從動件,,2012-11-26
+721719,oscillating arm,搖臂,,2012-11-26
+721720,oscillating,搖擺的,,2012-11-26
+721721,orthogonal velocity,正交速度,,2012-11-26
+721722,orthogonal matrix,正交矩陣,,2012-11-26
+721723,orthogonal,正交的,,2012-11-26
+721724,origin,原點,,2012-11-26
+721725,orientational axes,方位軸線（機器人）,,2012-11-26
+721726,orientation,方位,,2012-11-26
+721727,ordinary gear train,普通齒輪系,,2012-11-26
+721728,order-type synthesis,階式合成,,2012-11-26
+721729,order,階數，階,,2012-11-26
+721730,optimization,最佳化,,2012-11-26
+721731,opposite-pole quadrilateral,對頂極心四邊形,,2012-11-26
+721732,opposite-pole,對頂極心,,2012-11-26
+721733,opposite pole,對頂極心,,2012-11-26
+721734,operating pressure angle,作用壓力角,,2012-11-26
+721735,open-loop harmonic response,開迴路諧波響應,,2012-11-26
+721736,open-loop control,開迴路控制,,2012-11-26
+721737,open-loop,開迴路,,2012-11-26
+721738,open spherical curve,開口球面曲線,,2012-11-26
+721739,open pair,力閉式運動對,,2012-11-26
+721740,open kinematic chain,開運動鏈，開放運動鏈,,2012-11-26
+721741,open belt,開口皮帶,,2012-11-26
+721743,Oldham coupling,Oldham聯結器,,2012-11-26
+721744,offset slider-crank,偏位滑件曲柄機構,,2012-11-26
+721745,offset oscillating cylinder linkage,偏位擺動汽缸連桿組,,2012-11-26
+721746,offset link,偏連鈑,,2012-11-26
+721747,offset follower,偏位從動件,,2012-11-26
+721748,offset error,補償誤差，偏位誤差,,2012-11-26
+721749,offset distance/length,偏位距離，偏位長度,,2012-11-26
+721750,offset cross-slider,偏位交叉滑件,,2012-11-26
+721751,offset circle,偏位圓,,2012-11-26
+721752,offset cam follower,偏位從動件,,2012-11-26
+721753,offset,偏距，偏位,,2012-11-26
+721754,off-line programming,離線規劃,,2012-11-26
+721755,odontograph,畫齒規,,2012-11-26
+721756,octoid tooth,8字齒,,2012-11-26
+721757,oblique impact,斜衝擊,,2012-11-26
+721758,oblique cross-slider,斜交叉滑件,,2012-11-26
+721759,oak-tanned belt,櫟皮鞣製皮帶,,2012-11-26
+721760,nutation,旋擺、章動（天體力學）,,2012-11-26
+721761,nut,螺帽,,2012-11-26
+721762,numerical solution,數值解,,2012-11-26
+721763,numerical analysis method,數值分析法,,2012-11-26
+721764,number synthesis,數目合成,,2012-11-26
+721765,number of teeth,齒數,,2012-11-26
+721766,nose circle,鼻圓,,2012-11-26
+721767,normalized,正規化的，無因次化的,,2012-11-26
+721768,normal vibration,固有振動,,2012-11-26
+721769,normal stress,正應力，垂直應力,,2012-11-26
+721770,normal reaction,法線反作用力,,2012-11-26
+721772,normal pressure angle,法壓力角,,2012-11-26
+721773,normal plane,法平面,,2012-11-26
+721774,normal pitch,法徑節,,2012-11-26
+721775,normal module,法模數,,2012-11-26
+721776,normal mode of vibration,固有振動模態,,2012-11-26
+721778,normal mode,固有模態,,2017-07-28
+721780,normal helix,法螺旋線,,2012-11-26
+721782,normal diametral pitch,法徑節,,2012-11-26
+721783,normal curvature,法曲率,,2012-11-26
+721784,normal cone,法圓錐,,2012-11-26
+721786,normal circular pitch,法周節,,2012-11-26
+721787,normal acceleration,法線加速度,,2012-11-26
+721788,non-parallel equal crank linkage normal,不平行等曲柄四連桿組,,2012-11-26
+721789,non-parallel equal crank linkage,不平行等曲柄四連桿組,,2012-11-26
+721790,non-holonomic system,不可積分拘束系統,,2012-11-26
+721791,non-holonomic constraint,不可積分拘束,,2012-11-26
+721792,non-holonomic,不可積分的,,2012-11-26
+721793,non-Grashof double-rocker,非Grashof雙搖桿,,2012-11-26
+721794,non-Grashof chain,非Grashof運動鏈,,2012-11-26
+721795,non-conservative force,非保守力，非守恆力,,2012-11-26
+721796,non-circular gear,非圓形齒輪,,2012-11-26
+721797,nominal pitch diameter,橫〔向〕周節,,2012-11-26
+721798,noise,噪音，雜訊,,2012-11-26
+721799,node,結點，節點（振動）,,2012-11-26
+721800,Newton's third law (of motion),Newton第三定律,,2012-11-26
+721801,Newton's second law (of motion),Newton第二定律,,2012-11-26
+721802,Newton's first law (of motion),Newton第一定律,,2012-11-26
+721803,neutral surface,中立面,,2012-11-26
+721804,neutral equilibrium,中立平衡，隨遇平衡,,2012-11-26
+721806,neutral axis,中立軸線，中性軸線,,2012-11-26
+721807,neutral,中立的，中性的,,2012-11-26
+721808,natural mode,固有模態（振動）,,2012-11-26
+721810,natural frequency,固有頻率，自然頻率,,2012-11-26
+721811,mushroom cam follower,蕈狀從動件,,2012-11-26
+721812,multiple thread,複螺紋,,2012-11-26
+721813,multiple strand chain,多排鏈,,2012-11-26
+721814,multi-loop mechanism,多迴路機構,,2012-11-26
+721815,multi-layered structure,多層結構,,2012-11-26
+721816,multi-degree-of-freedom system,多自由度系統,,2012-11-26
+721818,mule pulley,導輪,,2012-11-26
+721819,moving polode,運動極心線，運動瞬心線,,2012-11-26
+721820,moving pivot,運動樞軸,,2012-11-26
+721821,moving member,運動件,,2012-11-26
+721822,moving centrode,運動極心線，運動瞬心線,,2012-11-26
+721823,moving axode,運動軸線面,,2012-11-26
+721824,moving,運動的,,2012-11-26
+721825,movable pulley,動滑輪,,2012-11-26
+721826,motion program,運動規劃,,2012-11-26
+721827,motion of a rigid body,剛體運動,,2012-11-26
+721828,motion,運動,,2012-11-26
+721829,motion of a point,點運動,,2012-11-26
+721830,momentum,動量,,2012-11-26
+721831,momentary dwell,瞬時暫停,,2012-11-26
+721832,momental ellipsoid,慣性橢球面,,2012-11-26
+721833,moment of momentum,動量矩，角動量,,2012-11-26
+721834,moment of inertia,慣性矩,,2012-11-26
+721835,moment of force about an axis,繞一軸線之力矩,,2012-11-26
+721836,moment of force about a point,繞一點之力矩,,2012-11-26
+721837,moment of couple,力偶矩,,2012-11-26
+721839,moment of a force about axis,繞一軸線之力矩,,2012-11-26
+721840,moment of a force about a point,繞一點之力矩,,2012-11-26
+721841,moment of a couple,力偶矩,,2012-11-26
+721843,moment arm,力臂,,2012-11-26
+721844,moment,力矩，矩,,2012-11-26
+721845,modulus of rigidity,剛性模數,,2012-11-26
+721846,modulus,模數,,2012-11-26
+721847,module,模組（機器人），模數（齒輪）,,2012-11-26
+721848,mode of vibration,振動模態,,2012-11-26
+721849,mode,模態,,2012-11-26
+721850,modal vector,固有模態（振動）,,2012-11-26
+721851,mobility of mechanism,機構之可動度,,2012-11-26
+721852,mobility of kinematic chain,運動鏈之可動度,,2012-11-26
+721853,mobility of a kinematic chain,運動鏈之可動度,,2012-11-26
+721854,mobility,可動度，自由度,,2012-11-26
+721855,mobile robot,可移動型機器人,,2012-11-26
+721856,mobile,樹狀運動鏈,,2012-11-26
+721857,mitre/miter gear,斜方齒輪,,2012-11-26
+721858,miter/mitre gear,斜方齒輪,,2012-11-26
+721859,mirror pole,鏡像極心,,2012-11-26
+721860,mirror image,鏡像,,2012-11-26
+721861,minor/secondary axes,方位軸線，次軸線（機器人）,,2012-11-26
+721862,minor axes,方位軸線（機器人）,,2012-11-26
+721863,minimax theorem,極小極大理論,,2012-11-26
+721864,middle surface of plate,板之中分面,,2012-11-26
+721865,middle surface of a plate,板之中分面,,2012-11-26
+721866,membrane,薄膜,,2012-11-26
+721869,member,件,,2012-11-26
+721870,mechanism topology matrix,機構拓樸構造矩陣,,2012-11-26
+721871,mechanism element,機構元件,,2012-11-26
+721872,mechanism design,機構設計,,2012-11-26
+721873,mechanism and machine theory,機構與機器原理,,2012-11-26
+721874,mechanism,機構,,2012-11-26
+721875,mechanical system,機械系統,,2012-11-26
+721876,mechanical shock,機械陡震,,2012-11-26
+721877,mechanical mobility,機械速度響應（振動）,,2012-11-26
+721878,mechanical engineering design,機械工程設計,,2012-11-26
+721879,mechanical energy,機械能,,2012-11-26
+721880,mechanical efficiency,機械效率,,2012-11-26
+721881,mechanical design,機械設計,,2012-11-26
+721882,mechanical advantage,機械利益,,2012-11-26
+721883,mechanical,機械的,,2012-11-26
+721884,mean-square value,均方值,,2012-11-26
+721885,matrix method,矩陣法,,2012-11-26
+721886,mathematical programming,數學規劃,,2012-11-26
+721887,master-slave manipulator,主從式機械臂,,2012-11-26
+721888,master cam,母凸輪,,2012-11-26
+721889,mass of particle,質點之質量,,2012-11-26
+721890,mass of body,物體質量,,2012-11-26
+721891,mass of a particle,質點之質量,,2012-11-26
+721892,mass,質量,,2012-11-26
+721893,mass of a body,物體之質量,,2012-11-26
+721894,margin,邊限,,2012-11-26
+721895,manual transmission,手動變速器，手排變速箱（車輛）,,2012-11-26
+721896,manual manipulator,手動機械臂,,2012-11-26
+721897,manual,手動的,,2012-11-26
+721898,manoeuvrability,可調遣性,,2012-11-26
+721899,manipulator,機械臂，操縱器,,2012-11-26
+721900,manipulated variable,受控變數,,2012-11-26
+721901,major/primary axes,位置軸線，主軸線（機器人）,,2012-11-26
+721902,major axis and minor axis of an ellipse,橢圓之長短軸線,,2012-11-26
+721903,major axes,位置軸線（機器人）．主軸線,,2012-11-26
+721904,main-and-return cam,主凸輪與回凸輪,,2012-11-26
+721905,main pitch circle,法周節,,2012-11-26
+721906,magnitude of force,力之大小,,2012-11-26
+721907,magnitude of a force,力之大小,,2012-11-26
+721908,machine member,機件,,2012-11-26
+721909,machine design,機器設計,,2012-11-26
+721910,machine,機器,,2012-11-26
+721911,lumped-parameter system,集塊參數系統，離散系統,,2012-11-26
+721912,lower pair,低對,,2012-11-26
+721913,loose sheave,遊輪,,2012-11-26
+721914,loose pulley,遊輪,,2012-11-26
+721915,Loop ratio,迴路比,,2012-11-26
+721916,Loop phase,迴路相位,,2012-11-26
+721917,loop gain,迴路增益,,2012-11-26
+721918,loop equation,迴路方程式,,2012-11-26
+721919,Loop,迴路,,2012-11-26
+721920,longitudinal wave,縱〔向〕波,,2012-11-26
+721921,longitudinal vibration,縱向振動,,2012-11-26
+721922,longitudinal strain,縱向應變,,2012-11-26
+721923,longitudinal rigidity,縱向剛度,,2012-11-26
+721924,longitudinal impact,縱向衝擊,,2012-11-26
+721925,longitudinal force,縱向力,,2012-11-26
+721926,longitudinal,縱向的,,2012-11-26
+721927,long and short addendum system,長短齒冠制,,2012-11-26
+721928,logarithmic spiral,對數蝸線,,2012-11-26
+721929,logarithmic decrement,對數減量,,2012-11-26
+721930,locus,軌跡,,2012-11-26
+721931,locked chain,呆鏈,,2012-11-26
+721932,lobed wheels,葉子輪,,2012-11-26
+721933,load capacity,負載容量,,2012-11-26
+721934,load,負載,,2012-11-26
+721935,live load,活動負載,,2012-11-26
+721936,linkwork,連桿組,,2012-11-26
+721937,linkage mechanism,連桿機構,,2012-11-26
+721938,linkage,連桿組,,2012-11-26
+721939,link,連桿,,2012-11-26
+721940,linearization,線性化,,2012-11-26
+721941,linear velocity matrix,線速度矩陣,,2012-11-26
+721942,linear velocity,線速度,,2012-11-26
+721943,linear system,線性系統,,2012-11-26
+721944,linear speed,線速率,,2012-11-26
+721945,linear motion,線運動,,2012-11-26
+721946,linear momentum,線動量,,2012-11-26
+721947,linear jerk,線急跳度,,2012-11-26
+721948,linear displacement,線位移,,2012-11-26
+721949,linear acceleration,線加速度,,2012-11-26
+721950,linear,線性的,,2012-11-26
+721951,line of contact,接觸線,,2012-11-26
+721952,line of centres/centers,聯心線,,2012-11-26
+721953,line of action of force,力作用線,,2012-11-26
+721954,line of action of a force,力之作用線,,2012-11-26
+721955,line of action,作用線,,2012-11-26
+721956,line equation,線方程式,,2012-11-26
+721957,line coordinates,線坐標,,2012-11-26
+721958,line contact,線接觸,,2012-11-26
+721959,line at infinity,無窮遠處線,,2012-11-26
+721960,line,直線,,2012-11-26
+721961,limiting friction,極限摩擦力，靜摩擦限界,,2012-11-26
+721962,limit position of a mechanism,機構之極限位置,,2012-11-26
+721963,limit position of a link,桿之極限位置,,2012-11-26
+721964,limit position,極限位置,,2012-11-26
+721965,limit,極限,,2012-11-26
+721966,limacon,蚶線,,2012-11-26
+721967,lift,升程,,2012-11-26
+721968,lever,搖桿,,2012-11-26
+721969,left-handed thread,左旋螺紋,,2012-11-26
+721970,left handed screw,左手螺旋,,2012-11-26
+721971,leading end,前端,,2012-11-26
+721972,lead screw,導螺桿,,2012-11-26
+721973,lead of spiral bevel gear,齒扭距（蝸線傘齒輪）,,2012-11-26
+721974,lead number,導程數，車床螺旋常數,,2012-11-26
+721975,lead angle,導程角,,2012-11-26
+721976,lead,導程,,2012-11-26
+721977,lazy tongs,伸縮鐵,,2012-11-26
+721978,law of (universal) gravitation,萬有引力定律,,2012-11-26
+721979,law,定律,,2012-11-26
+721980,lathe screw constant,車床螺旋常數，導程數,,2012-11-26
+721981,lateral buckling of a beam,梁之側向屈曲,,2012-11-26
+721983,latent vector,固有模態（振動）,,2012-11-26
+721984,latch,閂扣，搭扣,,2012-11-26
+721985,lantern wheel,燈輪,,2012-11-26
+721986,lamina， polar moment of inertia of,一平面區域之極慣性矩,,2012-11-26
+721987,Lagrangian function,Lagrange函數,,2012-11-26
+721988,Lagrange multiplier,Lagrange乘子,,2012-11-26
+721989,lag,滯後,,2012-11-26
+721990,knife edge follower,刃狀從動件,,2012-11-26
+721991,knife edge cam follower,刃狀從動件,,2012-11-26
+721992,kite linkage,箏形連桿組,,2012-11-26
+721993,kinetostatics,動力學,,2012-11-26
+721994,kinetics,運動力學,,2012-11-26
+721995,kinetic potential,Lagrange函數,,2012-11-26
+721996,kinetic friction,動摩擦,,2012-11-26
+721997,kinetic energy of particle,質點之動能,,2012-11-26
+721998,kinetic energy of a system,系統之動能,,2012-11-26
+721999,kinetic energy of a rigid body,剛體之動能,,2012-11-26
+722000,kinetic energy of a particle,質點之動能,,2012-11-26
+722001,kinetic,動力的,,2012-11-26
+722002,kinematics of machinery,機械運動學,,2012-11-26
+722003,kinematics,運動學,,2012-11-26
+722004,kinematic synthesis,運動合成,,2012-11-26
+722005,kinematic sketch,運動簡圖,,2012-11-26
+722006,kinematic representation,運動表示法,,2012-11-26
+722007,kinematic pair,運動對,,2012-11-26
+722008,kinematic joint,運動接頭,,2012-11-26
+722009,kinematic inversion,運動學上之倒置,,2012-11-26
+722010,kinematic chain,運動鏈,,2012-11-26
+722011,kinematic analysis,運動分析,,2012-11-26
+722012,kinematic,運動學的,,2012-11-26
+722013,journal,軸頸,,2012-11-26
+722014,joint space,關節空間,,2012-11-26
+722015,joint of belt,皮帶接頭,,2012-11-26
+722016,joint coordinate system,接頭坐標系，關節坐標系,,2012-11-26
+722017,joint,接頭，關節,,2012-11-26
+722018,jerk,急跳度,,2012-11-26
+722019,isotropy,等向性,,2012-11-26
+722020,isotropic line,迷向線,,2012-11-26
+722021,isotropic body,等向性體,,2012-11-26
+722022,isosceles turning block linkage,等腰迴轉塊連桿組,,2012-11-26
+722023,isosceles linkage,等腰連桿組,,2012-11-26
+722024,isosceles double crank linkage,等腰雙曲柄連桿組,,2012-11-26
+722025,isomorphism,同構〔性〕,,2012-11-26
+722026,isomorphic,同構的,,2012-11-26
+722027,isolated point,孤立點,,2012-11-26
+722028,involute spiraloid,漸開蝸線面,,2012-11-26
+722029,involute helical,漸開螺旋面,,2012-11-26
+722030,involute gear,漸開線齒輪,,2012-11-26
+722031,involute function,漸開線函數,,2012-11-26
+722032,involute cam,漸開線凸輪,,2012-11-26
+722033,involute,漸開線,,2012-11-26
+722034,inverted tooth chain,倒齒鏈,,2012-11-26
+722035,inverted slider-crank,倒置之滑件曲柄機構,,2012-11-26
+722036,inversors,倒數器,,2012-11-26
+722037,inversion of pairs,運動對的倒置,,2012-11-26
+722038,inversion of pair,運動對的倒置,,2012-11-26
+722039,inversion,倒置,,2012-11-26
+722040,inverse task,反向計算（機器人）,,2012-11-26
+722041,inverse motion,倒置運動，反運動,,2012-11-26
+722042,inverse cam,反凸輪,,2012-11-26
+722043,inverse,倒置的，反的,,2012-11-26
+722044,invariant system,不變系統,,2012-11-26
+722045,intersecting axes,相交軸線,,2012-11-26
+722046,internal gear,內齒輪,,2012-11-26
+722047,internal force,內力,,2012-11-26
+722048,internal bevel gear,內傘齒輪,,2012-11-26
+722049,intermittent motion mechanism,間歇運動機構,,2012-11-26
+722050,intermittent motion,間歇運動,,2012-11-26
+722051,intermediate cases,中間情形,,2012-11-26
+722052,interferometer,干涉計,,2012-11-26
+722053,interference point,干涉點,,2012-11-26
+722054,interference of involute gears,漸開線齒輪的干涉,,2012-11-26
+722055,interference,干涉,,2012-11-26
+722056,interchangeable gear set,可互換齒輪組,,2012-11-26
+722057,intelligent robot,智慧型機器人,,2012-11-26
+722058,integral control,積分控制,,2012-11-26
+722059,instantaneous velocity,瞬時速度,,2012-11-26
+722060,instantaneous screw axis,瞬時螺旋軸線,,2012-11-26
+722061,instantaneous rotation,瞬時旋轉,,2012-11-26
+722062,instantaneous invariants,瞬時不變量,,2012-11-26
+722063,instantaneous dwell,瞬時暫停,,2012-11-26
+722064,instantaneous centre/center of velocity,瞬時速度中心,,2012-11-26
+722065,instantaneous centre/center of acceleration,瞬時加速度中心,,2012-11-26
+722066,instantaneous centre,瞬心，瞬時中心,,2012-11-26
+722067,instantaneous center/centre of velocity,瞬時速度中心,,2012-11-26
+722068,instantaneous center/centre of  rotation,瞬時旋轉中心,,2012-11-26
+722069,instantaneous center,瞬心，瞬時中心,,2012-11-26
+722070,instantaneous axis of rotation,瞬時旋轉軸線,,2012-11-26
+722071,instantaneous,瞬時的,,2012-11-26
+722072,instant center/centre method,瞬心法,,2012-11-26
+722073,instant center/centre,瞬心,,2012-11-26
+722074,input torque,輸入扭矩,,2012-11-26
+722075,input link,輪入桿,,2012-11-26
+722076,input,輸入,,2012-11-26
+722077,inner frame position,內機架位置,,2012-11-26
+722078,inner dead centre/center position,內死點位置,,2012-11-26
+722079,initial tension,初張力，初拉力,,2012-11-26
+722081,initial condition,初始條件,,2012-11-26
+722082,inflection pole,反曲點中心,,2012-11-26
+722083,inflection point,反曲點,,2012-11-26
+722084,inflection curve,反曲點曲線（球面）,,2012-11-26
+722085,inflection circle,反曲點圓,,2012-11-26
+722086,inflection cintre/center,反曲點中心,,2012-11-26
+722087,inflection center/centre,反曲點中心,,2012-11-26
+722088,infinitesimally separated positions,無窮接近位置,,2012-11-26
+722089,infinite resolution,無段解析度,,2012-11-26
+722090,inertial system,慣性坐標系,,2012-11-26
+722091,inertia tensor,慣性張量,,2012-11-26
+722092,inertia force,慣性力,,2012-11-26
+722093,inertia couple,慣性力偶,,2012-11-26
+722094,inertia,慣性,,2012-11-26
+722095,inelastic impact,非彈性衝擊,,2012-11-26
+722096,indirect contact,間接接觸,,2012-11-26
+722097,indicator,指示器，示功器,,2012-11-26
+722098,indexing follower,分度從動件,,2012-11-26
+722099,independent loop,獨立迴路,,2012-11-26
+722100,incomplete pair,不完全運動對,,2012-11-26
+722101,impulsive force,脈衝力,,2012-11-26
+722102,impulse,脈衝,,2012-11-26
+722103,impedance,阻抗,,2012-11-26
+722104,impact force,衝擊力,,2012-11-26
+722105,impact,衝擊,,2012-11-26
+722106,image pole,鏡像極心,,2012-11-26
+722107,image,像,,2012-11-26
+722108,idler,惰輪,,2012-11-26
+722109,idle pulley,惰輪,,2012-11-26
+722110,idle gear,惰輪,,2012-11-26
+722112,hypoid gear,戟齒輪,,2012-11-26
+722113,hypocycloid,內擺線,,2012-11-26
+722114,hypocyclic epicyclic,內周轉輪系,,2012-11-26
+722115,hyperstatic system,靜不定力系,,2012-11-26
+722116,hyperboloidal gear,雙曲面齒輪,,2012-11-26
+722117,hyperbolic mechanism,雙曲線機構,,2012-11-26
+722118,hypcoycloidal straight line motion,內擺線直線運動,,2012-11-26
+722119,hunting tooth,追逐齒,,2012-11-26
+722120,hub,輪轂,,2012-11-26
+722121,hourglass worm,滴漏形蝸桿,,2012-11-26
+722122,Hooke's universal joint,萬向接頭，十字接頭,,2012-11-26
+722123,Hooke's law,Hooke定律,,2012-11-26
+722124,Hooke's joint,十字接頭,,2012-11-26
+722125,hook joint chain,鉤節鏈,,2012-11-26
+722126,homologous positions,相關位置,,2012-11-26
+722127,homologous points,相關點,,2012-11-26
+722128,homologous lines,相關線,,2012-11-26
+722129,homogeneous coordinates,齊次坐標,,2012-11-26
+722130,homogeneous body,均質體,,2012-11-26
+722131,holonomic system,可積分拘束系統,,2012-11-26
+722132,holonomic constraint,可積分拘束,,2012-11-26
+722133,holonomic,可積分的,,2012-11-26
+722134,hold,停駐（機器人）,,2012-11-26
+722135,hoisting tackles,起重滑車,,2012-11-26
+722137,hobbing machine,滾齒機,,2012-11-26
+722138,hob,滾齒刀,,2012-11-26
+722140,hinge,鉸鏈,,2012-11-26
+722141,higher pair,高對,,2012-11-26
+722142,higher order synthesis,高階合成,,2012-11-26
+722143,higher order path curvature,高階路徑曲率,,2012-11-26
+722144,higher order,高階的,,2012-11-26
+722145,heterogeneous body,非均質體,,2012-11-26
+722146,herring-bone gear,人字齒輪,,2012-11-26
+722147,helix angle,螺旋角,,2012-11-26
+722148,helix,螺旋線,,2012-11-26
+722149,helicoid,螺旋面,,2012-11-26
+722150,helical pair,螺旋〔運動〕對,,2012-11-26
+722151,helical motion,螺旋運動,,2012-11-26
+722152,helical gear,螺旋齒輪,,2012-11-26
+722153,helical,螺旋的,,2012-11-26
+722154,heart cam,心形凸輪,,2012-11-26
+722155,head end dead center/centre position,頂端死點位置,,2012-11-26
+722156,Hartmann construction,Hartmann構圖法,,2012-11-26
+722157,harmonic vibration,諧波振動,,2012-11-26
+722158,harmonic analysis,調和分析,,2012-11-26
+722159,harmonic,諧波，調和的,,2012-11-26
+722160,Hamilton's principle,Hamilton原理,,2012-11-26
+722161,Hamiltonian variable,Hamilton變數，正準變數,,2012-11-26
+722162,Hamiltonian function,Hamilton函數,,2012-11-26
+722163,gyroscopic effect,迴轉效應,,2012-11-26
+722164,gyroscope,迴轉儀,,2012-11-26
+722165,gyro effect,迴轉效應,,2012-11-26
+722167,guide pulley,導輪,,2012-11-26
+722168,guide,導件,,2012-11-26
+722169,guidance mechanism,導引機構,,2012-11-26
+722170,Grubler-Kutzbach criteria,Grubler-Kutzbach判別準則（自由度／可動度）,,2012-11-26
+722172,ground,地，接地,,2012-11-26
+722173,gripper,夾持器,,2012-11-26
+722174,grillage,柵，格,,2012-11-26
+722175,grid,柵，格,,2012-11-26
+722176,great circle,大圓,,2012-11-26
+722177,gravity,重力,,2012-11-26
+722178,gravitational field,重力場,,2012-11-26
+722180,Grashof rule,Grashof定則,,2012-11-26
+722181,Grashof double-rocker,Grashof雙搖桿,,2012-11-26
+722182,Grashof chain,Grashof運動鏈,,2012-11-26
+722183,graphical method,圖解法,,2012-11-26
+722184,graphical integration,圖解積分,,2012-11-26
+722185,graphical differentiation,圖解微分,,2012-11-26
+722186,graphical,圖解的,,2012-11-26
+722187,graph theory,圖論,,2012-11-26
+722188,Graham escapement,Graham擒縱器,,2012-11-26
+722189,gradient,梯度,,2012-11-26
+722190,governor,調速器,,2012-11-26
+722191,gorge radius,隘半徑,,2012-11-26
+722192,gorge circle,隘圓,,2012-11-26
+722193,gnomonic projection,心射圖形,,2012-11-26
+722194,globoidal cam,桶狀凸輪,,2012-11-26
+722195,geometric constraint,幾何拘束,,2012-11-26
+722196,geodetic torsion,測地扭率,,2012-11-26
+722197,geodetic curvature,測地曲率,,2012-11-26
+722198,Geneva stop,日內瓦停止機構,,2012-11-26
+722199,Geneva mechanism,日內瓦機構,,2012-11-26
+722200,Geneva escapement,日內瓦擒縱器,,2012-11-26
+722201,Geneva drive,日內瓦驅動機構,,2012-11-26
+722202,generating curve,演生曲線,,2012-11-26
+722203,generating circle,演生圓，創成圓,,2012-11-26
+722204,generating,演生,,2012-11-26
+722205,generalized Oldham coupling,廣義Oldham聯結器,,2012-11-26
+722206,generalized momentum,廣義動量,,2012-11-26
+722207,generalized force,廣義力,,2012-11-26
+722208,generalized coordinate,廣義坐標,,2012-11-26
+722209,generalized,廣義的,,2012-11-26
+722210,gearing,齒輪嚙合,,2012-11-26
+722211,geared linkage,齒輪連桿組,,2012-11-26
+722212,geared five-bar linkage,齒輪五連桿組,,2012-11-26
+722213,gear transmission,齒輪傳動,,2012-11-26
+722214,gear train,齒輪系,,2012-11-26
+722215,gear shaper,刨齒機,,2012-11-26
+722216,gear set,齒輪組,,2012-11-26
+722217,gear segment,齒輪段,,2012-11-26
+722218,gear sector,齒輪段,,2012-11-26
+722220,gear ratio,齒輪比,,2012-11-26
+722221,gear pair,齒輪對,,2012-11-26
+722222,gear mechanism,齒輪機構,,2012-11-26
+722223,gear blank,齒輪毛胚,,2012-11-26
+722224,gear  cutting,齒輪切製,,2012-11-26
+722225,gear,齒輪,,2012-11-26
+722226,gantry,高架,,2012-11-26
+722227,Galileo's law of relativity,Galileo相對論定律,,2012-11-26
+722228,gain stability,增益穩定性,,2012-11-26
+722229,gain margin,增益邊限,,2012-11-26
+722230,gain crossover,增益交越點,,2012-11-26
+722231,gain,增益,,2012-11-26
+722232,fundamental vibration,基本振動,,2012-11-26
+722233,fundamental mode,基本模態（振動）,,2012-11-26
+722234,fundamental law of gearing,齒輪嚙合基本定律,,2012-11-26
+722235,fundamental frequency,基本頻率,,2012-11-26
+722236,fundamental,基本的,,2012-11-26
+722237,function-generating mechanism,函數機構,,2012-11-26
+722238,function generator,函數機構,,2012-11-26
+722239,function cognates,函數同族連桿組,,2012-11-26
+722240,function,函數,,2012-11-26
+722241,full scale,足尺,,2012-11-26
+722242,full depth tooth,全深齒,,2012-11-26
+722243,front,鋒,,2012-11-26
+722244,frictional force,摩擦力,,2012-11-26
+722245,friction wheel,摩擦輪,,2012-11-26
+722246,friction gearing,摩擦輪傳動,,2012-11-26
+722247,friction drive,摩擦傳動,,2012-11-26
+722248,friction,摩擦,,2012-11-26
+722249,Freudenstein equation,Freudenstein方程式,,2012-11-26
+722250,frequency-modulated signal,調頻訊號,,2012-11-26
+722251,frequency response function,頻率響應函數,,2012-11-26
+722252,frequency,頻率,,2012-11-26
+722253,free vibration,自由振動,,2012-11-26
+722254,free support,簡支座,,2012-11-26
+722255,free,自由的,,2012-11-26
+722256,frame-work,桁架，構架,,2012-11-26
+722257,frame velocity,運動坐標之點速度,,2012-11-26
+722258,frame motion,運動坐標之運動,,2012-11-26
+722259,frame acceleration,運動坐標之點加速度,,2012-11-26
+722260,frame,機架，坐標系,,2012-11-26
+722261,Fourier component,諧波,,2012-11-26
+722263,four-bar mechanism,四連桿機構,,2012-11-26
+722265,four-bar linkage,四連桿組,,2012-11-26
+722266,four-bar,四連桿組,,2012-11-26
+722267,foundation,基座,,2012-11-26
+722268,fouling,干犯（齒輪）,,2012-11-26
+722269,formed milling cutter,成形銑刀,,2012-11-26
+722270,form-closed pair,形閉式運動對,,2012-11-26
+722271,formative number of teeth,虛齒數,,2012-11-26
+722272,forearm,前臂，小臂,,2012-11-26
+722273,forced vibration,強迫振動,,2012-11-26
+722274,force-closed pair,力閉式運動對,,2012-11-26
+722275,force sense,力感度（機器人）,,2012-11-26
+722276,force polygon,力多邊形,,2012-11-26
+722277,force of gravity,重力,,2012-11-26
+722278,force function,力函數,,2012-11-26
+722279,force diagram,力線圖,,2012-11-26
+722280,force,力,,2012-11-26
+722281,follower load,定向負載,,2012-11-26
+722282,follower,從動件,,2012-11-26
+722283,focus,焦點,,2012-11-26
+722284,flywheel,飛輪,,2012-11-26
+722285,floating link,浮桿,,2012-11-26
+722286,flexural rigidity,抗撓剛度,,2012-11-26
+722287,flexural centre,撓曲中心,,2012-11-26
+722288,flexural center,撓曲中心,,2012-11-26
+722289,flexural,撓曲的,,2012-11-26
+722290,flexible member,撓性件,,2012-11-26
+722291,flexible,可撓的,,2012-11-26
+722292,flexibility,可撓性，撓度，順從度,,2012-11-26
+722293,flat pair,平面〔運動〕對,,2012-11-26
+722294,flat face follower,平面從動件,,2012-11-26
+722295,flat face cam follower,平面從動件,,2012-11-26
+722296,flat belting,平皮帶傳動,,2012-11-26
+722297,flat belt,平皮帶,,2012-11-26
+722298,flat,平的,,2012-11-26
+722300,flank,齒腹,,2012-11-26
+722301,fixed-stop robot,固定停止點機器人,,2012-11-26
+722303,fixed-sequence manipulator,固定順序機械臂,,2012-11-26
+722304,fixed pulley,定滑輪,,2012-11-26
+722305,fixed pivot,固定樞軸,,2012-11-26
+722306,fixed member,固定件,,2012-11-26
+722307,fixed load,固定負載,,2012-11-26
+722308,fixed link,固定桿,,2012-11-26
+722309,fixed polode,固定極心線，固定瞬心線,,2012-11-26
+722310,fixed centrode,固定極心線，固定瞬心線,,2012-11-26
+722311,fixed axode,固定軸線面,,2012-11-26
+722312,fixed,固定的,,2012-11-26
+722313,five-point dwell,五點暫停,,2012-11-26
+722314,finitely separated positions,有限分離位置,,2012-11-26
+722315,fine pitch,基節〔距〕,,2012-11-26
+722316,fillet,內圓角,,2012-11-26
+722317,field of force,力場,,2012-11-26
+722318,field,場,,2012-11-26
+722319,Ferguson's paradox,Ferguson奇輪,,2012-11-26
+722320,Ferguson index,Ferguson分度機構,,2012-11-26
+722321,feedback element,回饋元件,,2012-11-26
+722322,feedback,回饋,,2012-11-26
+722323,feedback control system,回饋控制系統,,2012-11-26
+722324,feed mechanism,進給機構,,2012-11-26
+722325,factor,因子，因數,,2012-11-26
+722326,face width of gear,齒輪厚度,,2012-11-26
+722327,face width,齒輪厚度,,2012-11-26
+722328,face gear,面齒輪,,2012-11-26
+722329,face contact ratio,面接觸率,,2012-11-26
+722330,face cone,面圓錐,,2012-11-26
+722331,face cam,面凸輪,,2012-11-26
+722332,face angle,齒面角,,2012-11-26
+722333,face advance,齒扭距（蝸線傘齒輪）,,2012-11-26
+722334,face,面,,2012-11-26
+722335,extreme position,極限位置,,2012-11-26
+722336,external gear,外齒輪,,2012-11-26
+722337,external force,外力,,2012-11-26
+722338,external,外部的,,2012-11-26
+722339,exoskeleton,連身機器人,,2012-11-26
+722340,excitation,激勵，激發,,2012-11-26
+722341,excess,超額,,2012-11-26
+722342,evolute,漸屈線,,2012-11-26
+722343,Evan's friction cones,Evan摩擦圓錐,,2012-11-26
+722344,Euler-Savary equation,Euler-Savary方程式,,2012-11-26
+722345,Eulerian angles,Euler角,,2012-11-26
+722346,escapement,擒縱器,,2012-11-26
+722347,escape wheel,擒縱輪,,2012-11-26
+722348,error signal ratio,誤差訊號比,,2012-11-26
+722349,error signal,誤差訊號,,2012-11-26
+722350,error,誤差,,2012-11-26
+722351,ergodic process,遍歷性程序,,2012-11-26
+722352,equivalent viscous damping,等值黏性阻尼,,2012-11-26
+722353,equivalent moment of inertia,等效慣性矩,,2012-11-26
+722354,equivalent moment,等效力矩,,2012-11-26
+722355,equivalent mechanism,等效機構,,2012-11-26
+722356,equivalent mass of a mechanism,機構之等效質量,,2012-11-26
+722357,equivalent linkage,等效連桿組,,2012-11-26
+722358,equivalent instantaneous four-bar,等效瞬時四連桿組,,2012-11-26
+722359,equivalent force system,等效力系,,2012-11-26
+722360,equivalent force,等效力,,2012-11-26
+722361,equivalent buckling length of a bar,棒之等效屈曲長度,,2012-11-26
+722362,equivalent,等效的，等值的，當量,,2012-11-26
+722363,equilibrium configuration,平衡構形，平衡組態,,2012-11-26
+722364,equilibrium,平衡,,2012-11-26
+722365,equatorial curve,赤道曲線,,2012-11-26
+722366,equations of equilibrium,平衡方程式組,,2012-11-26
+722367,equal stepped pulleys,等塔輪組,,2012-11-26
+722368,equal crank linkage,等曲柄連桿組,,2012-11-26
+722369,epicycloid,外擺線,,2012-11-26
+722370,epicyclic value,周轉值,,2012-11-26
+722371,epicyclic gear train,周轉齒輪系，行星齒輪系,,2012-11-26
+722372,epicyclic gear,周轉齒輪，行星齒輪,,2012-11-26
+722373,epicyclic,周轉的，外周轉的,,2012-11-26
+722374,envelope method,包絡線法,,2012-11-26
+722375,envelope equation,包絡線方程式,,2012-11-26
+722376,envelope,包絡線，包烙面,,2012-11-26
+722377,engineering strain,應變,,2012-11-26
+722378,engine,發動機，引擎,,2012-11-26
+722379,energy,能量,,2012-11-26
+722380,endless belt,無端皮帶,,2012-11-26
+722381,end-effector,端接器,,2012-11-26
+722382,end cam,端凸輪,,2012-11-26
+722383,elliptic trammel,橢圓規,,2012-11-26
+722384,elliptic mechanism,橢圓機構,,2012-11-26
+722385,elliptic gear,橢圓齒輪,,2012-11-26
+722386,elliptic chuck,製橢圓用夾頭,,2012-11-26
+722387,elliptic,橢圓的,,2012-11-26
+722388,ellipsoid of inertia,慣性橢球面,,2012-11-26
+722389,ellipsoid,橢球體，橢球面,,2012-11-26
+722390,ellipsograph,橢圓規,,2012-11-26
+722391,ellipse,橢圓,,2012-11-26
+722392,elevation,1.仰角 ； 2.高度,,2012-11-26
+722393,elementary work,基本功,,2012-11-26
+722394,element,元件,,2012-11-26
+722395,elbow,肘關節,,2012-11-26
+722396,elasticity,彈性,,2012-11-26
+722397,elastic support,彈性支座,,2012-11-26
+722398,elastic strain,彈性應變,,2012-11-26
+722399,elastic line,彈性軸線,,2012-11-26
+722400,elastic impact,彈性衝擊,,2012-11-26
+722401,elastic hysteresis,彈性遲滯,,2012-11-26
+722402,elastic foundation,彈性基座,,2012-11-26
+722403,elastic force,彈性力,,2012-11-26
+722404,elastic deformation,彈性變形,,2012-11-26
+722405,elastic body,彈性體,,2012-11-26
+722406,elastic axis,彈性軸線,,2012-11-26
+722407,elastic,彈性的,,2012-11-26
+722408,eigen-mode,固有模態（振動）,,2012-11-26
+722409,efficiency,效率,,2012-11-26
+722410,effective pull,有效拉力,,2012-11-26
+722411,effective pressure angle,有效壓力角,,2012-11-26
+722413,effective power,有效功力,,2012-11-26
+722414,effective force,有效力,,2012-11-26
+722415,effective,有效的,,2012-11-26
+722416,effective diameter,有效直徑,,2012-11-26
+722417,effect,效應,,2012-11-26
+722418,eccentricity,偏心距,,2012-11-26
+722419,eccentric positive return cam,偏心確動凸輪,,2012-11-26
+722421,eccentric impact,偏心衝擊,,2012-11-26
+722422,eccentric,偏心的，偏心輪,,2012-11-26
+722423,dynamics of machinery,機器動力學,,2012-11-26
+722424,dynamics,動力學,,2012-11-26
+722425,dynamic stiffness,動態剛性,,2012-11-26
+722426,dynamic spring constant,動態剛性,,2012-11-26
+722427,dynamic load,動態負載,,2012-11-26
+722429,dynamic error band,動態誤差帶,,2012-11-26
+722430,dynamic balance of rotating body,旋轉體之動態平衡,,2012-11-26
+722431,dynamic balance,動態均衡，動 〔態〕 平衡,,2012-11-26
+722432,dynamic,動力的，動態的,,2012-11-26
+722433,dyad,雙連桿,,2012-11-26
+722434,dwell mechanism,暫停機構,,2012-11-26
+722435,dwell,暫停,,2012-11-26
+722436,duality,對偶性,,2012-11-26
+722437,dual vector,雙向量,,2012-11-26
+722438,dual quantity,雙量,,2012-11-26
+722439,dual part of dual quantity,雙量之雙部,,2012-11-26
+722440,dual numbert,雙數,,2012-11-26
+722441,dual angle,雙角,,2012-11-26
+722442,dual,1.雙的 2.對偶,,2012-11-26
+722443,drum cam,鼓狀凸輪,,2012-11-26
+722444,drum,絞盤，鼓輪，圓筒,,2012-11-26
+722445,driving-point mobility,直接速度響應（振動）,,2012-11-26
+722446,driving wheel,主動輪,,2012-11-26
+722447,driving link,主動桿,,2012-11-26
+722448,driving,主動的,,2012-11-26
+722449,driver,主動件,,2012-11-26
+722450,driven wheel,從動輪,,2012-11-26
+722451,driven shaft,從動軸,,2012-11-26
+722452,driven link,從動桿,,2012-11-26
+722453,driven,從動的,,2012-11-26
+722454,drive shaft,主動軸，驅動軸,,2012-11-26
+722455,drive,主動，驅動,,2012-11-26
+722456,drift,漂移,,2012-11-26
+722457,drag-link mechanism,牽桿機構,,2012-11-26
+722458,drag-link,牽桿機構,,2012-11-26
+722459,double-slider mechanism,雙滑件機構,,2012-11-26
+722460,double-rocker,雙搖桿機構,,2012-11-26
+722461,double-rocker mechanism,雙搖桿機構,,2012-11-26
+722462,double-helical gear,人字齒輪,,2012-11-26
+722463,double-crank mechanism,雙曲柄機構,,2012-11-26
+722464,double thread,雙螺紋,,2012-11-26
+722465,double slider-crank mechanism,雙滑件曲柄機構,,2012-11-26
+722466,double point,二重點,,2012-11-26
+722467,double pendulum,雙擺,,2012-11-26
+722468,double Hooke's joint,雙十字接頭,,2012-11-26
+722469,double acting click,雙動掣子,,2012-11-26
+722470,double,雙的,,2012-11-26
+722471,distributed load,分布負載，連續負載,,2012-11-26
+722472,distributed force,分布力，連續力,,2012-11-26
+722473,distributed,分布的,,2012-11-26
+722474,distance,距離,,2012-11-26
+722475,distal,末端,,2012-11-26
+722476,dissipative force,散逸力,,2012-11-26
+722477,dissipation function,散逸函數,,2012-11-26
+722478,dissipation,散逸,,2012-11-26
+722479,displacement transducer,位移訊號轉換器,,2012-11-26
+722480,displacement matrix,位移矩陣,,2012-11-26
+722481,displacement equation,位移方程式,,2012-11-26
+722482,displacement,位移,,2012-11-26
+722483,displacement diagram,位移線圖,,2012-11-26
+722484,disk friction wheel,圓盤摩擦輪,,2012-11-26
+722485,disk cam,平板凸輪，盤形凸輪,,2012-11-26
+722486,disk,圓盤,,2012-11-26
+722487,discrete system,離散系統，集塊參數系統,,2012-11-26
+722488,disc cam,平板凸輪,,2012-11-26
+722489,direction,方向,,2012-11-26
+722490,direct task,正向計算（機器人）,,2012-11-26
+722491,direct strain,正應變,,2012-11-26
+722492,direct receptance,直接位移響應（振動）,,2012-11-26
+722493,direct mobility,直接速度響應（振動）,,2012-11-26
+722494,direct impact,直接碰撞，直接衝擊,,2012-11-26
+722495,direct contact,直接接觸,,2012-11-26
+722496,direct,直接的,,2012-11-26
+722497,dimensional synthesis,尺度合成,,2012-11-26
+722498,differential windlass,差動絞盤,,2012-11-26
+722499,differential transmission,差動傳動,,2012-11-26
+722500,differential screw,差動螺旋,,2012-11-26
+722501,differential mechanism,差動機構,,2012-11-26
+722502,differential constraint,微分拘束,,2012-11-26
+722503,differential,微分的，差動的,,2012-11-26
+722504,diametral plane,徑平面,,2012-11-26
+722506,diametral pitch,徑節,,2012-11-26
+722507,diameter,直徑,,2012-11-26
+722508,diagram,圖，線圖,,2012-11-26
+722509,device,裝置,,2012-11-26
+722510,developed surface,展開曲面,,2012-11-26
+722511,detuner,變諧器,,2012-11-26
+722512,deterministic force,可定力,,2012-11-26
+722513,detent,掣子,,2012-11-26
+722514,detachable chain,活鉤鏈,,2012-11-26
+722515,describing point,演生點,,2012-11-26
+722516,describing circle,演生圓,,2012-11-26
+722517,derivative control,微分控制,,2012-11-26
+722518,density,密度,,2012-11-26
+722519,delay,遲延,,2012-11-26
+722520,degree of freedom of a mechanism,機構之自由度,,2012-11-26
+722521,degree of freedom of a kinematic pair,運動對之自由度,,2012-11-26
+722522,degree of freedom of a kinematic chain,運動鏈之自由度,,2012-11-26
+722523,degree of freedom,自由度，可動度,,2012-11-26
+722524,degree of constraint,拘束度,,2012-11-26
+722525,degree,度，次,,2012-11-26
+722526,deformation,變形,,2012-11-26
+722527,deflection of plate,板之撓曲，板之變位,,2012-11-26
+722528,deflection of beam,梁之撓曲，梁之變位,,2012-11-26
+722529,deflection of a plate,板之撓曲，板之變位,,2012-11-26
+722530,deflection of a beam,梁之撓曲，梁之變位,,2012-11-26
+722531,deflection,撓曲，變位,,2012-11-26
+722532,dedendum circle,齒根圓,,2012-11-26
+722533,dedendum angle,齒根角,,2012-11-26
+722534,dedendum,齒根,,2012-11-26
+722535,decay,衰變，衰減,,2012-11-26
+722536,dead point,死點,,2012-11-26
+722537,dead load,固定負載,,2012-11-26
+722538,dead center/centre position,死點位置,,2012-11-26
+722539,dead beat escapement,無幌擒縱器,,2012-11-26
+722540,dead band,死帶,,2012-11-26
+722541,damping ratio,減振比,,2012-11-26
+722542,damping coefficient,阻尼係數,,2012-11-26
+722543,damping,阻尼,,2012-11-26
+722544,damper,阻尼器,,2012-11-26
+722545,d'Alembert's principle,d'Alembert 原理,,2012-11-26
+722546,d'Alembert force,慣性力,,2012-11-26
+722547,d'Alembert couple,慣性力偶,,2012-11-26
+722548,cylindrical shell,圓筒殼（力學）,,2012-11-26
+722549,cylindrical pair,圓柱〔運動〕對,,2012-11-26
+722550,cylindrical gear,圓柱齒輪,,2012-11-26
+722551,cylindrical friction wheel,圓柱形摩擦輪,,2012-11-26
+722552,cylindrical coordinate robot,圓柱坐標機器人,,2012-11-26
+722553,cylindrical cam,圓柱凸輪,,2012-11-26
+722554,cylindrical,圓柱形的,,2012-11-26
+722555,cylinder escapement,圓柱形擒縱器,,2012-11-26
+722556,cylinder,圓柱,,2012-11-26
+722557,cycloidal motion,擺線運動,,2012-11-26
+722558,cycloidal gear,擺線齒輪,,2012-11-26
+722559,cycloid/cycloidal curve,擺線,,2012-11-26
+722561,cyclic ignorable coordinate,可省略坐標,,2012-11-26
+722562,cyclic efficiency of machine,機器之循環效率,,2012-11-26
+722563,cyclic efficiency of a machine,機器之循環效率,,2012-11-26
+722565,cyclic coordinate,可省略坐標,,2012-11-26
+722566,cyclic,循環的,,2012-11-26
+722567,cycle,循環,,2012-11-26
+722568,cutting stroke,切削行程,,2012-11-26
+722569,cutting angle,切削角,,2012-11-26
+722570,cut-link,切桿，剪切桿,,2012-11-26
+722571,cusp circle,尖點圓,,2012-11-26
+722572,cusp,尖點,,2012-11-26
+722573,curvilinear motion,曲線運動,,2012-11-26
+722574,curved face cam follower,曲面從動件,,2012-11-26
+722575,curved bar,曲棒,,2012-11-26
+722576,curve family,曲線族,,2012-11-26
+722577,curve cognates,曲線同族連桿組,,2012-11-26
+722578,curve,曲線,,2012-11-26
+722579,curvature,曲率,,2012-11-26
+722580,curtate trochoid,短次擺線,,2012-11-26
+722581,cubic spline,三次樣條曲線,,2012-11-26
+722582,cubic of stationary curvature,瞬時圓周點曲線／具穩定曲率之三次曲線,,2012-11-26
+722583,cubic curve,三次曲線,,2012-11-26
+722584,cubic,三次的，三次曲線,,2012-11-26
+722585,crowning of pulley,皮帶輪面的隆起,,2012-11-26
+722586,crowned pulley,隆面皮帶輪,,2012-11-26
+722587,crown gear,冠齒輪,,2012-11-26
+722588,cross-slider,交叉滑件,,2012-11-26
+722589,crossover,交越,,2012-11-26
+722590,crosshead,十字頭,,2012-11-26
+722591,crossed helical gear,交錯螺旋齒輪,,2012-11-26
+722592,crossed belt,交叉皮帶,,2012-11-26
+722593,crossed,交叉的，交錯的,,2012-11-26
+722594,cross receptance,交叉位移響應（振動）,,2012-11-26
+722595,critical speed,臨界速率,,2012-11-26
+722596,critical load,臨界負載,,2012-11-26
+722597,critical force,臨界力,,2012-11-26
+722598,critical damping,臨界阻尼,,2012-11-26
+722599,critical,臨界的,,2012-11-26
+722600,crescent chain,月牙形鏈,,2012-11-26
+722601,creep,潛變,,2012-11-26
+722602,crank-gear dwell mechanism,曲柄齒輪暫停機構（球面）,,2012-11-26
+722603,crank-and-rocker mechanism/crank-rocker,曲柄搖桿機構/曲柄搖桿,,2012-11-26
+722604,crank-and-rocker mechanism,曲柄搖桿機構,,2012-11-26
+722605,crank end dead center/centre position,曲柄端死點位置,,2012-11-26
+722606,crank,曲柄,,2012-11-26
+722607,coupling,聯結器，聯軸器,,2012-11-26
+722608,coupler point,耦桿點,,2012-11-26
+722609,coupler link,耦桿,,2012-11-26
+722610,coupler dwell mechanism,耦桿暫停機構,,2012-11-26
+722611,coupler point curve,耦桿點曲線,,2012-11-26
+722612,coupler curve,耦桿點曲線,,2012-11-26
+722613,coupler cognates,耦桿同族連桿組,,2012-11-26
+722614,coupler,耦桿,,2012-11-26
+722615,coupled modes,耦合模態（振動）,,2012-11-26
+722616,couple,力偶,,2012-11-26
+722617,counter shaft,對軸，副軸，中間軸,,2012-11-26
+722618,correlated positions,相關位置,,2012-11-26
+722619,correlated points,相關點,,2012-11-26
+722620,correlated lines,相關線,,2012-11-26
+722621,correlated,相關的,,2012-11-26
+722622,Coriolis force,Coriolis力,,2012-11-26
+722623,Coriolis acceleration,Coriolis加速度,,2012-11-26
+722624,cord,繩，索,,2012-11-26
+722626,coplanar system,共面系統,,2012-11-26
+722628,coplanar force system,共面力系,,2012-11-26
+722629,coplanar,共面,,2012-11-26
+722630,coordinate system,坐標系,,2012-11-26
+722631,coordinate,坐標,,2012-11-26
+722632,conveyor chain,輸送鏈,,2012-11-26
+722633,controller,控制器,,2012-11-26
+722634,controlled variable,控制變數,,2012-11-26
+722635,control ratio,控制比，閉迴路諧波響應,,2012-11-26
+722637,control element,控制元件,,2012-11-26
+722638,control,控制,,2012-11-26
+722639,continuum,連體,,2012-11-26
+722640,continuous-path control,連續路徑控制,,2012-11-26
+722641,continuous variable speed transmission,無段變速器,,2012-11-26
+722642,continuous variable speed,無段變速,,2012-11-26
+722643,continuous system (continuum),連續系統（連體）,,2012-11-26
+722644,continuous system,連續系統,,2012-11-26
+722645,continuous motion,連續運動,,2012-11-26
+722646,continuous load,連續負載，分布負載,,2012-11-26
+722647,continuous force,連續力，分布力,,2012-11-26
+722648,continuous beam,連續梁,,2012-11-26
+722649,continuous,連續的,,2012-11-26
+722650,contingence angle,切線角,,2012-11-26
+722651,contact ratio,接觸率,,2012-11-26
+722652,contact length,接觸線長度,,2012-11-26
+722653,contact,接觸,,2012-11-26
+722654,constraint,拘束,,2012-11-26
+722655,constrained motion,拘束運動,,2012-11-26
+722656,constrained kinematic chain,拘束運動鏈,,2012-11-26
+722657,constrained,拘束的,,2012-11-26
+722658,constant speed curve,等速曲線（球面）,,2012-11-26
+722659,constant diameter cam,定徑凸輪,,2012-11-26
+722661,constant breadth cam,定寬凸輪,,2012-11-26
+722662,constant,不變（的）,,2012-11-26
+722663,conservative force,守恆力，保守力,,2012-11-26
+722665,conservative field of force,守恆力場,,2012-11-26
+722666,conservative,守恆的,,2012-11-26
+722667,conservation,守恆,,2012-11-26
+722668,connectivity of kinematic pair,運動對之自由度,,2012-11-26
+722669,connectivity of a kinematic pair,運動對之自由度,,2012-11-26
+722670,connecting shaft,聯接軸,,2012-11-26
+722671,connecting rod,聯接桿,,2012-11-26
+722672,connecting link,聯接桿，耦桿,,2012-11-26
+722673,conjugate position,共軛位置,,2012-11-26
+722674,conjugate curves,共軛曲線,,2012-11-26
+722675,conjugate curve,共軛曲線,,2012-11-26
+722676,conjugate action,共軛作用,,2012-11-26
+722677,conjugate,共軛的,,2012-11-26
+722678,conical gear,錐形齒輪,,2012-11-26
+722679,conical friction wheel,錐形摩擦輪,,2012-11-26
+722680,conical cam,錐形凸輪,,2012-11-26
+722681,conical,錐形的,,2012-11-26
+722682,conic section point curve,圓錐曲線點曲線,,2012-11-26
+722683,configuration,構形，組態,,2012-11-26
+722684,cone pulley,圓錐輪,,2012-11-26
+722685,cone of friction,摩擦力圓錐,,2012-11-26
+722686,cone distance,圓錐距離,,2012-11-26
+722687,cone,圓錐,,2012-11-26
+722688,condition,條件,,2012-11-26
+722689,concurrent force system,共點力系,,2012-11-26
+722690,concentrated force,集中力,,2012-11-26
+722691,concealed motion,隱藏運動,,2012-11-26
+722692,compressor,壓縮機,,2012-11-26
+722693,compressive force,壓縮力,,2012-11-26
+722694,compression wave,壓縮波，應力波,,2012-11-26
+722695,compression period,壓縮期,,2012-11-26
+722696,compression member,壓縮件,,2012-11-26
+722697,compression,壓縮,,2012-11-26
+722698,compound screw,複式螺旋,,2012-11-26
+722699,compound pendulum,複擺,,2012-11-26
+722700,compound gear train,複系齒輪系,,2012-11-26
+722704,compound  gear,複式齒輪,,2012-11-26
+722705,compound,複式,,2012-11-26
+722706,component,分量,,2012-11-26
+722707,compliance,順從性,,2012-11-26
+722709,complex response,1.複數響應；2.阻尼線性系統之諧波響應,,2012-11-26
+722710,complex number,複數,,2012-11-26
+722711,complex linkage mechanism,複合連桿機構,,2012-11-26
+722712,complex excitation,複數激勵，複數激發,,2012-11-26
+722714,complex,複數,,2012-11-26
+722715,compatibility equation,相容方程式,,2012-11-26
+722716,column,柱,,2012-11-26
+722717,command,指令,,2012-11-26
+722718,Columb friction,Columb摩擦,,2012-11-26
+722719,collineation great circle,直射大圓（球面）,,2012-11-26
+722720,collineation axis,直射軸線,,2012-11-26
+722721,collar,軸環,,2012-11-26
+722722,coil chain,套環鏈,,2012-11-26
+722723,cognate mechanism,同族機構,,2012-11-26
+722724,cognate linkages,同族連桿組,,2012-11-26
+722725,cognate,同族的,,2012-11-26
+722726,coefficient of static friction,靜摩擦係數,,2012-11-26
+722727,coefficient of restitution,恢復係數,,2012-11-26
+722728,coefficient of profile shifting,齒廓移位係數,,2012-11-26
+722730,coefficient of non-uniformity of motion,不等速運動係數,,2012-11-26
+722731,coefficient of kinetic friction,動摩擦係數,,2012-11-26
+722732,coefficient of friction,摩擦係數,,2012-11-26
+722733,coefficient,係數,,2012-11-26
+722734,coarse pitch,粗牙（螺紋），粗齒（齒輪）徑節,,2012-11-26
+722735,clutch,離合器,,2012-11-26
+722736,closure of kinematic pair,運動對之閉合,,2012-11-26
+722737,closure of a kinematic pair,運動對之閉合,,2012-11-26
+722738,close-loop control system,閉迴路控制系統,,2012-11-26
+722740,closed-loop harmonic response,控制比，閉迴路諧波響應,,2012-11-26
+722741,closed-loop control system,閉迴路控制系統,,2012-11-26
+722742,closed-loop control,閉迴路控制,,2012-11-26
+722743,closed-loop,閉迴路,,2012-11-26
+722744,closed-form solution,閉合解,,2012-11-26
+722745,closed spherical curve,球面閉曲線,,2012-11-26
+722746,closed kinematic chain,閉運動鏈，封閉運動鏈,,2012-11-26
+722748,closed curve,閉曲線，封閉曲線,,2012-11-26
+722749,closed chain,閉鏈，封閉鏈,,2012-11-26
+722750,close joint chain,緊節鏈,,2012-11-26
+722751,clearance circle,底隙圓,,2012-11-26
+722752,click,掣子，扣夾,,2012-11-26
+722754,clearance,間隙，餘隙，底隙,,2012-11-26
+722755,class,類,,2012-11-26
+722756,circular quartic,圓點四次曲線,,2012-11-26
+722757,circular point,圓點,,2012-11-26
+722759,circular pitch,周節,,2012-11-26
+722760,circular motion,圓周運動,,2012-11-26
+722761,circular curve,圓點曲線,,2012-11-26
+722762,circular cubic,圓點三次曲線,,2012-11-26
+722763,circular arc cam,圓弧確動凸輪,,2012-11-26
+722765,circling-point curve,瞬時圓周點曲線,,2012-11-26
+722766,circle-point curve,圓周點曲線,,2012-11-26
+722767,circle-point circle,圓周點圓,,2012-11-26
+722768,circle-point,圓周點,,2012-11-26
+722769,circle point,圓周點,,2012-11-26
+722770,circle of curvature,曲率圓,,2012-11-26
+722771,circle,圓,,2012-11-26
+722772,chronometer escapement,精密時計擒縱器,,2012-11-26
+722773,chrome-tanned belt,鉻鞣製皮帶,,2012-11-26
+722774,chordal action,弦線作用,,2012-11-26
+722775,Chebyshev spacing of precision points,精確點之Chebyshev分佈,,2012-11-26
+722776,Chebyshev polynomial,Chebyshev多項式,,2012-11-26
+722777,Chebyshev minimax theorem,Chebyshev極小極大原理,,2012-11-26
+722778,characteristic number,特徵數，示性數,,2012-11-26
+722780,characteristic mode,特徵模態，固有模態,,2017-07-28
+722781,characteristic,特徵的,,2012-11-26
+722782,change point mechanism,可變構機構,,2012-11-26
+722783,change point,變構點,,2012-11-26
+722784,chain tightener,緊鏈器,,2012-11-26
+722785,chain tensioner,緊鏈器,,2012-11-26
+722786,chain pitch,鏈節〔距〕,,2012-11-26
+722787,chain hoist,鏈吊車,,2012-11-26
+722788,chain drive,鏈條傳動,,2012-11-26
+722789,chain,鏈，鏈條,,2012-11-26
+722790,centroid,形心,,2012-11-26
+722791,centrode tangent,極心線切線，瞬心線切線,,2012-11-26
+722792,centrode,極心線，瞬心線,,2012-11-26
+722793,centro polygon,瞬心多邊形,,2012-11-26
+722794,centro,極心，瞬心,,2012-11-26
+722795,centripetal force,向心力,,2012-11-26
+722796,centripetal acceleration,向心加速度,,2012-11-26
+722797,centripetal,向心的,,2012-11-26
+722798,centring-point/centering-point curve,瞬時圓心點曲線,,2012-11-26
+722799,centrifugal force,離心力,,2012-11-26
+722800,centrifugal acceleration,離心加速度,,2012-11-26
+722801,centre-point/center-point curve,圓心點曲線,,2012-11-26
+722802,centre-point/center-point circle,圓心點圓,,2012-11-26
+722803,centre-point/center-point,圓心點,,2012-11-26
+722804,centre/center point,圓心點,,2012-11-26
+722805,centre/center of twist,扭轉中心,,2012-11-26
+722806,centre of mass,質量中心，質心,,2012-11-26
+722807,centre of gravity / center of gravity,重心,,2012-11-26
+722808,central swinging block linkage,中央搖塊連桿組,,2012-11-26
+722809,central slider-crank mechanism,心央滑件曲柄機構,,2012-11-26
+722810,central slider-crank,中央滑件曲柄機構,,2012-11-26
+722811,central oscillating cylinder linkage,中央擺動汽缸連桿組,,2012-11-26
+722812,central motion,中心運動,,2012-11-26
+722814,central impact,中心碰撞，中心衝擊,,2012-11-26
+722815,central force,中心力,,2012-11-26
+722816,central ellipsoid of inertia,質心慣性橢球面,,2012-11-26
+722817,central curve,中央曲線（球面）,,2012-11-26
+722818,central crank-rocker,中央曲柄搖桿,,2012-11-26
+722819,central crank,中央曲柄搖桿,,2012-11-26
+722820,central axis,中心軸線,,2012-11-26
+722821,central,中心的,,2012-11-26
+722822,centering-point/centring-point curve,瞬時圓心點曲線,,2012-11-26
+722823,centering-point curve,瞬時圓心點曲線,,2012-11-26
+722825,center/centre of twist,扭轉中心,,2012-11-26
+722826,center/centre of percussion,撞心，撞擊中心,,2012-11-26
+722828,center/centre of mass,質心，質量中心,,2012-11-26
+722829,center/centre of gravity,重心,,2012-11-26
+722830,center/centre distance,中心距,,2012-11-26
+722831,center/centre,中心,,2012-11-26
+722832,Cartesian space,直角坐標空間,,2012-11-26
+722833,Cartesian rectangular coordinate system,直角坐標系,,2012-11-26
+722834,Cartesian coordinate robot,直角坐標機器人,,2012-11-26
+722835,Carter-Hall circle,Carter-Hall圓,,2012-11-26
+722836,carrier,行星〔托〕架,,2012-11-26
+722837,cardioid motion,心臟線運動,,2012-11-26
+722838,cardioid,心臟線,,2012-11-26
+722839,cardinal point,主點,,2012-11-26
+722840,cardinal line,主線,,2012-11-26
+722841,Cardan shaft,Cardan軸,,2012-11-26
+722842,Cardan position,Cardan位置,,2012-11-26
+722844,Cardan joint,Cardan萬向接頭,,2012-11-26
+722845,Cardan circles,Cardan圓組,,2012-11-26
+722846,Cardan circle pair,Cardan圓組,,2012-11-26
+722847,cantilever beam,懸臂梁,,2012-11-26
+722848,canonical variable,正準變數,,2012-11-26
+722850,canonical system,正準坐標系，正則坐標系,,2012-11-26
+722851,camshaft,凸輪軸,,2012-11-26
+722852,cam-linkage mechanism,凸輪連桿機構,,2012-11-26
+722853,cam profile,凸輪輪廓,,2012-11-26
+722854,cam pair,凸輪對,,2012-11-26
+722855,cam mechanism,凸輪機構,,2012-11-26
+722856,cam follower,凸輪從動件,,2012-11-26
+722857,cam flank,凸輪腹,,2012-11-26
+722858,cam,凸輪，轗,,2012-11-26
+722859,cable,索，纜,,2012-11-26
+722860,bushing chain,套筒鏈,,2012-11-26
+722861,Burmester point-pair,Burmester點組,,2012-11-26
+722862,Burmester point,Burmester點,,2012-11-26
+722864,Burmester curves,Burmester曲線,,2012-11-26
+722865,Burmester centre/center,Burmester圓心點,,2012-11-26
+722866,buckling of plate,板之皺曲,,2012-11-26
+722867,buckling of bar,棒之屈曲,,2012-11-26
+722868,buckling of a plate,板之皺曲,,2012-11-26
+722869,buckling of a bar,棒之屈曲,,2012-11-26
+722870,buckling,屈曲，皺曲，側潰,,2012-11-26
+722871,Bresse's circles,Bresse圓,,2012-11-26
+722872,Bresse normal circle,切線圓,,2012-11-26
+722873,break-ups,分解,,2012-11-26
+722874,boundary condition,邊界條件,,2012-11-26
+722875,bottom land,齒底,,2012-11-26
+722876,body force,物體力,,2012-11-26
+722877,Bobillier construction,Bobillier構圖法,,2012-11-26
+722878,block chain,塊環鏈,,2012-11-26
+722879,bitangent,雙切線,,2012-11-26
+722880,bipolar coordinates,雙極坐標,,2012-11-26
+722881,binary link,雙接頭桿,,2012-11-26
+722882,bilateral manipulator,等力主從式機械臂,,2012-11-26
+722883,bilateral constraint,雙向拘束，可逆拘束,,2012-11-26
+722884,bicursal coupler curve,兩段式耦桿點曲線,,2012-11-26
+722885,bicircular curve,二重圓點曲線,,2012-11-26
+722886,bias,偏差值，預設值,,2012-11-26
+722887,bevel gear differential,斜齒輪差速器；傘齒輪差速器,,2012-11-26
+722888,bevel gear,傘齒輪,,2012-11-26
+722889,bending stiffness,抗彎剛性，抗彎勁度,,2012-11-26
+722891,bending moment,彎曲力矩,,2012-11-26
+722892,bending,彎曲,,2012-11-26
+722893,belt,皮帶,,2012-11-26
+722894,belting,皮帶傳動,,2012-11-26
+722895,bell crank lever,雙臂曲柄桿,,2012-11-26
+722896,beat,拍（振動）,,2012-11-26
+722897,bearing force,接頭力，軸承力,,2012-11-26
+722898,bearing,軸承,,2012-11-26
+722899,beam,梁,,2012-11-26
+722900,beak cusp,鳥嘴狀尖點,,2012-11-26
+722901,basic rack,基準齒條,,2012-11-26
+722902,basic pole,基本極心,,2012-11-26
+722903,base point,基點,,2012-11-26
+722905,base pitch,基節,,2012-11-26
+722906,base cylinder,基圓柱面,,2012-11-26
+722907,base curve,基曲線,,2012-11-26
+722908,base coordinate system,基座坐標系,,2012-11-26
+722909,base circle of cam,凸輪的基圓,,2012-11-26
+722910,base circle of an involute,漸開線的基圓,,2012-11-26
+722911,base circle,基圓,,2012-11-26
+722912,base,基座，機座，底座,,2012-11-26
+722913,barrel cam,圓桶凸輪,,2012-11-26
+722914,bar,桿，棒,,2012-11-26
+722915,bandwidth,頻寬,,2012-11-26
+722916,band,帶,,2012-11-26
+722917,ball screw,滾珠螺桿,,2012-11-26
+722918,Ball point,Ball點,,2012-11-26
+722919,Ball curve,Ball曲線,,2012-11-26
+722920,Ball centre/center,Ball圓心點,,2012-11-26
+722921,balancing,均衡，平衡,,2012-11-26
+722922,balanced mechanism,已均衡機構，已平衡機構,,2012-11-26
+722923,balance,均衡，平衡,,2012-11-26
+722924,backlash,背隙,,2012-11-26
+722925,back gear,背齒輪,,2012-11-26
+722926,back cone radius,背圓錐半徑,,2012-11-26
+722927,back cone distance,背圓錐距離,,2012-11-26
+722928,back cone,背圓錐,,2012-11-26
+722929,back component,背圓錐距離（齒輪）,,2012-11-26
+722930,azimuth,方位角,,2012-11-26
+722931,axode,軸線面,,2012-11-26
+722932,axis of symmetry,對稱軸線,,2012-11-26
+722933,axis of rotation,旋轉軸線,,2012-11-26
+722934,axis,軸線,,2012-11-26
+722935,axial thrust,軸向推力,,2012-11-26
+722936,axial tension,軸向拉力,,2012-11-26
+722937,axial pitch,軸向節距,,2012-11-26
+722938,axial force,軸向力,,2012-11-26
+722939,axial,軸向,,2012-11-26
+722940,axes,軸線,,2012-11-26
+722941,average,平均 〔的〕,,2012-11-26
+722942,automatic transmission,自動變速器，自排變速箱（車輛）,,2012-11-26
+722943,automatic controller,自動控制器,,2012-11-26
+722944,automatic control system,自動控制系統,,2012-11-26
+722945,automatic,自動 〔的〕,,2012-11-26
+722946,attenuation,衰減,,2012-11-26
+722947,asymptote,漸近線,,2012-11-26
+722948,Assur group,Assur群,,2012-11-26
+722949,assembly position,組合位置,,2012-11-26
+722950,Aronhold-Kennedy theorem,Aronhold-Kennedy定理，三心定理,,2012-11-26
+722951,arm,臂，行星架（齒輪組）,,2012-11-26
+722952,Archimedes spiral,Archimedes蝸線,,2012-11-26
+722953,arch,拱形件,,2012-11-26
+722954,arc of recess,漸遠弧,,2012-11-26
+722955,arc of contact,接觸弧,,2012-11-26
+722956,arc of approach,漸近弧,,2012-11-26
+722957,arc of action,作用弧,,2012-11-26
+722958,arc,弧,,2012-11-26
+722959,approaching side,進入側，漸近側（齒輪）,,2012-11-26
+722961,applied force,作用力，外力,,2012-11-26
+722962,apparent motion,顯現運動,,2012-11-26
+722963,aperiodic motion,非週期性運動,,2012-11-26
+722965,antipode,對蹠點（球面）,,2012-11-26
+722966,antinode,反節點，波腹,,2012-11-26
+722967,anthropomorphic robot,擬人關節型機器人,,2012-11-26
+722968,annulus,環齒輪，內齒輪,,2012-11-26
+722969,annular gear,環齒輪,,2012-11-26
+722970,anisotropy,異向性,,2012-11-26
+722971,angular velocity vector,角速度向量,,2012-11-26
+722972,angular velocity tetrahedron,角速度四面體（球面）,,2012-11-26
+722973,angular velocity ratio,角速比,,2012-11-26
+722974,angular velocity polygon,角速度多邊形,,2012-11-26
+722975,angular velocity,角速度,,2012-11-26
+722976,angular speed,角速率,,2012-11-26
+722977,angular motion,角運動,,2012-11-26
+722978,angular momentum,角動量,,2012-11-26
+722979,angular displacement,角位移,,2012-11-26
+722980,angular acceleration,角加速度,,2012-11-26
+722981,angular,角(的),,2012-11-26
+722982,angle of twist,扭轉角,,2012-11-26
+722983,angle of torsion,扭轉角,,2012-11-26
+722984,angle of rotation,旋轉角,,2012-11-26
+722985,angle of recess,漸遠角,,2012-11-26
+722986,angle of friction,摩擦角,,2012-11-26
+722987,angle of deformation,變形角,,2012-11-26
+722988,angle of contact,接觸角,,2012-11-26
+722989,angle of approach,漸近角,,2012-11-26
+722990,angle of action,作用角,,2012-11-26
+722991,angle,角,,2012-11-26
+722992,android,類人形機器人,,2012-11-26
+722993,anchor escapement,錨形擒縱器,,2012-11-26
+722994,analysis,分析,,2012-11-26
+722995,analytical method,解析法,,2012-11-26
+722996,amplitude,振幅,,2012-11-26
+722997,alternating load,交變負載,,2012-11-26
+722998,algebraic envelope,代數包絡線,,2012-11-26
+722999,adjustable mechanism,可調整機構,,2012-11-26
+723000,addendum circle,齒冠圓,,2012-11-26
+723001,addendum angle,齒冠角,,2012-11-26
+723002,addendum,齒冠,,2012-11-26
+723003,adaptive control,適應控制,,2012-11-26
+723004,actuator,致動器,,2012-11-26
+723005,actuating signal ratio,致動訊號比,,2012-11-26
+723006,actuating signal,致動訊號,,2012-11-26
+723007,actuating,致動,,2012-11-26
+723008,active system,主動系統,,2012-11-26
+723009,active force,（主動）作用力,,2012-11-26
+723010,active device,主動裝置,,2012-11-26
+723011,active accommodation,主動補償,,2012-11-26
+723012,active,主動,,2012-11-26
+723013,acting pressure angle,作用壓力角,,2012-11-26
+723014,acting pitch diameter,作用節徑,,2012-11-26
+723015,acting pitch circle,作用節圓,,2012-11-26
+723016,acting flank,作用齒腹,,2012-11-26
+723017,acting circular pitch,作用周節,,2012-11-26
+723018,accuracy,精度，準確度,,2012-11-26
+723019,accommodation,補償,,2012-11-26
+723020,accelerometer,加速規，加速度計,,2012-11-26
+723021,acceleration polygon,加速度多邊形,,2012-11-26
+723022,acceleration pole,加速度中心,,2012-11-26
+723023,acceleration of pole,極心加速度,,2012-11-26
+723024,acceleration matrix,加速度矩陣,,2012-11-26
+723025,acceleration image,加速度像,,2012-11-26
+723026,acceleration due to gravity,重力加速度,,2012-11-26
+723027,acceleration diagram,加速度向量圖,,2012-11-26
+723028,acceleration curve,加速度曲線,,2012-11-26
+723029,acceleration axis,加速度軸線,,2012-11-26
+723030,acceleration analysis,加速度分析,,2012-11-26
+723031,acceleration,加速度,,2012-11-26
+723032,absorber,避震器，減震器,,2012-11-26
+723033,absolute velocity,絕對速度,,2012-11-26
+723034,absolute motion,絕對運動,,2012-11-26
+723035,absolute acceleration,絕對加速度,,2012-11-26
+723036,absolute,絕對,,2012-11-26
+940634,redundant,多餘的,,2012-11-26
+940635,redundant constraint,多餘拘束,,2012-11-26
+940636,redundant degree of freedom,多餘自由度,,2012-11-26
+940637,redundant mobility of a robot,機器人之多餘可動度,,2012-11-26
+940638,redundant mobility of robot,機器人之多餘可動度,,2012-11-26
+940639,reference circle,基準圓（齒輪）,,2012-11-26
+940640,reference input,基準輸入,,2012-11-26
+940641,reference point,基準點,,2012-11-26
+940642,regular precession,等速進動，等速擾轉,,2012-11-26
+940643,regulator,調整器,,2012-11-26
+940644,relative,相對的,,2012-11-26
+940645,relative acceleration,相對加速度,,2012-11-26
+940646,relative Burmester point,相對Burmester點,,2012-11-26
+940648,relative centre/center-point curve,相對圓心點曲線,,2012-11-26
+940649,relative centre-point/center-point curve,相對圓心點曲線,,2012-11-26
+940650,relative circle-point curve,相對圓周點曲線,,2012-11-26
+940651,relative coordinate system,相對坐標系,,2012-11-26
+940652,relative displacement,相對位移,,2012-11-26
+940653,relative force,相對力,,2012-11-26
+940654,relative motion,相對運動,,2012-11-26
+940655,relative pole,相對極心,,2012-11-26
+940656,relative polode,相對極心線，相對瞬心線,,2012-11-26
+940657,relative screw motion,相對螺旋運動,,2012-11-26
+940658,relative velocity,相對速度,,2012-11-26
+940660,relaxation time,鬆弛時間,,2012-11-26
+940661,remote centre/center compliance,終端對位順從器（機器人）,,2012-11-26
+940662,repeatability,重現性（機器人）,,2012-11-26
+940663,resolution,解析度,,2012-11-26
+940665,resolved-motion rate control,軸關節速率控制（機器人）,,2012-11-26
+940666,resonance,共振,,2012-11-26
+940667,resonance frequency,共振頻率,,2012-11-26
+940668,response,響應,,2012-11-26
+940669,response time,響應時間,,2012-11-26
+940671,restitution period,恢復期,,2012-11-26
+940672,resultant force,合力,,2012-11-26
+940673,resultant moment,合力矩,,2012-11-26
+940674,retaining click,羈留掣子，定位扣夾,,2012-11-26
+940675,retaining pawl,羈留爪,,2012-11-26
+940676,retardation,減速度,,2012-11-26
+940677,return circle,折返圓,,2012-11-26
+940678,return curve,折返曲線（球面）,,2012-11-26
+940679,return pole,折返中心,,2012-11-26
+940680,return spring,回動彈簧,,2012-11-26
+940681,return stroke,退回行程,,2012-11-26
+940682,reverted gear train,回歸齒輪系,,2012-11-26
+940683,revolute pair,旋轉〔運動〕對,,2012-11-26
+940684,rheonomic constraint,時間性拘束,,2012-11-26
+940685,rheonomic system,時間性拘束系統,,2012-11-26
+940686,right hand rule,右手定則,,2012-11-26
+940687,right handed screw,右手螺旋,,2012-11-26
+940688,right-handed thread,右旋螺旋,,2012-11-26
+940689,rigid body,剛體,,2012-11-26
+940690,rigid body guidance,剛體導引,,2012-11-26
+940691,rigid member,剛性件,,2012-11-26
+940692,rigidity,剛性，剛度,,2012-11-26
+940693,ring gear,環齒輪,,2012-11-26
+940694,rise time,上升時間,,2012-11-26
+940695,robot,機器人,,2012-11-26
+940696,robot system,機器人系統,,2012-11-26
+940697,robotics,機器人學,,2012-11-26
+940698,rocker,搖桿,,2012-11-26
+940699,rod,桿,,2012-11-26
+940700,roller,滾子,,2012-11-26
+940701,roller [cam]follower,滾子從動件,,2012-11-26
+940702,roller chain,滾子鏈,,2012-11-26
+940703,roller friction wheel,滾子摩擦輪,,2012-11-26
+940704,roller support,滾子支座,,2012-11-26
+940705,roller-gear cam mechanism,滾子齒輪凸輪機構,,2012-11-26
+940706,rolling,滾動的,,2012-11-26
+940707,rolling contact,滾動接觸,,2012-11-26
+940708,rolling friction,滾動摩擦,,2012-11-26
+940709,rolling load,滾動負載,,2012-11-26
+940710,rolling motion,滾動,,2012-11-26
+940711,root,1.根；2.齒根（齒輪）,,2012-11-26
+940712,root angle,齒根角,,2012-11-26
+940713,root circle,齒根圓,,2012-11-26
+940714,root cone,齒根圓錐,,2012-11-26
+940715,root diameter,根徑,,2012-11-26
+940716,root-mean-square value,均方根值,,2012-11-26
+940717,rope,繩索　,,2012-11-26
+940718,rope drive,繩傳動,,2012-11-26
+940719,rotary cylinder engine,旋缸式引擎,,2012-11-26
+940720,rotating,旋轉的,,2012-11-26
+940721,rotation,旋轉,,2012-11-26
+940722,sag,鬆垂,,2012-11-26
+940723,sandwich,夾層,,2012-11-26
+940724,sandwich pair,平面〔運動〕對,,2012-11-26
+940725,sandwich structure,夾層結構,,2012-11-26
+940726,scalar,純量,,2012-11-26
+940727,scalar quantity,純量,,2012-11-26
+940728,scale,1.天平；2.比例尺,,2012-11-26
+940729,scale factor,比例因子，比例因數,,2012-11-26
+940730,sceleronomic constraint,非時間性拘束,,2012-11-26
+940731,sceleronomic system,非時間性拘束系統,,2012-11-26
+940732,Scotch-yoke mechanism,蘇格蘭軛機構,,2012-11-26
+940733,screw,1.螺旋；2.螺桿；3.螺釘,,2012-11-26
+940734,screw axis,螺旋軸線,,2012-11-26
+940735,screw gearing,螺旋齒輪傳動,,2012-11-26
+940736,screw mechanism,螺旋機構,,2012-11-26
+940737,screw motion,螺旋運動,,2012-11-26
+940738,screw pair,螺旋〔運動〕對,,2012-11-26
+940740,screw pitch,螺距,,2012-11-26
+940741,screw thread,螺紋,,2012-11-26
+940742,screw thread diameter,螺紋直徑,,2012-11-26
+940743,second acceleration,次加速度，急跳度,,2012-11-26
+940744,second angular acceleration,次角加速度，角急跳度,,2012-11-26
+940745,second order synthesis,二階合成,,2012-11-26
+940746,secondary axes,方位軸線（機器人）,,2012-11-26
+940747,self-locking mechanism,自鎖機構,,2012-11-26
+940748,sense,1.指向；2.感度（機器人）,,2012-11-26
+940749,sensitivity,敏感度,,2012-11-26
+940750,sensor,感測器,,2012-11-26
+940751,sequential control,順序控制,,2012-11-26
+940752,servomechanism,伺服機構,,2012-11-26
+940753,servosystem,伺服系統,,2012-11-26
+940755,settling time,安定時間,,2012-11-26
+940756,shaft,軸,,2012-11-26
+940757,shaft angle,軸交角,,2012-11-26
+940758,shake,搖動,,2012-11-26
+940759,shaking force,搖撼力,,2012-11-26
+940760,shear,剪,,2012-11-26
+940761,shear center,剪力中心,,2012-11-26
+940762,shear centre,剪力中心,,2012-11-26
+940763,shear force,剪力,,2012-11-26
+940764,shear modulus,剛性模數,,2012-11-26
+940765,shear strain,剪應變,,2012-11-26
+940766,shear stress,剪應力,,2012-11-26
+940767,shear wave,剪力波,,2012-11-26
+940768,shearing force,剪力,,2012-11-26
+940769,sheave,槽輪,,2012-11-26
+940771,shock,陡震,,2012-11-26
+940772,shock wave,陡震波,,2012-11-26
+940773,short addendum system,短齒冠制,,2012-11-26
+940774,shoulder,肩接頭（機器人）,,2012-11-26
+940775,shuttle shaped cam follower,梭狀從動件,,2012-11-26
+940776,signal,訊號,,2012-11-26
+940777,silent chain,無聲鏈,,2012-11-26
+940778,simple,簡單的,,2012-11-26
+940779,simple closed kinematic chain,單迴路運動鍊,,2012-11-26
+940780,simple gear train,單式齒輪系,,2012-11-26
+940781,simple harmonic motion,簡諧運動,,2012-11-26
+940782,simple harmonic quantity,簡諧量,,2012-11-26
+940783,simple pendulum,單擺,,2012-11-26
+940784,simple support,簡支座,,2012-11-26
+940785,simply-supported beam,簡支梁,,2012-11-26
+940786,single thread,單螺紋,,2012-11-26
+940787,singular configuration,奇異構形,,2012-11-26
+940788,singular focus,奇焦點,,2012-11-26
+940789,singular point,奇點,,2012-11-26
+940790,sinusoidal vibration,正弦振動,,2012-11-26
+940791,six-bar linkage,六連桿組,,2012-11-26
+940792,six-bar mechanism,六連桿機構,,2012-11-26
+940793,skeleton,機構骨架圖,,2012-11-26
+940794,skew bevel gear,歪傘齒輪,,2012-11-26
+940795,slack side,鬆邊,,2012-11-26
+940796,slenderness ratio of a bar,棒之細長比,,2012-11-26
+940797,slenderness ratio of bar,棒之細長比,,2012-11-26
+940798,slide,導軌,,2012-11-26
+940799,slider,滑件,,2012-11-26
+940800,slider-crank,滑件曲柄,,2012-11-26
+940801,slider-crank mechanism,滑件曲柄機構,,2012-11-26
+940802,sliding,滑動,,2012-11-26
+940803,sliding block,滑塊,,2012-11-26
+940804,sliding block linkage,滑塊連桿組,,2012-11-26
+940805,sliding contact,滑動接觸,,2012-11-26
+940806,sliding friction,動摩擦,,2012-11-26
+940807,sliding motion,滑動,,2012-11-26
+940808,sliding pair,滑動對,,2012-11-26
+940809,sliding slot linkage,滑槽連桿組,,2012-11-26
+940810,slip,滑移,,2012-11-26
+940811,slip sense,滑移感度（機器人）,,2012-11-26
+940812,smooth support,光滑支座,,2012-11-26
+940813,snubber,減震器,,2012-11-26
+940814,source linkage,起源連桿組,,2012-11-26
+940815,source mechanism,起源機構,,2012-11-26
+940816,space mechanism,空間機構,,2012-11-26
+940817,span of a beam,梁之跨距,,2012-11-26
+940818,span of beam,梁之跨距,,2012-11-26
+940819,spatial cam,空間凸輪,,2012-11-26
+940820,spatial cam mechanism,空間凸輪機構,,2012-11-26
+940821,spatial mechanism,空間機構,,2012-11-26
+940822,spatial force system,空間力系,,2012-11-26
+940823,spatial linkage,空間連桿組,,2012-11-26
+940824,spatial mechanism,空間機構,,2012-11-26
+940825,spatial motion,空間運動,,2012-11-26
+940826,spatial system,空間系統,,2012-11-26
+940827,specific sliding,滑率（齒輪）,,2012-11-26
+940828,spectrum,光譜，頻譜,,2012-11-26
+940829,speed,速率,,2012-11-26
+940830,speed cone,錐形皮帶輪,,2012-11-26
+940831,speed ratio,速比,,2012-11-26
+940832,speed reducer,減速器,,2012-11-26
+940833,speed reduction ratio,減速比,,2012-11-26
+940834,spherical,球面的,,2012-11-26
+940835,spherical cam,球面凸輪,,2012-11-26
+940836,spherical coordinate robot,球面坐標機器人,,2012-11-26
+940837,spherical cycloid,球面擺線,,2012-11-26
+940838,spherical ellipse,球面橢圓,,2012-11-26
+940839,spherical epicycloid,球面外擺線,,2012-11-26
+940840,spherical four-bar,球面四連桿組,,2012-11-26
+940841,spherical four-bar linkage,球面四連桿組,,2012-11-26
+940842,spherical hypocycloid,球面內擺線,,2012-11-26
+940843,spherical involute,球面漸開線,,2012-11-26
+940844,spherical linkage,球面連桿組,,2012-11-26
+940845,spherical mechanism,球面機構,,2012-11-26
+940846,spherical motion,球面運動,,2012-11-26
+940847,spherical pair,球面〔運動〕對,,2012-11-26
+940848,spherical pendulum,球面擺,,2012-11-26
+940849,spherical velocity,球面速度,,2012-11-26
+940850,spin,自轉,,2012-11-26
+940851,spin friction,樞轉摩擦,,2012-11-26
+940852,spin motion,自旋運動,,2012-11-26
+940853,spindle,心軸，主軸,,2012-11-26
+940854,spiral,蝸線,,2012-11-26
+940855,spiral angle,蝸線角,,2012-11-26
+940856,spiral bevel gear,蝸線傘齒輪,,2012-11-26
+940857,spiral of Archimedes,Archimedes蝸線,,2012-11-26
+940858,spiral-bevel gear,蝸線傘齒輪,,2012-11-26
+940859,spiral-bevel gearing,蝸線傘齒輪傳動,,2012-11-26
+940860,spring,彈簧,,2012-11-26
+940861,spring constant,彈簧常數,,2012-11-26
+940862,springback,回彈,,2012-11-26
+940863,sprocket,鏈輪,,2012-11-26
+940864,sprocket tooth profile,鏈輪齒廓,,2012-11-26
+940865,sprocket wheel,鏈輪,,2012-11-26
+940866,spur gear,正齒輪,,2012-11-26
+940867,stability,穩定性,,2012-11-26
+940868,stable equilibrium,穩定平衡,,2012-11-26
+940869,staggered tooth,交錯齒,,2012-11-26
+940870,standard gear,標準齒輪,,2012-11-26
+940871,standing pulley,定滑輪,,2012-11-26
+940872,standing wave,駐波,,2012-11-26
+940873,starting regime of a machine,機器之起動階段,,2012-11-26
+940874,starting regime of machine,機器之啟動階段,,2012-11-26
+940875,static,靜態的,,2012-11-26
+940876,static balance,靜態均衡．靜 〔態〕 平衡,,2012-11-26
+940877,static balance of rotating body,旋轉體之靜態平衡,,2012-11-26
+940878,static error band,靜誤差帶,,2012-11-26
+940879,static friction,靜摩擦,,2012-11-26
+940880,static load,靜態負載,,2012-11-26
+940881,statically determinate system,靜定系統,,2012-11-26
+940882,statically indeterminate system,靜不定系統,,2012-11-26
+940883,statics,靜力學,,2012-11-26
+940884,stationary process,穩定程序,,2012-11-26
+940885,stationary value,平穩值,,2012-11-26
+940886,steady-state,穩態,,2012-11-26
+940887,steady-state error,穩態誤差,,2012-11-26
+940888,steady-state motion of a machine,機器之穩態運轉,,2012-11-26
+940889,steady-state vibration,穩態振動,,2012-11-26
+940890,step function,步階函數,,2012-11-26
+940891,step mechanism,間歇機構,,2012-11-26
+940892,step motion,間歇運動,,2012-11-26
+940893,stepped gear,階級齒輪,,2012-11-26
+940894,stepped pulley,塔輪,,2012-11-26
+940895,stiffness,剛性,,2012-11-26
+940896,stiffness [coefficient],剛性〔係數〕,,2012-11-26
+940897,stimulus,激勵,,2012-11-26
+940898,stochastic force,隨機力,,2012-11-26
+940899,stochastic process,隨機程序,,2012-11-26
+940900,stop,觸止,,2012-11-26
+940901,stopping regime of a machine,機器之停車階段,,2012-11-26
+940902,stopping regime of machine,機器之停車階段,,2012-11-26
+940903,straight bevel gear,直齒傘齒輪,,2012-11-26
+940905,straight line [motion] mechanism,直線運動機構,,2012-11-26
+940906,straight line motion,直線運動,,2012-11-26
+940907,strain,應變,,2012-11-26
+940908,strain energy,應變能,,2012-11-26
+940909,strength,強度,,2012-11-26
+940910,stress,應力,,2012-11-26
+940911,stretch and rotation,縮放與旋轉,,2012-11-26
+940912,string,弦,,2012-11-26
+940913,stroboscope,閃頻器,,2012-11-26
+940914,stroke,衝程，行程,,2012-11-26
+940915,structural analysis,構造分析,,2012-11-26
+940916,structural calculation,結構計算,,2012-11-26
+940917,structural design,結構設計,,2012-11-26
+940918,structural error,結構誤差,,2012-11-26
+940919,structural sketch,構造簡圖,,2012-11-26
+940920,structural synthesis,構造合成,,2012-11-26
+940921,structure,結構，構造,,2012-11-26
+940922,structure of a mechanism,機構之構造,,2012-11-26
+940923,structure of mechanism,機構之構造,,2012-11-26
+940924,strut,支柱，枝桿，抗壓構件,,2012-11-26
+940925,stub tooth,短齒,,2012-11-26
+940926,stub-link chain,柱圜鏈,,2012-11-26
+940927,stud gear,柱齒輪,,2012-11-26
+940928,stud link chain,柱環鏈,,2012-11-26
+940929,sub-assembly,次組合,,2012-11-26
+940930,subharmonic,次諧波,,2012-11-26
+940931,subharmonic response,次諧波響應,,2012-11-26
+940932,subharmonic-response,次諧波響應,,2012-11-26
+940933,substitution of pairs,運動對的置換,,2012-11-26
+940934,sun gear,太陽齒輪,,2012-11-26
+940935,superposition angle,疊加角,,2012-11-26
+940936,superposition principle,疊加原理,,2012-11-26
+940937,supplementary linkages,補連桿組（球面）,,2012-11-26
+940938,support,支座,,2012-11-26
+940939,surface contact,面接觸,,2012-11-26
+940940,surface force,表面力,,2012-11-26
+940941,swash plate,旋轉斜板,,2012-11-26
+940942,swinging block linkage,搖塊連桿組,,2012-11-26
+940943,swinging or rocking block linkage,搖塊連桿組,,2012-11-26
+940944,symmetrical coupler curve,對稱耦桿點曲線,,2012-11-26
+940945,synchronous vibration,同步振動,,2012-11-26
+940946,synthesis,合成,,2012-11-26
+940947,system,系統,,2012-11-26
+940948,system error,系統誤差,,2012-11-26
+940949,tactile sense,觸感（機器人）,,2012-11-26
+940950,tangent,切線，正切,,2012-11-26
+940951,tangent cam,切線凸輪,,2012-11-26
+940952,tangential acceleration,切線加速度,,2012-11-26
+940953,tangential circle,切線圓,,2012-11-26
+940954,tangential effort,切線效力,,2012-11-26
+940955,tangential reaction,切線反作用力,,2012-11-26
+940956,task coordinate system,工作坐標系,,2012-11-26
+940957,teach control,教導式控制,,2012-11-26
+940958,teach pendant,教導器,,2012-11-26
+940959,teach restrict,教導時之速限,,2012-11-26
+940960,teach-in programming,教導式規劃,,2012-11-26
+940961,teleoperator,遙控者,,2012-11-26
+940962,tendon,腱,,2012-11-26
+940963,tendon drive,腱驅動器,,2012-11-26
+940964,tensile force,拉力,,2012-11-26
+940965,tension,拉力，張力,,2012-11-26
+940967,tension centrifugal,離心張力,,2012-11-26
+940968,tension sheave,張力槽輪,,2012-11-26
+940970,ternary link,三接頭桿,,2012-11-26
+940971,theorem of three centros,三心定理,,2012-11-26
+940972,thick plate,厚板,,2012-11-26
+940973,thin plate,薄板,,2012-11-26
+940974,thread,螺紋,,2012-11-26
+940975,thread angle,螺紋角,,2012-11-26
+940976,three-point dwell,三點暫停,,2012-11-26
+940977,throat diameter,喉徑,,2012-11-26
+940978,tight side,緊邊,,2012-11-26
+940979,time,時間,,2012-11-26
+940980,time constant,時間常數,,2012-11-26
+940981,time history,時間函數,,2012-11-26
+940982,time ratio,時間比,,2012-11-26
+940983,time response,時間響應,,2012-11-26
+940984,timing belt,正時皮帶，時限皮帶，確動皮帶,,2012-11-26
+940985,timing chain,正時鏈條,,2012-11-26
+940986,toggle arrangement,肘節裝置,,2012-11-26
+940987,toggle clamp,肘節夾,,2012-11-26
+940988,toggle effect,肘節效應,,2012-11-26
+940989,toggle mechanism,肘節機構,,2012-11-26
+940990,toggle position,肘節位置,,2012-11-26
+940991,tooth face,齒面,,2012-11-26
+940992,tooth flank,齒腹,,2012-11-26
+940993,tooth profile,齒形,,2012-11-26
+940994,tooth space,齒間,,2012-11-26
+940995,tooth thickness,齒厚,,2012-11-26
+940996,top land,齒頂,,2012-11-26
+940997,topological structure,拓樸構造,,2012-11-26
+940998,torque,扭矩,,2012-11-26
+940999,torsion,1.扭轉；2.扭率,,2012-11-26
+941000,torsional moment,扭矩,,2012-11-26
+941001,torsional rigidity,抗扭剛度,,2012-11-26
+941002,torsional vibration,扭轉振動,,2012-11-26
+941003,total depth of tooth,齒的總深度,,2012-11-26
+941004,total lift,總升程,,2012-11-26
+941005,total slip,總滑脫,,2012-11-26
+941006,trace point,循跡點,,2012-11-26
+941007,trailing end,後端,,2012-11-26
+941008,train,輪系，系,,2012-11-26
+941009,train value,輪系值，系值,,2012-11-26
+941010,trajectory,軌跡,,2012-11-26
+941011,transducer,訊號轉換器,,2012-11-26
+941012,transfer function,轉移函數,,2012-11-26
+941013,transformation matrix,變換矩陣,,2012-11-26
+941014,transient error,暫態誤差,,2012-11-26
+941015,transient vibration,暫態振動,,2012-11-26
+941016,transition curve,過渡曲線，分界曲線,,2012-11-26
+941017,translation,平移,,2012-11-26
+941018,translation cam,平移凸輪,,2012-11-26
+941019,translation follower,平移式從動件,,2012-11-26
+941020,transmissibility,1.可傳動性；2.傳遞率,,2012-11-26
+941021,transmission,1.傳動；2.變速箱,,2012-11-26
+941022,transmission angle,傳動角，傳力角,,2012-11-26
+941023,transmission function,傳動函數,,2012-11-26
+941024,transmission index,傳動指數，傳力指數,,2012-11-26
+941025,transmission ratio,速比,,2012-11-26
+941026,transmittance,轉移函數,,2012-11-26
+941027,transportation,運動坐標之運動,,2012-11-26
+941028,transportation acceleration,運動坐標之點加速度,,2012-11-26
+941029,transportation force,慣性力,,2012-11-26
+941030,transportation velocity,運動坐標之點速度,,2012-11-26
+941031,transverse,橫向的,,2012-11-26
+941032,transverse circular pitch,橫周節,,2012-11-26
+941033,transverse component,橫〔向〕分量,,2012-11-26
+941034,transverse diametral pitch,橫徑節,,2012-11-26
+941035,transverse force,橫向力，剪力,,2012-11-26
+941036,transverse impact,橫向衝擊,,2012-11-26
+941037,transverse pressure angle,橫〔向〕壓力角,,2012-11-26
+941039,transverse vibration,橫向振動,,2012-11-26
+941040,transverse wave,橫〔向〕波,,2012-11-26
+941041,travel， total,總行程,,2012-11-26
+941042,tree,樹狀運動鏈,,2012-11-26
+941044,triangular cam,三角凸輪,,2012-11-26
+941045,triple rocker mechanism,三搖桿機構,,2012-11-26
+941046,trochoid,次擺線,,2012-11-26
+941047,true strain,真應變,,2012-11-26
+941048,truss,構架，桁架,,2012-11-26
+941049,tumblers,換向齒輪,,2012-11-26
+941050,turning block linkage,迴轉塊連桿組,,2012-11-26
+941051,turning pair,旋轉〔運動〕對,,2012-11-26
+941052,turret,轉塔,,2012-11-26
+941053,twist,扭轉,,2012-11-26
+941054,twisted spur gear,正扭齒輪,,2012-11-26
+941055,twisting moment,扭矩,,2012-11-26
+941056,twisting momentum,扭矩,,2012-11-26
+941057,type of contact,接觸方式,,2012-11-26
+941058,type of motion,運動方式,,2012-11-26
+941059,type synthesis,類型合成,,2012-11-26
+941060,ultimate strength,抗拉強度,,2012-11-26
+941061,ultraharmonic,超諧波,,2012-11-26
+941062,uncertainty configuration,不定構形,,2012-11-26
+941063,unconstrained kinematic chain,無拘束運動鏈,,2012-11-26
+941064,unconstrained mechanism,無拘束機構,,2012-11-26
+941065,uncoupled modes,非耦合模態,,2012-11-26
+941066,undercutting,過切,,2012-11-26
+941067,undershoot,不足，不足量,,2012-11-26
+941068,undulation point,起伏點,,2012-11-26
+941069,unicursal coupler curve,一段式耦桿點曲線,,2012-11-26
+941070,uniform load,均布負載,,2012-11-26
+941071,uniform motion,等速運動,,2012-11-26
+941072,uniformly distributed load,均布負載,,2012-11-26
+941073,unilateral constraint,單向拘束,,2012-11-26
+941074,unit vector,單位向量,,2012-11-26
+941075,universal coupling,萬向接頭,,2012-11-26
+941076,universal joint,萬向接頭，十字接頭,,2012-11-26
+941077,unstable equilibrium,不穩定平衡,,2012-11-26
+941078,upperarm,上臂,,2012-11-26
+941079,useful power,有效功率,,2012-11-26
+941080,V belt,三角皮帶,,2012-11-26
+941082,value,值,,2012-11-26
+941083,variable,1.變數；2.可變的,,2012-11-26
+941084,variable lead cylindrical cam,變導程圓柱凸輪,,2012-11-26
+941085,variable lead screw,變導程螺桿,,2012-11-26
+941086,variable speed cone,變速圓錐,,2012-11-26
+941087,variable speed V belt drive,變速三角皮帶傳動,,2012-11-26
+941088,variable-mass system,可變質量系統,,2012-11-26
+941089,vari-pitch sheave,可變節徑槽輪,,2012-11-26
+941090,vector,向量,,2012-11-26
+941091,vector field,向量場,,2012-11-26
+941092,vector function,向量函數,,2012-11-26
+941093,vector loop equation,向量迴路方程式,,2012-11-26
+941094,vector loop method,向量迴路法,,2012-11-26
+941095,vector method,向量法,,2012-11-26
+941096,vector quantity,向量,,2012-11-26
+941097,velocity,速度,,2012-11-26
+941098,velocity analysis,速度分析,,2012-11-26
+941099,velocity curve,速度曲線,,2012-11-26
+941100,velocity diagram,速度向量圖,,2012-11-26
+941101,velocity hodograph,速度端點曲線,,2012-11-26
+941102,velocity image,速度像,,2012-11-26
+941103,velocity matrix,速度矩陣,,2012-11-26
+941104,velocity pole,速度極心,,2012-11-26
+941105,velocity polygon,速度多邊形,,2012-11-26
+941106,velocity ratio,速比,,2012-11-26
+941107,velocity transducer,速度訊號轉換器,,2012-11-26
+941108,vernier,游標,,2012-11-26
+941109,vertex distance,圓錐頂距離,,2012-11-26
+941110,vibration,振動,,2012-11-26
+941111,virtual deformation,虛變形,,2012-11-26
+941112,virtual displacement,虛位移,,2012-11-26
+941113,virtual number of teeth,虛齒數,,2012-11-26
+941114,virtual reality,虛擬實境,,2012-11-26
+941115,virtual work,虛功,,2012-11-26
+941116,viscous damping,黏性阻尼,,2012-11-26
+941118,walking machine,步行機,,2012-11-26
+941119,wave,波,,2012-11-26
+941120,wave front,波前，波鋒,,2012-11-26
+941121,wavelength,波長,,2012-11-26
+941122,wedge,楔,,2012-11-26
+941123,wedge cam,楔形凸輪,,2012-11-26
+941124,wedge mechanism,全稜柱對機構,,2012-11-26
+941125,weight,重量,,2012-11-26
+941126,wheel,輪,,2012-11-26
+941127,whole depth,總齒深,,2012-11-26
+941128,wire rope,鋼索，綱絲繩,,2012-11-26
+941129,wobble-plate,搖晃板,,2012-11-26
+941130,work,功,,2012-11-26
+941131,work of deformation,變形功,,2012-11-26
+941132,working curve,工作曲線,,2012-11-26
+941133,working depth,工作齒深,,2012-11-26
+941134,working depth of tooth,齒的工作深度,,2012-11-26
+941135,working envelope,工作包絡面,,2012-11-26
+941136,working radius,工作半徑,,2012-11-26
+941137,working range,工作範圍（機器人）,,2012-11-26
+941138,working space,工作空間（機器人）,,2012-11-26
+941139,working volume,工作空間（機器人）,,2012-11-26
+941141,world coordinate system,大地坐標系統,,2012-11-26
+941142,worm gear,蝸桿,,2012-11-26
+941143,worm gearing,蝸輪傳動,,2012-11-26
+941144,worm wheel,蝸輪,,2012-11-26
+941145,wrench,1.螺旋力；2.扳手,,2012-11-26
+941146,wrist,腕,,2012-11-26
+941147,yoke cam,軛式凸輪,,2012-11-26
+941148,yoke follower,軛式從動件,,2012-11-26
+941149,Young's modulus,彈性模數,,2012-11-26
+941150,Young's modulus of elasticity,彈性模數,,2012-11-26
+941151,Zerol bevel gear,零蝸線角傘齒輪,,2012-11-26
+941152,zero-line stability,零線穩定性,,2012-11-26
